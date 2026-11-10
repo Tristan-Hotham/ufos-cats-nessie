@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>UFOs, big cats and Nessie | What explains where people see them?</title>
+<meta name="description" content="{{ufo.n_gb|int}} UK UFO reports, {{nessie.n_total|int}} Loch Ness sightings and the replies of {{bigcats.n_forces|int}} police forces about big cats, tested against people, skies, bases, seasons and the news.">
+<meta property="og:title" content="UFOs, big cats and Nessie">
+<meta property="og:description" content="UFO reports follow people, not skies or air bases. Nessie keeps tourist hours. Big cats live in police filing systems.">
+<meta property="og:image" content="https://maps.tristanhotham.com/ufos-cats-nessie/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/ufos-cats-nessie/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+{{CSS}}
+</style></head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">UFOs, big cats and Nessie</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24115202">Paper</a><a class="x" href="{{REPO}}">Data and code</a></nav>
+</div>
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of the United Kingdom with UFO reports, police force answers about big cats and Loch Ness sightings">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true">UFOs, big cats and Nessie ▾</button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>UFOs, big cats <span class="a">and Nessie</span></h1>
+        <p class="dek">Where people in the UK say they saw something strange, and what explains it. Violet dots: {{ufo.n_gb|int}} UFO reports by town. Shaded areas: what police forces said about big cat reports. Loch Ness: {{nessie.n_total|int}} sightings in the register, by year. Tap anything.</p>
+        <div class="byline">{{BYLINE}}</div>
+      </div>
+    </div>
+    <div class="ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a town, council or police force" aria-label="Find a town, council or police force" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips"><button class="chip" data-t="ufo" aria-pressed="true">UFOs</button><button class="chip" data-t="cat" aria-pressed="false">Big cats</button><button class="chip" data-t="nes" aria-pressed="true">Nessie</button><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <label><input type="checkbox" id="lyU" checked> UFO reports by town (dots)</label>
+      <label><input type="checkbox" id="lyR"> UFO reports per 100,000 people (councils)</label>
+      <label><input type="checkbox" id="lyA" checked> Military airfields and civil airports</label>
+      <label><input type="checkbox" id="lyF"> Big cats: police force answers</label>
+      <label><input type="checkbox" id="lyN" checked> Nessie: Loch Ness panel</label>
+      <label><input type="checkbox" id="lyL" checked> Base map labels</label>
+    </div>
+    <div class="keys" id="keys">
+      <b>Key</b>
+      <div class="row"><span class="dot" style="background:#5B3E9C"></span>UFO reports at a town (size: number)</div>
+      <div class="row"><span class="dot" style="background:#C07A12;border-radius:2px"></span>military airfield ({{ufo.n_mil|int}})</div>
+      <div class="row"><span class="dot" style="background:#fff;box-shadow:0 0 0 1.5px #262019"></span>civil airport ({{ufo.n_civil|int}})</div>
+      <div class="row" id="kc1" style="display:none"><span class="sw" style="background:#C07A12"></span>force released a list (darker: more per head)</div>
+      <div class="row" id="kc2" style="display:none"><span class="sw" style="background:#8C7B5A"></span>refused: too costly to search</div>
+      <div class="row" id="kc3" style="display:none"><span class="sw" style="background:#E9E1CE"></span>no count (no record, no reply, pointed elsewhere)</div>
+      <div class="row kx" style="color:#6E604E">UK only. NUFORC places are towns, not exact spots.</div>
+    </div>
+    <div class="inset" id="inset" aria-label="Loch Ness sightings">
+      <h3>Loch Ness: {{nessie.n_total|int}} sightings</h3><button class="x" id="insetX" aria-label="Close the Loch Ness panel">×</button>
+      <div id="lochmap"></div>
+      <div class="tlw"><svg id="spark" viewBox="0 0 300 58" preserveAspectRatio="none" aria-label="Sightings per year, 1900 to 2026"></svg>
+        <div class="tlrow"><input type="range" id="yr" min="1900" max="2026" value="1934" aria-label="Year"><span class="yr" id="yrlab"></span></div>
+        <div style="color:#6E604E;margin-top:3px">Dots: places named in sightings since 1986.</div></div>
+    </div>
+  </div>
+</div>
+<div class="wrap" id="essay">
+<p style="margin-top:6px">After the ghosts and the ley lines, the rest of the strange: lights in the sky, big black cats at the edge of a field, and a hump in Loch Ness. People report all three, and the reports have been collected. I wanted to know what explains where, and when, people see them. So I set each set of reports against the ordinary things that might explain it, wrote down the tests before running them, and ran them.</p>
+<div class="byline">{{BYLINE}} · Data: NUFORC (via planetsig/ufo-reports), the Official Loch Ness Monster Sightings Register, WhatDoTheyKnow, WorldPop, HadUK-Grid, OurAirports · Base map: OpenFreeMap Positron</div>
+<div class="stats">
+<div class="stat"><b>{{ufo.x.elast|f2}}</b><span>how UFO reports scale with population (1 = exactly in step)</span></div>
+<div class="stat"><b>{{ufo.point.med_rep|f0}} km</b><span>median distance from a report to a military airfield; {{ufo.point.med_rnd|f0}} km for people in general</span></div>
+<div class="stat"><b>{{nessie.x.aug_jan|f0}}x</b><span>Nessie sightings per day in August against January</span></div>
+<div class="stat"><b>{{bigcats.released|int}}/{{bigcats.n_forces|int}}</b><span>police forces that could list their big cat reports</span></div>
+</div>
+
+<h2><span class="n">01 · UFOs</span>Reports follow people</h2>
+<p>The US National UFO Reporting Center takes reports from anyone, anywhere, and a cleaned, geocoded copy of its records runs to {{ufo.n_all|int}} reports up to May 2014. {{ufo.n_gb|int}} of them come from the United Kingdom, placed at the town the witness named. I counted them by council (London's {{ufo.london_n|int}} reports count as one place, because most are pinned to a single London point) and asked what predicts how many each council has.</p>
+<p>Mostly, people. Councils with more people have more reports, and almost exactly in proportion: double the population and reports roughly double (the scaling is {{ufo.x.elast|f2}}, with a 95% interval of {{ufo.x.elast_lo|f2}} to {{ufo.x.elast_hi|f2}}).</p>
+<div class="figure"><img src="img/people.jpg" alt="Scatter chart of {{ufo.n_units|int}} councils on log scales: UFO reports rise in a straight line with population, with Greater London at the top right" loading="lazy"><p class="src">Each dot is a council.</p></div>
+<p>Then the usual suspects. If dark skies let people see more, darker councils should have more reports per head. If air bases or airports put more strange lights in the sky, councils near them should. If clear weather matters, sunnier councils should. None of these shows up. A council with skies one magnitude darker has {{ufo.x.sky_pc|abs1}}% fewer reports per head, an interval from {{ufo.x.sky_lo_pc|abs0}}% fewer to {{ufo.x.sky_hi_pc|f0}}% more. Being twice as far from a military airfield changes the rate by {{ufo.x.dmil_double_pc|f1}}% ({{ufo.x.dmil_double_lo|f0}}% to +{{ufo.x.dmil_double_hi|f0}}%). Airports and sunshine are just as flat.</p>
+<div class="figure"><img src="img/map.jpg" alt="Map of UK councils shaded by UFO reports per 100,000 people, with military airfields as triangles and civil airports as circles; no pattern around the airfields" loading="lazy"><p class="src">UFO reports per 100,000 people by council, with airfields.</p></div>
+<p>A check on the places themselves tells the same story. Half of the reports come from within {{ufo.point.med_rep|f0}} km of a military airfield; for {{ufo.point.n_random|int}} random points spread like the population it is {{ufo.point.med_rnd|f0}} km. And when I put the same number of pretend air bases at random spots on the map, 500 times over, the real airfields did no better than the fake ones: the real result sat in the middle of the fakes.</p>
+<div class="figure"><img src="img/checks.jpg" alt="Four dot and whisker panels: for darker skies, distance to a military airfield, distance to a civil airport and sunshine, every estimate under every check sits close to 1, meaning no difference" loading="lazy"><p class="src">Each row is a different way of running the model. 1 means no difference.</p></div>
+
+<h2><span class="n">02 · When</span>A peak in {{ufo.time.peak_year|raw}}</h2>
+<p>UK reports to the center climbed through the 2000s and peaked in {{ufo.time.peak_year|raw}}, with {{ufo.time.n_2009|int}} reports, then fell to {{ufo.time.n_2013|int}} by 2013. In {{ufo.fireball_2009|int}} of the {{ufo.time.peak_year|raw}} reports the shape was a fireball, against about {{ufo.fireball_share_pre2005|f0}}% before 2005. The National Archives' guide to the Ministry of Defence UFO files says many of the 2008 and 2009 reports to the ministry were Chinese lanterns.</p>
+<p>The Ministry of Defence closed its own UFO desk in December 2009. After that, UK reports to the US center fell much faster than American ones: about {{ufo.time.its_post_pc|abs0}}% lower than the trend of the 2000s. That fits people having fewer places to report to, or a fad passing. But I cannot separate the two, and the same model finds drops of its own in 2003 and 2004, when nothing happened to the desk. So I count this as a description, not a finding.</p>
+<div class="figure"><img src="img/years.jpg" alt="Bar chart of UK reports by year from 1990 to 2013, rising from a handful to {{ufo.time.n_2009|int}} in 2009 and falling to {{ufo.time.n_2013|int}} in 2013, with fireballs a bigger share in 2009 and 2010" loading="lazy"><p class="src">UK reports to NUFORC by year. 2014 is incomplete.</p></div>
+
+<h2><span class="n">03 · Nessie</span>Born in the newspapers, seen in the holidays</h2>
+<p>The Official Loch Ness Monster Sightings Register lists every reported sighting it knows of, from Saint Columba in 565 to 2026: {{nessie.site_count|int}} by its own count. Up to 1985 it reproduces the list in Henry Bauer's book <i>The Enigma of Loch Ness</i>, as scanned pages. I read the scans by machine and the later pages as text, and recovered {{nessie.n_total|int}} sightings, {{nessie.recovered_pc|f0}}% of the register's count.</p>
+<p>Before 1933 there are only a few a decade. In 1933 a new road had just been built along the loch and the Inverness Courier printed a story about a "monster"; that year has {{nessie.years.n_1933|int}} sightings, and 1934, the year of the famous "surgeon's photograph" (a hoax, confessed in the 1990s), has {{nessie.years.n_1934|int}}, the most of any year. Later publicity did nothing like it. Operation Deepscan swept the loch with sonar in 1987 and the Quest, the biggest search in fifty years, ran in 2023; neither year has more sightings than the five years before it.</p>
+<div class="figure"><img src="img/nessie_years.jpg" alt="Bar chart of Loch Ness sightings by year from 1900 to 2026: almost nothing before 1933, a spike of {{nessie.years.n_1933|int}} in 1933 and {{nessie.years.n_1934|int}} in 1934, then a steady 5 to 25 a year, with no rise in 1987 or 2023" loading="lazy"><p class="src">Sightings in the register by year.</p></div>
+<p>And Nessie keeps tourist hours. Per day, August has {{nessie.x.aug_jan|f0}} times as many sightings as January. Across the year, the number of sightings follows the length of the day closely (a rank correlation of {{nessie.month.all.rho_daylight|f2}}), and summer, June to August, holds {{nessie.month.all.summer_pc|f0}}% of all sightings with a known month. That is true of Bauer's old list and of the register since 1986. Where a place is named, {{nessie.x.places_castle_bay_pc|f0}}% of recent sightings are at Urquhart Castle or in Urquhart Bay, where the visitors stand.</p>
+<div class="figure"><img src="img/nessie_months.jpg" alt="Bar chart of sightings per day by month, highest in July and August and lowest in winter, with a line for hours of daylight that rises and falls with it" loading="lazy"><p class="src">Sightings per day of each month against hours of daylight at the loch.</p></div>
+
+<h2><span class="n">04 · Big cats</span>Big cats live in police filing systems</h2>
+<p>In 2019 someone asked every UK police force, through the Freedom of Information site WhatDoTheyKnow, for a list of all its "big cat" sightings since 2014. The answers are a study in themselves. {{bigcats.released|int}} of {{bigcats.n_forces|int}} forces released a list, {{bigcats.nil|int}} sent a nil return, {{bigcats.refused|int}} refused because searching would cost too much, and {{bigcats.not_held|int}} said they keep no such record. Surrey said a word search gave more than 2,000 incidents, North Wales 1,160 and South Wales 596; Dyfed-Powys said it would have to read 65,295 calls. Forces explained that word searches also catch Puma trainers, Ford Pumas and leopard print.</p>
+<p>The forces that did count found {{bigcats.records|int}} reports in about five years, from none in {{bigcats.nil|word}} forces to {{bigcats.herts_n|int}} in Hertfordshire. Per head, that is between nothing and {{bigcats.rate_max|f1}} reports a year per 100,000 people, highest in Hertfordshire, Suffolk and Norfolk. I had planned to test whether more rural forces get more reports per head. With all {{bigcats.main.n|int}} forces that gave a count, there is no clear pattern (a rank correlation with population density of {{bigcats.main.rho_density|f2}}). Leave out the {{bigcats.nil|word}} forces that found nothing, and denser forces do have fewer reports per head (a rank correlation of {{bigcats.no_nil.rho_density|f2}}), but with only {{bigcats.no_nil.n|int}} forces that is a weak pattern at best. So the answer depends on whether "nothing found" means no reports or a search that missed them, and each force searched in its own way, with its own list of words. The clearest pattern is in the filing, not the fields.</p>
+<div class="figure"><img src="img/bigcats.jpg" alt="Two charts: on the left, what {{bigcats.n_forces|int}} police forces answered, with {{bigcats.released|int}} releasing a list; on the right, reports a year per 100,000 people in the forces that counted, highest in Hertfordshire and Suffolk" loading="lazy"><p class="src">Replies to WhatDoTheyKnow batch request 666, 2019.</p></div>
+
+<h2><span class="n">05 · How I did this</span>Tests first, then data</h2>
+<p><b>UFOs.</b> The National UFO Reporting Center's records, as scrubbed and geocoded by the planetsig/ufo-reports project, with country "gb". I used the place and date of each report, never its text. Population and sky darkness by council come from my study <i>Darkest skies</i>, sunshine from the Met Office's HadUK-Grid averages, airfields from OurAirports. The model is a negative binomial count model with the nation as a control, its errors clustered by region, and I ran it {{ufo.x.n_robust|int}} other ways.</p>
+<p><b>Nessie.</b> The register's pages, and Bauer's list read from the scanned page images. Where the register gives a total for a year, I used it. No names or descriptions from the register are reproduced here.</p>
+<p><b>Big cats.</b> The replies in the WhatDoTheyKnow batch, with the spreadsheets and letters forces attached. I counted reports by year and kept no descriptions or places.</p>
+<p><b>What this cannot say.</b> These are reports, not events. NUFORC is an American site and a small, self-selected sample of UK reports. Bauer's list was itself compiled from books and newspapers, which is part of the point. Police records depend on how each force searches. None of this says whether anything was there; it says what makes people report it.</p>
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>UFO reports: National UFO Reporting Center (nuforc.org), scrubbed and geocoded by planetsig/ufo-reports on GitHub. Only dates, shapes, durations and town-level places are used; no report text.</li>
+<li>Loch Ness: the Official Loch Ness Monster Sightings Register (lochnesssightings.com), including H. H. Bauer's list from <i>The Enigma of Loch Ness</i> (University of Illinois Press, 1986). Counts only.</li>
+<li>Big cats: WhatDoTheyKnow (mySociety) batch request 666, "Big cat sightings", replies from UK police forces, 2019. Counts only.</li>
+<li>Population and sky brightness: WorldPop 2023 and VIIRS night lights via <i>Darkest skies</i> (Hotham 2026, doi:10.5281/zenodo.23757708). Sunshine: Met Office HadUK-Grid, Open Government Licence v3, via <i>Sun and rain</i> (Hotham 2026, doi:10.5281/zenodo.23732582). Airfields: OurAirports (public domain). Boundaries: Office for National Statistics, Open Government Licence v3.</li>
+<li>Base map: OpenFreeMap Positron style (OpenStreetMap, ODbL). MapLibre GL JS 4.7.1 (BSD 3-Clause).</li>
+<li>Text, figures and derived data CC BY 4.0; code MIT.</li>
+</ul></details>
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24115202">Read the paper</a><a href="{{REPO}}">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/ufos-cats-nessie/">Blog post</a></div>
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) UFOs, big cats and Nessie: what explains where people see them? Zenodo. <a href="https://doi.org/10.5281/zenodo.24115202">10.5281/zenodo.24115202</a></p>
+<p>Code: <a href="{{REPO}}">github.com/Tristan-Hotham/ufos-cats-nessie</a> (MIT). Text, figures and data CC BY 4.0.</p>
+<p>{{AI}}</p>
+</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/page.js?v={{VERSION}}"></script>
+{{FULLSCREEN}}
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>

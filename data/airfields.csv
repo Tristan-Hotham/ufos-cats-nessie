@@ -1,0 +1,350 @@
+ident,name,type,kind,lat,lon
+BE-0005,RAF Castle Camps,closed,military_closed,52.051389,0.378611
+EGAA,Belfast International Airport,large_airport,civil,54.6575012207,-6.21582984924
+EGAB,Enniskillen/St Angelo Airport,medium_airport,civil,54.398274,-7.651179
+EGAC,George Best Belfast City Airport,medium_airport,civil,54.618099,-5.8725
+EGAE,City of Derry Airport,medium_airport,civil,55.042801,-7.16111
+EGBB,Birmingham Airport,large_airport,civil,52.453899,-1.74803
+EGBJ,Gloucestershire Airport,medium_airport,civil,51.894199,-2.16722
+EGBN,Nottingham City Airport,medium_airport,civil,52.919998,-1.07917
+EGCC,Manchester Airport,large_airport,civil,53.349375,-2.279521
+EGDC,Royal Marines Base Chivenor,medium_airport,civil,51.0872,-4.15034
+EGDM,MoD Boscombe Down,medium_airport,civil,51.152199,-1.74741
+EGDP,RNAS Portland Heliport,heliport,military,50.5681,-2.44972
+EGDR,RNAS Culdrose,medium_airport,military,50.08610153198242,-5.255710124969482
+EGDW,RNAS Merryfield,small_airport,military,50.964283,-2.938443
+EGDX,MOD St Athan,medium_airport,military,51.405229,-3.433254
+EGDY,RNAS Yeovilton,medium_airport,military,51.009399,-2.63882
+EGEC,Campbeltown Airport,medium_airport,civil,55.437199,-5.68639
+EGED,Eday Airport,medium_airport,civil,59.19060134887695,-2.7722198963165283
+EGFE,Haverfordwest Airport,medium_airport,civil,51.833099365234375,-4.9611101150512695
+EGFF,Cardiff International Airport,large_airport,civil,51.396702,-3.34333
+EGFH,Swansea Airport,medium_airport,civil,51.601366,-4.071006
+EGGD,Bristol Airport,large_airport,civil,51.382326,-2.716453
+EGGP,Liverpool John Lennon Airport,large_airport,civil,53.334863,-2.849637
+EGGW,London Luton Airport,large_airport,civil,51.874699,-0.368333
+EGHH,Bournemouth Airport,medium_airport,civil,50.780483,-1.839576
+EGHI,Southampton Airport,medium_airport,civil,50.950298,-1.3568
+EGHL,Lasham Airfield,medium_airport,civil,51.18744,-1.031663
+EGHQ,Cornwall Airport Newquay,medium_airport,civil,50.440601,-4.99541
+EGKA,Brighton City Airport,medium_airport,civil,50.835602,-0.297222
+EGKB,London Biggin Hill Airport,medium_airport,civil,51.33079910279999,0.0324999988079
+EGKK,London Gatwick Airport,large_airport,civil,51.148744,-0.185739
+EGLC,London City Airport,medium_airport,civil,51.505299,0.055278
+EGLF,Farnborough Airport,medium_airport,civil,51.275799,-0.776333
+EGLK,Blackbushe Airport,medium_airport,civil,51.323898,-0.8475
+EGLL,London Heathrow Airport,large_airport,civil,51.470748,-0.459909
+EGMC,London Southend Airport,medium_airport,civil,51.570562,0.693627
+EGMD,Lydd London Ashford Airport,medium_airport,civil,50.956246,0.939074
+EGNC,Carlisle Lake District Airport,medium_airport,civil,54.9375,-2.80917
+EGNH,Blackpool Airport,medium_airport,civil,53.771702,-3.02861
+EGNJ,Humberside Airport,medium_airport,civil,53.576152,-0.34954
+EGNL,Barrow Walney Island Airport,medium_airport,civil,54.1286111,-3.2675
+EGNM,Leeds Bradford Airport,large_airport,civil,53.865898,-1.66057
+EGNO,Warton Aerodrome,medium_airport,civil,53.745098,-2.88306
+EGNR,Hawarden Airport,medium_airport,civil,53.178101,-2.97778
+EGNT,Newcastle International Airport,large_airport,civil,55.037958,-1.689577
+EGNV,Teesside International Airport,medium_airport,civil,54.509201,-1.42941
+EGNX,East Midlands Airport,large_airport,civil,52.8311,-1.32806
+EGOM,RAF Spadeadam,medium_airport,military,55.0499992371,-2.54999995232
+EGOQ,RAF Mona,small_airport,military,53.258598,-4.37355
+EGOS,RAF Shawbury,medium_airport,military,52.798199,-2.66804
+EGOV,Anglesey Airport,medium_airport,civil,53.2481,-4.53534
+EGOW,RAF Woodvale,small_airport,military,53.5816,-3.05552
+EGPA,Kirkwall Airport,medium_airport,civil,58.957903,-2.905077
+EGPB,Sumburgh Airport,medium_airport,civil,59.878899,-1.29556
+EGPC,Wick John O'Groats Airport,medium_airport,civil,58.4589,-3.09306
+EGPD,Aberdeen International Airport,large_airport,civil,57.2019,-2.19778
+EGPE,Inverness Airport,medium_airport,civil,57.5425,-4.0475
+EGPF,Glasgow Airport,large_airport,civil,55.871899,-4.43306
+EGPH,Edinburgh Airport,large_airport,civil,55.950145,-3.372288
+EGPI,Islay Airport,medium_airport,civil,55.682708,-6.257525
+EGPK,Glasgow Prestwick Airport,large_airport,civil,55.501499,-4.577182
+EGPL,Benbecula Airport,medium_airport,civil,57.481098,-7.36278
+EGPN,Dundee Airport,medium_airport,civil,56.452499,-3.02583
+EGPO,Stornoway Airport,medium_airport,civil,58.215599,-6.33111
+EGPR,Barra Airport,medium_airport,civil,57.0228,-7.44306
+EGPU,Tiree Airport,medium_airport,civil,56.499199,-6.86917
+EGQL,Leuchars Station Airfield,medium_airport,civil,56.37398,-2.868862
+EGQS,RAF Lossiemouth,medium_airport,military,57.7052,-3.33917
+EGSC,Cambridge City Airport,medium_airport,civil,52.205002,0.175
+EGSH,Norwich Airport,medium_airport,civil,52.6758,1.28278
+EGSS,London Stansted Airport,large_airport,civil,51.884998,0.235
+EGTC,Cranfield Airport,medium_airport,civil,52.072201,-0.616667
+EGTE,Exeter International Airport,medium_airport,civil,50.734261,-3.413984
+EGTK,London Oxford Airport,medium_airport,civil,51.836899,-1.32
+EGUB,RAF Benson,medium_airport,military,51.614366,-1.095991
+EGUD,RAF Abingdon,small_airport,military,51.690614,-1.316568
+EGUH,RAF High Wycombe,heliport,military,51.682508,-0.803265
+EGUL,RAF Lakenheath,medium_airport,usaf,52.40954,0.561161
+EGUN,RAF Mildenhall,medium_airport,usaf,52.3619,0.486406
+EGUW,Wattisham Airfield,medium_airport,civil,52.127451,0.956189
+EGVA,RAF Fairford,medium_airport,usaf,51.683568,-1.789172
+EGVL,RAF Little Rissington,small_airport,military,51.866475,-1.694984
+EGVN,RAF Brize Norton,medium_airport,military,51.75,-1.58362
+EGVO,RAF Odiham,medium_airport,military,51.2341,-0.942825
+EGWC,RAF Cosford,medium_airport,military,52.640524,-2.305326
+EGWE,RAF Henlow,small_airport,military,52.0182,-0.30385
+EGWN,RAF Halton,small_airport,military,51.790699,-0.737972
+EGWU,RAF Northolt,medium_airport,military,51.553001,-0.418167
+EGXC,RAF Coningsby,medium_airport,military,53.092999,-0.166014
+EGXE,RAF Leeming,medium_airport,military,54.297191,-1.538944
+EGXG,Leeds East Airport,medium_airport,civil,53.834747,-1.194678
+EGXH,RAF Honington,medium_airport,military,52.342602,0.772939
+EGXT,RAF Wittering,medium_airport,military,52.612598,-0.476453
+EGXW,RAF Waddington,medium_airport,military,53.166199,-0.523811
+EGXY,RAF Syerston,small_airport,military,53.0228,-0.911111
+EGXZ,RAF Topcliffe,medium_airport,military,54.204116,-1.380265
+EGYD,RAF Cranwell,medium_airport,military,53.027308,-0.493104
+EGYE,RAF Barkston Heath,medium_airport,military,52.960616,-0.559428
+EGYM,RAF Marham,medium_airport,military,52.648395,0.550692
+GB-0001,RAF Barford St John,closed,military_closed,52.004799,-1.35754
+GB-0004,RAF Molesworth,heliport,usaf,52.386867,-0.425613
+GB-0020,RAF St Davids,closed,military_closed,51.886134,-5.216221
+GB-0021,RAF Catterick,closed,military_closed,54.366508,-1.61808
+GB-0041,RAF Boulmer,heliport,military,55.420321,-1.599736
+GB-0043,RAF Dallachy Air Base,closed,military_closed,57.656957,-3.065902
+GB-0074,RAF Bottesford,closed,military_closed,52.963904,-0.779926
+GB-0080,RNAS Arbroath / HMS Condor / RM Condor Air Base,closed,military_closed,56.580867,-2.615187
+GB-0081,RAF Nutts Corner / Belfast-Nutts Corner Airport,closed,military_closed,54.630282,-6.154575
+GB-0082,RAF Methwold / Waylands Airfield,closed,military_closed,52.511938,0.548801
+GB-0083,RNAS/RAF Donibristle / HMS Merlin,closed,military_closed,56.034171,-3.353662
+GB-0085,RAF Hixon,closed,military_closed,52.83741,-2.008524
+GB-0086,RAF Abbots Bromley,closed,military_closed,52.826971,-1.892395
+GB-0087,RAF Acaster Malbis,closed,military_closed,53.879807,-1.119833
+GB-0089,RAF Akeman Street,closed,military_closed,51.823889,-1.515556
+GB-0090,RAF Aldermaston,closed,military_closed,51.370253,-1.141376
+GB-0092,RAF Alness / RAF Invergordon,closed,military_closed,57.68202,-4.260309
+GB-0094,RAF Andrews Field / RAF Great Saling,closed,military_closed,51.8975,0.460278
+GB-0095,RAF Ansty,closed,military_closed,52.429167,-1.408611
+GB-0098,RAF Appledram,closed,military_closed,50.809189,-0.807495
+GB-0099,RAF Ashbourne,closed,military_closed,53.006944,-1.706944
+GB-0100,RAF Ashford,closed,military_closed,51.125636,0.818719
+GB-0101,RAF Atcham,closed,military_closed,52.689291,-2.635489
+GB-0102,RAF Atherstone,closed,military_closed,52.161642,-1.686754
+GB-0103,RAF Attlebridge,closed,military_closed,52.692434,1.112795
+GB-0104,RAF Babdown Farm,closed,military_closed,51.644309,-2.223701
+GB-0105,RAF Bacton,closed,military_closed,52.838,1.479
+GB-0106,RAF Balado Bridge,closed,military_closed,56.213175,-3.459569
+GB-0107,RAF Balderton,closed,military_closed,53.036389,-0.785833
+GB-0108,RAF Ballyhalbert,closed,military_closed,54.496764,-5.478058
+GB-0109,RAF Banff,closed,military_closed,57.66629,-2.640668
+GB-0110,RAF Bardney,closed,military_closed,53.226511,-0.292578
+GB-0111,RAF Barton Bendish,closed,military_closed,52.61,0.54
+GB-0113,RAF Bircotes,closed,military_closed,53.433827,-1.037521
+GB-0114,RAF Beaulieu,closed,military_closed,50.806212,-1.503659
+GB-0115,RAF Bekesbourne,closed,military_closed,51.252397,1.160015
+GB-0116,RAF Bempton,closed,military_closed,54.1499,-0.1778
+GB-0117,RAF Bibury,closed,military_closed,51.781389,-1.836111
+GB-0118,RAF Birch,closed,military_closed,51.8425,0.780556
+GB-0119,RAF Bircham Newton,closed,military_closed,52.875,0.657
+GB-0120,RAF Bishopscourt,closed,military_closed,54.30741,-5.575476
+GB-0121,RAF Bisterne,closed,military_closed,50.818333,-1.780556
+GB-0122,RAF Bitteswell,closed,military_closed,52.459444,-1.246111
+GB-0123,RAF Blakehill Farm,closed,military_closed,51.622226,-1.889219
+GB-0124,RAF Blyton,closed,military_closed,53.451448,-0.693979
+GB-0125,RAF Bodney,closed,military_closed,52.561638,0.714712
+GB-0126,RAF Bognor,closed,military_closed,50.796205,-0.702928
+GB-0128,RAF Bottisham,closed,military_closed,52.2138,0.2571
+GB-0130,RAF Bovingdon,closed,military_closed,51.726804,-0.545883
+GB-0131,RAF Boxted,closed,military_closed,51.934933,0.93071
+GB-0132,RAF Bracebridge Heath,closed,military_closed,53.19244,-0.523584
+GB-0133,RAF Bradwell Bay,closed,military_closed,51.735741,0.900936
+GB-0134,RAF Bramcote / HMS Gamecock,closed,military_closed,52.489722,-1.399167
+GB-0135,RAF Bratton,closed,military_closed,52.730919,-2.540863
+GB-0136,RAF Talbenny,closed,military_closed,51.758239,-5.141378
+GB-0137,RAF Breighton,closed,military_closed,53.806429,-0.907574
+GB-0138,RAF Brenzett,closed,military_closed,51.014444,0.879167
+GB-0139,RAF Broadwell,closed,military_closed,51.757368,-1.639634
+GB-0141,RAF Buckminster,closed,military_closed,52.801834,-0.67396
+GB-0142,RAF North Witham,closed,military_closed,52.79368,-0.598154
+GB-0143,RAF Bungay / RAF Flixton,closed,military_closed,52.43006,1.418352
+GB-0144,RAF Burgh Castle,closed,military_closed,52.584806,1.668789
+GB-0145,RAF Burtonwood,closed,military_closed,53.410415,-2.654348
+GB-0147,RAF Caistor,closed,military_closed,53.502778,-0.363889
+GB-0148,RAF Chilbolton,closed,military_closed,51.140518,-1.437989
+GB-0149,RAF Charmy Down,closed,military_closed,51.428797,-2.343407
+GB-0152,RAF Mullaghmore,closed,military_closed,55.034,-6.5987
+GB-0155,RAF Maghaberry,closed,military_closed,54.5156,-6.1783
+GB-0158,RAF North Luffenham,closed,military_closed,52.632253,-0.611238
+GB-0159,RAF Millom,closed,military_closed,54.200748,-3.324995
+GB-0160,RAF Great Orton,closed,military_closed,54.874393,-3.075753
+GB-0161,Royal Naval Air Station Anthorn,closed,military_closed,54.91148,-3.279946
+GB-0162,RAF Wath Head,closed,military_closed,54.82321,-3.09613
+GB-0163,RAF Hutton in the Forest,closed,military_closed,54.731525,-2.883456
+GB-0164,RAF Brayton Park,closed,military_closed,54.773889,-3.301111
+GB-0165,RAF Hornby Hall,closed,military_closed,54.659023,-2.652931
+GB-0167,RAF Longtown,closed,military_closed,55.006064,-2.92078
+GB-0170,RAF Burnfoot,closed,military_closed,54.987097,-2.984363
+GB-0173,RAF Llandow,closed,military_closed,51.43523,-3.49816
+GB-0244,RAF Cammeringham / RAF Ingham,closed,military_closed,53.340841,-0.548759
+GB-0299,RAF Winfield,closed,military_closed,55.7496625,-2.1643404
+GB-0307,RAF Spitalgate,closed,military_closed,52.900933,-0.598348
+GB-0312,RNAS Stretton,closed,military_closed,53.34524,-2.522535
+GB-0313,RAF Lichfield,closed,military_closed,52.716804,-1.784323
+GB-0315,RAF Kirknewton,small_airport,military,55.876667,-3.399444
+GB-0386,RAF Ouston,closed,military_closed,55.024104,-1.874625
+GB-0414,RAF Weston-on-the-Green,small_airport,military,51.878712,-1.218775
+GB-0415,RAF Keevil,small_airport,military,51.3129023,-2.111585
+GB-0451,RAF Eastchurch Airfield,closed,military_closed,51.403,0.845842
+GB-0458,RAF Stoney Cross Air Base,closed,military_closed,50.9117206,-1.6548675
+GB-0463,RAF Davidstow Moor,small_airport,military,50.6363,-4.6134
+GB-0510,RAF Doncaster,closed,military_closed,53.513889,-1.11
+GB-0511,RNAS Ford,closed,military_closed,50.8171,-0.59044
+GB-0516,RNAS St. Merryn,closed,military_closed,50.503964,-4.979277
+GB-0519,RAF Faldingworth,closed,military_closed,53.354588,-0.449772
+GB-0534,RAF Chedworth,closed,military_closed,51.816247,-1.940728
+GB-0563,RAF Watton,closed,military_closed,52.562189,0.865384
+GB-0566,RAF North Killingholme,closed,military_closed,53.636089,-0.291481
+GB-0567,RAF Stanton Harcourt Air Base,closed,military_closed,51.7462103,-1.4014872
+GB-0568,RAF Desborough,closed,military_closed,52.467411,-0.800629
+GB-0571,RAF Poulton,closed,military_closed,53.129618,-2.892399
+GB-0573,RAF Skaebrae Air Base,closed,military_closed,59.063901,-3.269179
+GB-0574,RNAS HMS Tern Air Base,closed,military_closed,59.0887808,-3.2846396
+GB-0575,RAF Errol,closed,military_closed,56.403486,-3.185044
+GB-0578,RAF East Moor Air Base,closed,military_closed,54.0695132,-1.0830345
+GB-0579,RNAS Dale Air Base,closed,military_closed,51.714807,-5.194209
+GB-0583,RAF Croft,closed,military_closed,54.45547,-1.558772
+GB-0588,RAF Warboys,closed,military_closed,52.395349,-0.096993
+GB-0590,RAF Woolfox Lodge,closed,military_closed,52.707647,-0.577297
+GB-0603,RAF Upottery,closed,military_closed,50.885745,-3.160606
+GB-0604,RAF Tuddenham,closed,military_closed,52.317637,0.573844
+GB-0607,RAF Tholthorpe,closed,military_closed,54.105959,-1.264926
+GB-0608,RAF Templeton,closed,military_closed,51.7648,-4.754015
+GB-0610,RAF Stradishall,closed,military_closed,52.130551,0.520487
+GB-0612,RAF Thorpe Abbotts,closed,military_closed,52.383357,1.211918
+GB-0640,RAF Portreath,closed,military_closed,50.271389,-5.263333
+GB-0641,RAF St Eval,closed,military_closed,50.47822,-4.99953
+GB-0643,RAF Winkleigh,closed,military_closed,50.868134,-3.960743
+GB-0646,RAF Culmhead,closed,military_closed,50.930143,-3.128958
+GB-0650,RAF Holmsley South,closed,military_closed,50.788211,-1.701302
+GB-0655,RAF Oulton Air Base,closed,military_closed,52.798818,1.181889
+GB-0656,RAF Ossington,closed,military_closed,53.176868,-0.885138
+GB-0657,RAF Wing,closed,military_closed,51.903056,-0.748333
+GB-0659,RAF North Pickenham,closed,military_closed,52.627378,0.732724
+GB-0664,RAF Montford Bridge,closed,military_closed,52.748477,-2.843399
+GB-0673,RAF Down Ampney,closed,military_closed,51.666944,-1.839444
+GB-0675,RAF Moreton in Marsh,closed,military_closed,51.995,-1.68
+GB-0676,RAF Leiston,closed,military_closed,52.223329,1.55631
+GB-0677,RAF Halesworth,closed,military_closed,52.364097,1.531005
+GB-0882,RNAS Crail,closed,military_closed,56.268619,-2.606592
+GB-1021,RAF Tain,closed,military_closed,57.8115,-3.97394
+GB-1034,Montrose Air Station,closed,military_closed,56.72925,-2.45244
+GB-1045,RAF Chipping Norton,closed,military_closed,51.923976,-1.532249
+GB-1048,RNAS Caldale,closed,military_closed,58.978,-3.02
+GB-1088,RAF Framlingham / Parham Airfield,closed,military_closed,52.19644,1.40837
+GB-1089,RAF Kingsnorth,closed,military_closed,51.10452,0.88974
+GB-1090,RAF Woodchurch,closed,military_closed,51.09303,0.78087
+GB-1095,RAF Westcott,closed,military_closed,51.846781,-0.970745
+GB-1096,RAF Millisle,closed,military_closed,54.610591,-5.584724
+GB-1097,RAF Cheadle,closed,military_closed,53.391312,-2.212458
+GB-1104,RAF Watchfield,closed,military_closed,51.620556,-1.647778
+GB-1105,RAF Deopham Green,closed,military_closed,52.55105,0.99155
+GB-1106,RAF Fersfield,closed,military_closed,52.42435,1.05734
+GB-1107,RAF Shepherds Grove,closed,military_closed,52.31549,0.91946
+GB-1108,RAF Snetterton Health,closed,military_closed,52.46719,0.9506
+GB-1109,RAF Eye,closed,military_closed,52.33297,1.12965
+GB-1110,RAF Debden,closed,military_closed,51.99196,0.27474
+GB-1111,RAF Wratting,closed,military_closed,52.12507,0.40149
+GB-1112,RAF Chedburgh,closed,military_closed,52.18188,0.61813
+GB-1113,RAF Sudbury,closed,military_closed,52.05765,0.76262
+GB-1114,RAF Lavenham / Alpheton,closed,military_closed,52.1364,0.76967
+GB-1115,RAF Gosfield,closed,military_closed,51.9473,0.58317
+GB-1116,RAF Great Dunmow,closed,military_closed,51.88417,0.31178
+GB-1117,RAF Boreham,closed,military_closed,51.78116,0.52287
+GB-1118,RAF Hornchurch,closed,military_closed,51.53637,0.20739
+GB-1119,RAF Matching,closed,military_closed,51.78219,0.24013
+GB-1120,RAF Sawbridgeworth,closed,military_closed,51.84029,0.12352
+GB-1122,RAF Metfield,closed,military_closed,52.36586,1.39126
+GB-1123,RAF Lydd,closed,military_closed,50.97182,0.86984
+GB-1124,RAF Detling,closed,military_closed,51.30737,0.59878
+GB-1125,RAF Friston,closed,military_closed,50.76222,0.16862
+GB-1126,RAF Hawkinge,closed,military_closed,51.11111,1.15306
+GB-1127,RAF Martlesham Heath,closed,military_closed,52.0592,1.26736
+GB-1130,RAF Downham Market / Bexwell Aerodrome,closed,military_closed,52.61093,0.40522
+GB-1132,RAF Sutton Bridge,closed,military_closed,52.75221,0.19267
+GB-1135,RAF Fylingdales,heliport,military,54.35605,-0.667702
+GB-1144,RAF Welford,closed,military_closed,51.46666,-1.39591
+GB-1159,RAF Thornaby,closed,military_closed,54.5317,-1.30387
+GB-1161,RAF Market Harborough,closed,military_closed,52.49207,-0.95781
+GB-1162,RAF Dunholme Lodge,closed,military_closed,53.29146,-0.50069
+GB-1164,RAF Melton Mowbray,closed,military_closed,52.73293,-0.88609
+GB-1166,RAF Spilsby,closed,military_closed,53.16465,0.16263
+GB-1167,RAF Little Horwood,closed,military_closed,51.96108,-0.86623
+GB-1173,RAF Warmwell,closed,military_closed,50.69519,-2.35061
+GB-1176,RAF Stoke Hammond,closed,military_closed,51.95091,0.73966
+GB-1178,RAF Folkingham,closed,military_closed,52.86158,-0.44023
+GB-1179,RAF Holbeach,closed,military_closed,52.85245,0.16434
+GB-1180,RAF Freiston,closed,military_closed,52.94489,0.06399
+GB-1181,RAF Harlaxton,closed,military_closed,52.87738,-0.66145
+GB-1182,RAF Church Lawford,closed,military_closed,52.35489,-1.3442
+GB-1183,RAF Rednal,closed,military_closed,52.84196,-2.93236
+GB-1184,RAF Seighford,closed,military_closed,52.82498,-2.20133
+GB-1185,RAF Kelstern,closed,military_closed,53.41003,-0.10296
+GB-1186,RAF Metheringham,closed,military_closed,53.13501,-0.34944
+GB-1187,RAF Bridleway Gate,closed,military_closed,52.83098,-2.68707
+GB-1188,RAF Chetwynd,closed,military_closed,52.81081,-2.4028
+GB-1192,RAF Goxhill,closed,military_closed,53.67986,-0.31585
+GB-1193,RAF Winthorpe,closed,military_closed,53.09795,-0.77134
+GB-1194,RAF Fulbeck,closed,military_closed,53.04952,-0.65842
+GB-1195,RAF Wigsley,closed,military_closed,53.2149,-0.72863
+GB-1196,RAF Harrington,closed,military_closed,52.39319,-0.86157
+GB-1197,RAF Driffield,closed,military_closed,53.99465,-0.48227
+GB-1198,RAF Clyffe Pypard,closed,military_closed,51.480556,-1.8975
+GB-1204,RAF Clifton,closed,military_closed,53.99084,-1.108
+GB-1205,RAF Tadcaster / Bramham Moor Aerodrome,closed,military_closed,53.86244,-1.32629
+GB-1206,RAF Holmpton,closed,military_closed,53.68209,0.07216
+GB-1207,RAF Riccall,closed,military_closed,53.82288,-1.03146
+GB-1208,RAF Firbeck,closed,military_closed,53.39174,-1.1632
+GB-1210,RNAS Pembroke/RNAS Milton/RAF Carew Cheriton,closed,military_closed,51.690117,-4.812355
+GB-1213,RAF Lyneham,closed,military_closed,51.507485,-1.991511
+GB-1218,RAF Kinloss,closed,military_closed,57.649399,-3.56064
+GB-1221,RAF Colerne,closed,military_closed,51.441283,-2.283402
+GB-1222,RAF Wyton,small_airport,military,52.357117,-0.107787
+GB-1224,RAF Cottesmore,closed,military_closed,52.731772,-0.654545
+GB-1225,RAF Scampton,closed,military_closed,53.3078,-0.550833
+GB-1226,RAF Linton-on-Ouse,closed,military_closed,54.047749,-1.256819
+GB-1227,RNAS Fearn Air Base,closed,military_closed,57.757594,-3.948184
+GB-1228,Langford Lodge Air Base,closed,military_closed,54.62310028,-6.30000019
+GB-1231,RAF Thorne,closed,military_closed,53.6222,-0.928056
+GB-1235,RAF West Freugh,closed,military_closed,54.8511,-4.94778
+GB-1237,RAF Ballykelly,closed,military_closed,55.060299,-7.02028
+GB-1239,RAF Hethel,closed,military_closed,52.562801361084,1.173329949379
+GB-1242,RAF Newton,closed,military_closed,52.966400146484,-0.98944401741028
+GB-1243,RAF Leconfield,closed,military_closed,53.875801,-0.435
+GB-1244,RAF Coltishall,closed,military_closed,52.7547,1.35722
+GB-1245,RAF Alconbury,closed,usaf,52.3744010925,-0.219722002745
+GB-1246,RAF Bentwaters,closed,military_closed,52.127499,1.43472
+GB-1249,RAF Sculthorpe,closed,military_closed,52.846699,0.766389
+GB-1250,RAF Swinderby,closed,military_closed,53.147532,-0.682691
+GB-1251,RAF Upper Heyford,closed,military_closed,51.9375,-1.2488900423
+GB-1253,RAF Lindholme,closed,military_closed,53.549999,-0.967
+GB-1254,RAF Binbrook,closed,military_closed,53.446701,-0.21
+GB-1255,RAF Brawdy,closed,military_closed,51.88375,-5.119972
+GB-1256,RAF Castletown,closed,military_closed,58.5847198881,-3.34816932678
+GB-1257,RAF Castle Combe,closed,military_closed,51.489722,-2.2125
+GB-1258,RNAS/RAF Calshot,closed,military_closed,50.819913,-1.306772
+GB-1259,RAF Manby,closed,military_closed,53.358715,0.082845
+GB-1260,RAF Wrexham,closed,military_closed,53.0666666667,-2.95027777778
+GB-1261,RAF Calveley,closed,military_closed,53.113333,-2.603889
+GB-1262,RAF Waterbeach,closed,military_closed,52.281742,0.184532
+GB-1263,RAF Tangmere,closed,military_closed,50.847175,-0.703011
+GB-1264,RAF Thorney Island,closed,military_closed,50.816048,-0.920034
+GB-1265,RAF Greenham Common,closed,military_closed,51.379,-1.281
+GB-1266,RAF Lympne / Lympne Airport,closed,military_closed,51.079991,1.016622
+GB-1267,RAF West Malling,closed,military_closed,51.27,0.4
+GB-1272,Wethersfield Air Base,small_airport,military,51.971901,0.509444
+GB-1325,RNAS Windermere,closed,military_closed,54.360865,-2.929073
+GB-1328,RNAS Inskip (HMS Nightjar),closed,military_closed,53.827559,-2.836441
+GB-1332,RAF Hemswell,closed,military_closed,53.408278,-0.590458
+GB-1334,RAF Long Kesh,closed,military_closed,54.490669,-6.103835
+GB-1337,RAF Woodhall Spa,closed,military_closed,53.131667,-0.18444
+GB-1354,RNAS East Haven,closed,military_closed,56.528333,-2.656389
+GB-1355,RAF Brackla,closed,military_closed,57.540555,-3.913056
+GB-1364,RNAS Culham,closed,military_closed,51.659655,-1.225958
+US-0214,RAF Castle Archdale/RAF Lough Erne,closed,military_closed,54.4806105242,-7.72707939148
+US-0216,RAF Carnaby,closed,military_closed,54.060833,-0.261667
+US-0218,RAF Catfoss,closed,military_closed,53.9199600906,-0.276460647583
+US-0219,RNAS Cattewater/RAF Cattewater/RAF Mount Batten,closed,military_closed,50.358889,-4.13
+US-0221,RAF Cardington,closed,military_closed,52.108922,-0.422499
+US-0222,RAF Chailey,closed,military_closed,50.95521,-0.055876

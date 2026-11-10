@@ -1,0 +1,360 @@
+lad,lad_name,county,nation,region,force,pop,sky,area_km2,sun,unit,unit_name,unit_force
+S12000013,Na h-Eileanan Siar,Na h-Eileanan Siar,Scotland,Scotland,Police Scotland,25070.5762,21.9758,3093.1381835855523,1165.5492211838007,S12000013,Na h-Eileanan Siar,Police Scotland
+E06000053,Isles of Scilly,Cornwall,England,South West,Devon and Cornwall,1979.896,21.9748,16.346847979588475,1797.9,E06000053,Isles of Scilly,Devon and Cornwall
+S12000017,Highland,Highland,Scotland,Scotland,Police Scotland,234084.2344,21.9236,26157.35751092134,1077.4675517048631,S12000017,Highland,Police Scotland
+S12000023,Orkney Islands,Orkney Islands,Scotland,Scotland,Police Scotland,21967.0547,21.9031,1015.5572586205221,1210.1113569321533,S12000023,Orkney Islands,Police Scotland
+S12000027,Shetland Islands,Shetland Islands,Scotland,Scotland,Police Scotland,21952.2266,21.8594,1467.3318334914525,1093.9603159851301,S12000027,Shetland Islands,Police Scotland
+S12000035,Argyll and Bute,Argyll and Bute,Scotland,Scotland,Police Scotland,79473.3516,21.821,7004.483843083633,1205.8056307793925,S12000035,Argyll and Bute,Police Scotland
+E07000046,Torridge,Devon,England,South West,Devon and Cornwall,68964.3906,21.6959,985.294652042339,1578.7250287026404,E07000046,Torridge,Devon and Cornwall
+S12000048,Perth and Kinross,Perth and Kinross,Scotland,Scotland,Police Scotland,156674.7188,21.69,5383.570874344988,1201.4237027427723,S12000048,Perth and Kinross,Police Scotland
+W06000008,Ceredigion,Dyfed,Wales,Wales,Dyfed-Powys,65326.6211,21.6554,1788.3419505240583,1399.7129818594105,W06000008,Ceredigion,Dyfed-Powys
+S12000020,Moray,Moray,Scotland,Scotland,Police Scotland,95548.6953,21.6486,2237.71978866219,1263.233216783217,S12000020,Moray,Police Scotland
+S12000006,Dumfries and Galloway,Dumfries and Galloway,Scotland,Scotland,Police Scotland,142740.2812,21.6418,6436.291707644076,1267.1433935361217,S12000006,Dumfries and Galloway,Police Scotland
+E07000047,West Devon,Devon,England,South West,Devon and Cornwall,62153.1641,21.6185,1161.0940055913663,1487.531914893617,E07000047,West Devon,Devon and Cornwall
+S12000041,Angus,Angus,Scotland,Scotland,Police Scotland,108085.1328,21.6163,2184.9885435823103,1351.493616029823,S12000041,Angus,Police Scotland
+S12000034,Aberdeenshire,Aberdeenshire,Scotland,Scotland,Police Scotland,274070.625,21.5872,6317.915098889167,1304.9072886297376,S12000034,Aberdeenshire,Police Scotland
+E06000057,Northumberland,Northumberland,England,North East,Northumbria,312027.0,21.585,5032.277666031972,1417.0200362464761,E06000057,Northumberland,Northumbria
+W06000009,Pembrokeshire,Dyfed,Wales,Wales,Dyfed-Powys,124028.7891,21.584,1618.1441678180795,1548.8276554404144,W06000009,Pembrokeshire,Dyfed-Powys
+E07000043,North Devon,Devon,England,South West,Devon and Cornwall,100012.7656,21.5808,1085.8515646207081,1512.4854545454546,E07000043,North Devon,Devon and Cornwall
+S12000026,Scottish Borders,Scottish Borders,Scotland,Scotland,Police Scotland,116935.75,21.5765,4739.144717630728,1288.9080188679245,S12000026,Scottish Borders,Police Scotland
+S12000028,South Ayrshire,South Ayrshire,Scotland,Scotland,Police Scotland,114129.7969,21.5556,1224.3188678528159,1273.8519710378118,S12000028,South Ayrshire,Police Scotland
+W06000002,Gwynedd,Gwynedd,Wales,Wales,North Wales,114918.8984,21.5433,2548.411225768514,1307.7379782521143,W06000002,Gwynedd,North Wales
+W06000010,Carmarthenshire,Dyfed,Wales,Wales,Dyfed-Powys,189402.5781,21.53,2371.09053057108,1454.463725490196,W06000010,Carmarthenshire,Dyfed-Powys
+W06000023,Powys,Powys,Wales,Wales,Dyfed-Powys,136073.9531,21.508,5195.504320504518,1315.2156097560976,W06000023,Powys,Dyfed-Powys
+N09000006,Fermanagh and Omagh,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,118356.0938,21.4835,3012.8863590828487,1181.103966101695,N09000006,Fermanagh and Omagh,Police Service of Northern Ireland
+E06000064,Westmorland and Furness,Cumbria,England,North West,Cumbria,228079.1875,21.4777,3789.0914740381554,1328.5545893719807,E06000064,Westmorland and Furness,Cumbria
+E07000042,Mid Devon,Devon,England,South West,Devon and Cornwall,84566.4375,21.4662,912.8776041915143,1531.0179487179487,E07000042,Mid Devon,Devon and Cornwall
+S12000030,Stirling,Stirling,Scotland,Scotland,Police Scotland,94399.2344,21.4633,2252.5984414953136,1174.0222222222221,S12000030,Stirling,Police Scotland
+E06000063,Cumberland,Cumbria,England,North West,Cumbria,274620.0,21.4241,3033.9811314027547,1363.5471026770585,E06000063,Cumberland,Cumbria
+E07000044,South Hams,Devon,England,South West,Devon and Cornwall,114958.2734,21.4086,886.6717931622293,1587.0139393939394,E07000044,South Hams,Devon and Cornwall
+W06000003,Conwy,Clwyd,Wales,Wales,North Wales,111837.6719,21.3924,1130.308097697302,1319.8017941454202,W06000003,Conwy,North Wales
+E06000052,Cornwall,Cornwall,England,South West,Devon and Cornwall,572643.1875,21.347,3548.8120792342274,1630.5626302881667,E06000052,Cornwall,Devon and Cornwall
+N09000004,Causeway Coast and Glens,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,139285.7188,21.3351,1986.1283137896044,1198.2170579029732,N09000004,Causeway Coast and Glens,Police Service of Northern Ireland
+W06000001,Isle of Anglesey,Gwynedd,Wales,Wales,North Wales,66907.1875,21.32,715.1570504176588,1589.2789968652037,W06000001,Isle of Anglesey,North Wales
+N09000005,Derry City and Strabane,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,155512.1719,21.31,1251.4456245861209,1173.055982905983,N09000005,Derry City and Strabane,Police Service of Northern Ireland
+E07000147,North Norfolk,Norfolk,England,East of England,Norfolk,104472.6094,21.292,967.1470649356042,1634.4489583333334,E07000147,North Norfolk,Norfolk
+E07000040,East Devon,Devon,England,South West,Devon and Cornwall,154676.3438,21.2428,814.3616796804846,1601.191946308725,E07000040,East Devon,Devon and Cornwall
+E07000045,Teignbridge,Devon,England,South West,Devon and Cornwall,143065.5,21.2304,673.7392014487491,1590.3378246753246,E07000045,Teignbridge,Devon and Cornwall
+E06000059,Dorset,Dorset,England,South West,Dorset,383064.3438,21.2106,2491.0603649097975,1654.4484557595993,E06000059,Dorset,Dorset
+N09000009,Mid Ulster,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,154142.0312,21.1942,1957.7340338110018,1264.5052631578947,N09000009,Mid Ulster,Police Service of Northern Ireland
+E06000019,"Herefordshire, County of",Herefordshire,England,West Midlands,West Mercia,185067.4375,21.1912,2179.715412966906,1518.5942528735632,E06000019,"Herefordshire, County of",West Mercia
+S12000021,North Ayrshire,North Ayrshire,Scotland,Scotland,Police Scotland,129683.8984,21.1519,885.3831558884955,1308.9329896907216,S12000021,North Ayrshire,Police Scotland
+N09000008,Mid and East Antrim,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,136985.0781,21.1293,1061.641943860592,1262.1276112624885,N09000008,Mid and East Antrim,Police Service of Northern Ireland
+S12000010,East Lothian,East Lothian,Scotland,Scotland,Police Scotland,110180.0234,21.1044,679.2746171335796,1376.6529702970297,S12000010,East Lothian,Police Scotland
+E07000244,East Suffolk,Suffolk,England,East of England,Suffolk,262107.0156,21.1044,1260.8238676138196,1681.6945228215766,E07000244,East Suffolk,Suffolk
+S12000008,East Ayrshire,East Ayrshire,Scotland,Scotland,Police Scotland,119214.6562,21.1017,1270.3155015953482,1256.908,S12000008,East Ayrshire,Police Scotland
+E06000065,North Yorkshire,North Yorkshire,England,Yorkshire and The Humber,North Yorkshire,640042.25,21.0908,8040.101368969903,1382.2487602265576,E06000065,North Yorkshire,North Yorkshire
+W06000004,Denbighshire,Clwyd,Wales,Wales,North Wales,97257.3047,21.0854,838.7354770336053,1336.5002361275087,W06000004,Denbighshire,North Wales
+N09000010,"Newry, Mourne and Down",Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,185834.2969,21.0787,1682.8455129933207,1339.2746583850933,N09000010,"Newry, Mourne and Down",Police Service of Northern Ireland
+E07000137,East Lindsey,Lincolnshire,England,East Midlands,Lincolnshire,148418.9844,21.0761,1766.5731249826488,1592.0043274853801,E07000137,East Lindsey,Lincolnshire
+E07000143,Breckland,Norfolk,England,East of England,Norfolk,143018.5625,21.0177,1305.149295926582,1559.7537037037036,E07000143,Breckland,Norfolk
+E07000121,Lancaster,Lancashire,England,North West,Lancashire,144334.4219,20.9977,566.7336226040892,1413.853861003861,E07000121,Lancaster,Lancashire
+S12000029,South Lanarkshire,South Lanarkshire,Scotland,Scotland,Police Scotland,330061.5312,20.9805,1773.8771163689225,1224.2739130434782,S12000029,South Lanarkshire,Police Scotland
+W06000021,Monmouthshire,Gwent,Wales,Wales,Gwent,95570.3828,20.9732,850.3449375648275,1548.6777136258659,W06000021,Monmouthshire,Gwent
+E06000051,Shropshire,Shropshire,England,West Midlands,West Mercia,331401.1875,20.954,3197.3946261399697,1427.269465648855,E06000051,Shropshire,West Mercia
+E06000047,County Durham,Durham,England,North East,Durham,528064.6875,20.9492,2231.415832149132,1458.8905429071804,E06000047,County Durham,Durham
+E06000054,Wiltshire,Wiltshire,England,South West,Wiltshire,524025.2188,20.9398,3255.515024859752,1603.7827067669173,E06000054,Wiltshire,Wiltshire
+E06000066,Somerset,Somerset,England,South West,Avon and Somerset,603316.625,20.9374,3451.788520481543,1571.4335258446436,E06000066,Somerset,Avon and Somerset
+E07000149,South Norfolk,Norfolk,England,East of England,Norfolk,172882.0312,20.9281,907.535039729061,1623.1555555555556,E07000149,South Norfolk,Norfolk
+E07000203,Mid Suffolk,Suffolk,England,East of England,Suffolk,110807.5312,20.9281,871.0336391190622,1683.8057142857142,E07000203,Mid Suffolk,Suffolk
+E07000079,Cotswold,Gloucestershire,England,South West,Gloucestershire,92265.1562,20.9211,1164.5117116687916,1554.804255319149,E07000079,Cotswold,Gloucestershire
+E07000064,Rother,East Sussex,England,South East,Sussex,91048.4531,20.9165,511.80447013977977,1773.4767395626243,E07000064,Rother,Sussex
+N09000002,"Armagh City, Banbridge and Craigavon",Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,220790.0,20.8983,1437.4325210167594,1317.1874090247452,N09000002,"Armagh City, Banbridge and Craigavon",Police Service of Northern Ireland
+E07000146,King's Lynn and West Norfolk,Norfolk,England,East of England,Norfolk,167100.4219,20.887,1439.0672487549605,1527.9252904989748,E07000146,King's Lynn and West Norfolk,Norfolk
+E07000080,Forest of Dean,Gloucestershire,England,South West,Gloucestershire,87150.9688,20.8737,525.9350406298524,1599.7125256673512,E07000080,Forest of Dean,Gloucestershire
+E07000235,Malvern Hills,Worcestershire,England,West Midlands,West Mercia,83110.8281,20.8671,577.1228771850318,1537.688,E07000235,Malvern Hills,West Mercia
+E07000144,Broadland,Norfolk,England,East of England,Norfolk,116672.4375,20.8649,552.0112031846479,1618.9644359464628,E07000144,Broadland,Norfolk
+E06000046,Isle of Wight,Isle of Wight,England,South East,Hampshire,136795.3125,20.8453,379.6868504060309,1873.2852307692306,E06000046,Isle of Wight,Hampshire
+E07000225,Chichester,West Sussex,England,South East,Sussex,136440.25,20.8431,786.2426393925563,1700.6833101529903,E07000225,Chichester,Sussex
+E07000145,Great Yarmouth,Norfolk,England,East of England,Norfolk,98926.0469,20.8261,174.2446798870858,1702.942168674699,E07000145,Great Yarmouth,Norfolk
+E07000200,Babergh,Suffolk,England,East of England,Suffolk,92777.5391,20.8155,595.1265966427953,1693.7644567219152,E07000200,Babergh,Suffolk
+E07000093,Test Valley,Hampshire,England,South East,Hampshire,141348.4531,20.803,627.6654091097141,1634.4888888888888,E07000093,Test Valley,Hampshire
+S12000047,Fife,Fife,Scotland,Scotland,Police Scotland,359683.2188,20.7825,1325.3466813800123,1406.0997562956945,S12000047,Fife,Police Scotland
+E07000112,Folkestone and Hythe,Kent,England,South East,Kent,105345.8672,20.7805,356.98466004600897,1849.640837696335,E07000112,Folkestone and Hythe,Kent
+E07000091,New Forest,Hampshire,England,South East,Hampshire,177439.0,20.7724,752.0380067064536,1739.4269938650305,E07000091,New Forest,Hampshire
+E07000124,Ribble Valley,Lancashire,England,North West,Lancashire,62725.5703,20.7724,584.4632986237199,1329.672,E07000124,Ribble Valley,Lancashire
+E07000181,West Oxfordshire,Oxfordshire,England,South East,Thames Valley,118585.2734,20.7704,714.4567108351529,1612.2833333333333,E07000181,West Oxfordshire,Thames Valley
+E07000065,Wealden,East Sussex,England,South East,Sussex,167423.3438,20.7624,834.9612128339743,1706.2422222222224,E07000065,Wealden,Sussex
+E07000142,West Lindsey,Lincolnshire,England,East Midlands,Lincolnshire,102079.8281,20.7544,1155.681303898576,1575.5333333333333,E07000142,West Lindsey,Lincolnshire
+E07000085,East Hampshire,Hampshire,England,South East,Hampshire,115506.6172,20.7387,514.4430858097962,1634.23,E07000085,East Hampshire,Hampshire
+E07000245,West Suffolk,Suffolk,England,East of England,Suffolk,184900.9531,20.7387,1034.7414308258822,1610.1125,E07000245,West Suffolk,Suffolk
+E07000094,Winchester,Hampshire,England,South East,Hampshire,148335.3594,20.729,660.9992543780959,1626.1777777777777,E07000094,Winchester,Hampshire
+N09000011,Ards and North Down,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,169853.9844,20.729,566.6841752529532,1472.2161125319692,N09000011,Ards and North Down,Police Service of Northern Ireland
+E07000105,Ashford,Kent,England,South East,Kent,136776.0625,20.727,580.6254714793653,1745.4391304347826,E07000105,Ashford,Kent
+E06000037,West Berkshire,Berkshire,England,South East,Thames Valley,143460.8125,20.7193,704.1963954445306,1576.256,E06000037,West Berkshire,Thames Valley
+E07000139,North Kesteven,Lincolnshire,England,East Midlands,Lincolnshire,138854.2656,20.7174,922.4416635398394,1626.5210526315789,E07000139,North Kesteven,Lincolnshire
+E07000141,South Kesteven,Lincolnshire,England,East Midlands,Lincolnshire,144159.125,20.6816,942.580800402238,1597.4567567567567,E07000141,South Kesteven,Lincolnshire
+W06000012,Neath Port Talbot,West Glamorgan,Wales,Wales,South Wales,148925.1875,20.6724,442.25708118854124,1430.1769931662868,W06000012,Neath Port Talbot,South Wales
+E06000011,East Riding of Yorkshire,East Riding of Yorkshire,England,Yorkshire and The Humber,Humberside,354798.1875,20.6687,2404.890486643505,1551.9176596656666,E06000011,East Riding of Yorkshire,Humberside
+E07000067,Braintree,Essex,England,East of England,Essex,151457.3125,20.6651,611.711519222409,1645.3,E07000067,Braintree,Essex
+E07000140,South Holland,Lincolnshire,England,East Midlands,Lincolnshire,97970.9375,20.6614,749.5880113842393,1575.623087248322,E07000140,South Holland,Lincolnshire
+W06000011,Swansea,West Glamorgan,Wales,Wales,South Wales,233209.2188,20.656,377.5585446504515,1542.5532212885155,W06000011,Swansea,South Wales
+E06000017,Rutland,Rutland,England,East Midlands,Leicestershire,40931.7422,20.6506,393.7389010394527,1572.7866666666666,E06000017,Rutland,Leicestershire
+E07000084,Basingstoke and Deane,Hampshire,England,South East,Hampshire,194866.5312,20.6488,633.7914043509835,1621.932,E07000084,Basingstoke and Deane,Hampshire
+E07000082,Stroud,Gloucestershire,England,South West,Gloucestershire,151052.2812,20.6345,460.6349851285743,1566.4526992287917,E07000082,Stroud,Gloucestershire
+E07000116,Tunbridge Wells,Kent,England,South East,Kent,124796.6562,20.6345,331.27839983556197,1704.3692307692309,E07000116,Tunbridge Wells,Kent
+E07000136,Boston,Lincolnshire,England,East Midlands,Lincolnshire,71692.2969,20.6204,363.48873742997426,1580.7966101694915,E07000136,Boston,Lincolnshire
+E07000133,Melton,Leicestershire,England,East Midlands,Leicestershire,52094.2422,20.6117,481.3703050456048,1523.3052631578948,E07000133,Melton,Leicestershire
+W06000006,Wrexham,Clwyd,Wales,Wales,North Wales,138935.9062,20.5961,503.68508654258756,1406.835,W06000006,Wrexham,North Wales
+E07000180,Vale of White Horse,Oxfordshire,England,South East,Thames Valley,149645.3125,20.5859,578.7558782473667,1601.1,E07000180,Vale of White Horse,Thames Valley
+N09000001,Antrim and Newtownabbey,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,140288.3438,20.5859,728.3861438442111,1347.7516620498614,N09000001,Antrim and Newtownabbey,Police Service of Northern Ireland
+E07000227,Horsham,West Sussex,England,South East,Sussex,163957.1875,20.5624,530.2221681943256,1705.9041666666667,E07000227,Horsham,Sussex
+E07000009,East Cambridgeshire,Cambridgeshire,England,East of England,Cambridgeshire,89248.5,20.5591,651.2568257816014,1555.3076923076924,E07000009,East Cambridgeshire,Cambridgeshire
+E07000083,Tewkesbury,Gloucestershire,England,South West,Gloucestershire,120237.3984,20.5476,414.4036054268789,1559.8294117647058,E07000083,Tewkesbury,Gloucestershire
+E07000108,Dover,Kent,England,South East,Kent,115666.7344,20.5427,315.3218836366582,1843.8255474452556,E07000108,Dover,Kent
+S12000018,Inverclyde,Inverclyde,Scotland,Scotland,Police Scotland,70474.5859,20.5281,161.9101173170718,1291.9467741935484,S12000018,Inverclyde,Police Scotland
+E07000010,Fenland,Cambridgeshire,England,East of England,Cambridgeshire,96592.2812,20.5074,546.4783171059612,1543.6631578947367,E07000010,Fenland,Cambridgeshire
+E07000177,Cherwell,Oxfordshire,England,South East,Thames Valley,163741.0625,20.5011,588.7216124212439,1560.92,E07000177,Cherwell,Thames Valley
+E07000071,Colchester,Essex,England,East of England,Essex,192515.6562,20.4949,332.1326570853765,1707.0496124031006,E07000071,Colchester,Essex
+E07000128,Wyre,Lancashire,England,North West,Lancashire,124853.8594,20.4886,282.0453849598381,1441.9733333333334,E07000128,Wyre,Lancashire
+E07000035,Derbyshire Dales,Derbyshire,England,East Midlands,Derbyshire,71721.0234,20.4794,795.4466834506104,1432.164705882353,E07000035,Derbyshire Dales,Derbyshire
+E07000076,Tendring,Essex,England,East of England,Essex,144203.1875,20.4794,336.1996550326763,1740.0579166666669,E07000076,Tendring,Essex
+E07000063,Lewes,East Sussex,England,South East,Sussex,101506.5547,20.4671,292.1453291766063,1716.3591973244147,E07000063,Lewes,Sussex
+E07000221,Stratford-on-Avon,Warwickshire,England,West Midlands,Warwickshire,140470.5,20.4641,977.9535322993004,1526.3054054054055,E07000221,Stratford-on-Avon,Warwickshire
+E07000077,Uttlesford,Essex,England,East of England,Essex,99727.2734,20.4611,641.0925622784883,1602.3954545454546,E07000077,Uttlesford,Essex
+E06000022,Bath and North East Somerset,Somerset,England,South West,Avon and Somerset,183964.2656,20.4401,351.1935195948299,1600.01875,E06000022,Bath and North East Somerset,Avon and Somerset
+E07000216,Waverley,Surrey,England,South East,Surrey,145133.4844,20.4254,345.186429853545,1644.4333333333334,E07000216,Waverley,Surrey
+E07000074,Maldon,Essex,England,East of England,Essex,75625.25,20.4224,357.50803932340915,1744.9806366047744,E07000074,Maldon,Essex
+S12000005,Clackmannanshire,Clackmannanshire,Scotland,Scotland,Police Scotland,46948.0586,20.4137,159.18937877251818,1278.88698630137,S12000005,Clackmannanshire,Police Scotland
+E07000179,South Oxfordshire,Oxfordshire,England,South East,Thames Valley,196740.0625,20.4108,678.4018553399677,1526.642857142857,E07000179,South Oxfordshire,Thames Valley
+E07000106,Canterbury,Kent,England,South East,Kent,158784.7188,20.4022,308.7618591867921,1786.7161512027492,E07000106,Canterbury,Kent
+S12000019,Midlothian,Midlothian,Scotland,Scotland,Police Scotland,96090.1172,20.3965,355.25511513207164,1299.4666666666667,S12000019,Midlothian,Police Scotland
+E07000238,Wychavon,Worcestershire,England,West Midlands,West Mercia,158165.6406,20.3823,663.4173944232064,1548.1,E07000238,Wychavon,West Mercia
+E07000011,Huntingdonshire,Cambridgeshire,England,East of England,Cambridgeshire,189607.8594,20.3767,912.585968829259,1592.0081081081082,E07000011,Huntingdonshire,Cambridgeshire
+E07000198,Staffordshire Moorlands,Staffordshire,England,West Midlands,Staffordshire,118213.6172,20.3711,575.8401220883113,1390.2333333333333,E07000198,Staffordshire Moorlands,Staffordshire
+W06000016,Rhondda Cynon Taf,Mid Glamorgan,Wales,Wales,South Wales,245500.1719,20.3601,424.1474408464706,1425.1176470588234,W06000016,Rhondda Cynon Taf,South Wales
+N09000007,Lisburn and Castlereagh,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,179490.2656,20.3573,510.5658167665792,1343.3727272727272,N09000007,Lisburn and Castlereagh,Police Service of Northern Ireland
+E07000122,Pendle,Lancashire,England,North West,Lancashire,99768.75,20.3491,169.38608492885658,1275.45,E07000122,Pendle,Lancashire
+S12000039,West Dunbartonshire,West Dunbartonshire,Scotland,Scotland,Police Scotland,72231.8281,20.3464,177.28651919411612,1300.4454545454546,S12000039,West Dunbartonshire,Police Scotland
+E07000037,High Peak,Derbyshire,England,East Midlands,Derbyshire,92531.1641,20.3409,540.2210777486337,1336.125,E07000037,High Peak,Derbyshire
+E07000131,Harborough,Leicestershire,England,East Midlands,Leicestershire,110917.6562,20.3409,592.7548843863401,1513.0458333333333,E07000131,Harborough,Leicestershire
+W06000019,Blaenau Gwent,Gwent,Wales,Wales,Gwent,66713.2656,20.3382,108.72531625844114,1397.84,W06000019,Blaenau Gwent,Gwent
+E07000012,South Cambridgeshire,Cambridgeshire,England,East of England,Cambridgeshire,165014.125,20.3355,901.7374744103296,1561.89,E07000012,South Cambridgeshire,Cambridgeshire
+E06000027,Torbay,Devon,England,South West,Devon and Cornwall,135312.0,20.3328,62.92448715529116,1711.1875,E06000027,Torbay,Devon and Cornwall
+W06000020,Torfaen,Gwent,Wales,Wales,Gwent,89104.0156,20.3275,126.2321093571736,1510.68,W06000020,Torfaen,Gwent
+W06000024,Merthyr Tydfil,Mid Glamorgan,Wales,Wales,South Wales,61729.3281,20.2959,111.94468355834972,1352.72,W06000024,Merthyr Tydfil,South Wales
+E07000175,Newark and Sherwood,Nottinghamshire,England,East Midlands,Nottinghamshire,133025.3125,20.2907,651.3612806287409,1561.3,E07000175,Newark and Sherwood,Nottinghamshire
+E07000224,Arun,West Sussex,England,South East,Sussex,157192.6562,20.2829,220.97380825762622,1813.3605263157895,E07000224,Arun,Sussex
+E06000062,West Northamptonshire,Northamptonshire,England,East Midlands,Northamptonshire,460683.125,20.2778,1380.4204628587331,1537.975,E06000062,West Northamptonshire,Northamptonshire
+E07000228,Mid Sussex,West Sussex,England,South East,Sussex,175187.1562,20.2753,334.0028433353643,1671.5692307692307,E07000228,Mid Sussex,Sussex
+E06000031,Peterborough,Cambridgeshire,England,East of England,Cambridgeshire,218570.1875,20.2702,343.4536238528242,1621.2785714285715,E06000031,Peterborough,Cambridgeshire
+E06000020,Telford and Wrekin,Shropshire,England,West Midlands,West Mercia,184524.7344,20.2526,290.2881105854183,1461.3,E06000020,Telford and Wrekin,West Mercia
+E06000055,Bedford,Bedfordshire,England,East of England,Bedfordshire,189516.7188,20.2476,476.4022283263721,1576.6571428571428,E06000055,Bedford,Bedfordshire
+W06000013,Bridgend,Mid Glamorgan,Wales,Wales,South Wales,143812.7812,20.2377,250.8519018206811,1515.7787735849056,W06000013,Bridgend,South Wales
+E06000024,North Somerset,Somerset,England,South West,Avon and Somerset,239540.2812,20.2328,374.7064301680743,1631.5150887573964,E06000024,North Somerset,Avon and Somerset
+W06000005,Flintshire,Clwyd,Wales,Wales,North Wales,157620.7812,20.2182,439.75441050507834,1461.9907216494846,W06000005,Flintshire,North Wales
+W06000014,Vale of Glamorgan,South Glamorgan,Wales,Wales,South Wales,133457.6875,20.2182,331.28087067707594,1636.9203883495147,W06000014,Vale of Glamorgan,South Wales
+E07000197,Stafford,Staffordshire,England,West Midlands,Staffordshire,169587.5312,20.2158,598.2157489031987,1448.709090909091,E07000197,Stafford,Staffordshire
+E07000110,Maidstone,Kent,England,South East,Kent,186666.4062,20.211,393.321177589146,1709.9,E07000110,Maidstone,Kent
+E06000013,North Lincolnshire,Lincolnshire,England,Yorkshire and The Humber,Humberside,165009.2344,20.2062,846.5249536512881,1546.088256227758,E06000013,North Lincolnshire,Humberside
+E06000061,North Northamptonshire,Northamptonshire,England,East Midlands,Northamptonshire,377673.5,20.2014,986.6271920915802,1567.275,E06000061,North Northamptonshire,Northamptonshire
+E06000060,Buckinghamshire,Buckinghamshire,England,South East,Thames Valley,635047.25,20.1895,1565.058079290375,1563.4918032786886,E06000060,Buckinghamshire,Thames Valley
+E07000171,Bassetlaw,Nottinghamshire,England,East Midlands,Nottinghamshire,123830.2266,20.1872,637.8353752872798,1515.732,E07000171,Bassetlaw,Nottinghamshire
+E07000193,East Staffordshire,Staffordshire,England,West Midlands,Staffordshire,128871.8438,20.148,389.9720112471406,1470.7733333333333,E07000193,East Staffordshire,Staffordshire
+E06000025,South Gloucestershire,Gloucestershire,England,South West,Avon and Somerset,342055.6875,20.1434,497.05377331294557,1615.4245762711864,E06000025,South Gloucestershire,Avon and Somerset
+E07000089,Hart,Hampshire,England,South East,Hampshire,108093.6328,20.1434,215.2615429497904,1661.91,E07000089,Hart,Hampshire
+E07000239,Wyre Forest,Worcestershire,England,West Midlands,West Mercia,104056.7969,20.1389,195.45026010987388,1544.142857142857,E07000239,Wyre Forest,West Mercia
+E06000014,York,North Yorkshire,England,Yorkshire and The Humber,North Yorkshire,204264.6875,20.1211,271.93776322512906,1419.9,E06000014,York,North Yorkshire
+E07000242,East Hertfordshire,Hertfordshire,England,East of England,Hertfordshire,162013.7812,20.1189,475.72482056633294,1598.8285714285714,E07000242,East Hertfordshire,Hertfordshire
+W06000018,Caerphilly,Gwent,Wales,Wales,Gwent,172180.5625,20.1189,277.3524130838487,1453.1181818181817,W06000018,Caerphilly,Gwent
+E07000113,Swale,Kent,England,South East,Kent,162060.3438,20.0841,373.2426143171997,1753.8408695652174,E07000113,Swale,Kent
+E07000061,Eastbourne,East Sussex,England,South East,Sussex,93487.1406,20.0777,44.18440665258005,1835.7369863013696,E07000061,Eastbourne,Sussex
+E07000210,Mole Valley,Surrey,England,South East,Surrey,89098.5938,20.0443,258.308566384065,1639.4846153846154,E07000210,Mole Valley,Surrey
+E07000075,Rochford,Essex,England,East of England,Essex,94681.6406,20.0381,166.9080902648708,1764.6795454545454,E07000075,Rochford,Essex
+S12000038,Renfrewshire,Renfrewshire,Scotland,Scotland,Police Scotland,173438.0,20.0178,261.4543950782621,1336.0220689655173,S12000038,Renfrewshire,Police Scotland
+E08000033,Calderdale,West Yorkshire,England,Yorkshire and The Humber,West Yorkshire,214713.5938,20.0138,363.9928404696597,1303.8714285714286,E08000033,Calderdale,West Yorkshire
+E07000099,North Hertfordshire,Hertfordshire,England,East of England,Hertfordshire,139973.4062,20.0058,375.36610953233236,1581.9642857142858,E07000099,North Hertfordshire,Hertfordshire
+E07000176,Rushcliffe,Nottinghamshire,England,East Midlands,Nottinghamshire,158501.1875,19.9687,409.2455254749718,1532.9947368421053,E07000176,Rushcliffe,Nottinghamshire
+E06000049,Cheshire East,Cheshire,England,North West,Cheshire,403612.875,19.961,1166.300442607272,1446.0375,E06000049,Cheshire East,Cheshire
+E06000005,Darlington,Durham,England,North East,Durham,105517.2734,19.9515,197.5037386792088,1475.3142857142857,E06000005,Darlington,Durham
+E06000030,Swindon,Wiltshire,England,South West,Wiltshire,239757.7188,19.9459,230.0579773272052,1606.0125,E06000030,Swindon,Wiltshire
+E07000070,Chelmsford,Essex,England,East of England,Essex,184046.5625,19.9384,342.251000565439,1671.8625,E07000070,Chelmsford,Essex
+E07000195,Newcastle-under-Lyme,Staffordshire,England,West Midlands,Staffordshire,124198.4219,19.9365,210.96811301089477,1457.675,E07000195,Newcastle-under-Lyme,Staffordshire
+S12000011,East Renfrewshire,East Renfrewshire,Scotland,Scotland,Police Scotland,86777.8828,19.9217,174.25046686373094,1324.325,S12000011,East Renfrewshire,Police Scotland
+E07000123,Preston,Lancashire,England,North West,Lancashire,129598.8672,19.898,142.28074421601156,1395.8166666666666,E07000123,Preston,Lancashire
+E07000032,Amber Valley,Derbyshire,England,East Midlands,Derbyshire,120008.3125,19.8873,265.4186261376975,1480.37,E07000032,Amber Valley,Derbyshire
+E07000038,North East Derbyshire,Derbyshire,England,East Midlands,Derbyshire,132044.6562,19.8801,275.6534463192541,1497.1833333333334,E07000038,North East Derbyshire,Derbyshire
+E06000003,Redcar and Cleveland,North Yorkshire,England,North East,Cleveland,146582.75,19.8731,245.15613740190585,1448.2673469387755,E06000003,Redcar and Cleveland,Cleveland
+E06000056,Central Bedfordshire,Bedfordshire,England,East of England,Bedfordshire,335464.3438,19.8696,715.6118798011395,1568.7769230769231,E06000056,Central Bedfordshire,Bedfordshire
+E07000196,South Staffordshire,Staffordshire,England,West Midlands,Staffordshire,107635.8125,19.8696,407.2769532430469,1464.9473684210527,E07000196,South Staffordshire,Staffordshire
+E07000090,Havant,Hampshire,England,South East,Hampshire,121095.8438,19.8626,55.7392063050081,1649.8916666666667,E07000090,Havant,Hampshire
+E07000096,Dacorum,Hertfordshire,England,East of England,Hertfordshire,142739.9688,19.8453,212.4354161689709,1586.64,E07000096,Dacorum,Hertfordshire
+E07000114,Thanet,Kent,England,South East,Kent,138745.4062,19.835,103.59534049523248,1851.3326315789475,E07000114,Thanet,Kent
+E07000119,Fylde,Lancashire,England,North West,Lancashire,100434.7891,19.835,165.5379671107312,1489.2791411042945,E07000119,Fylde,Lancashire
+E07000132,Hinckley and Bosworth,Leicestershire,England,East Midlands,Leicestershire,113994.5781,19.8215,297.3590858547053,1504.5214285714285,E07000132,Hinckley and Bosworth,Leicestershire
+S12000040,West Lothian,West Lothian,Scotland,Scotland,Police Scotland,189606.8281,19.8182,428.8124677455896,1316.4331210191083,S12000040,West Lothian,Police Scotland
+E07000111,Sevenoaks,Kent,England,South East,Kent,124916.5,19.8082,370.33594717280477,1638.45625,E07000111,Sevenoaks,Kent
+E07000222,Warwick,Warwickshire,England,West Midlands,Warwickshire,155962.3906,19.8049,282.87461605340684,1540.4,E07000222,Warwick,Warwickshire
+E07000115,Tonbridge and Malling,Kent,England,South East,Kent,142613.2812,19.8016,240.1122387080627,1673.909090909091,E07000115,Tonbridge and Malling,Kent
+E07000127,West Lancashire,Lancashire,England,North West,Lancashire,126095.7656,19.8016,346.4855576592029,1481.6964480874317,E07000127,West Lancashire,Lancashire
+E07000209,Guildford,Surrey,England,South East,Surrey,152617.75,19.795,271.0026462775321,1624.44,E07000209,Guildford,Surrey
+E08000019,Sheffield,South Yorkshire,England,Yorkshire and The Humber,South Yorkshire,562532.25,19.795,367.85579801120974,1478.2,E08000019,Sheffield,South Yorkshire
+E07000033,Bolsover,Derbyshire,England,East Midlands,Derbyshire,76060.5469,19.7885,160.34848740382245,1514.7142857142858,E07000033,Bolsover,Derbyshire
+E07000125,Rossendale,Lancashire,England,North West,Lancashire,70134.6406,19.7885,138.02921950719133,1294.14,E07000125,Rossendale,Lancashire
+E06000042,Milton Keynes,Buckinghamshire,England,South East,Thames Valley,274354.0625,19.7788,308.6819561339711,1549.6923076923076,E06000042,Milton Keynes,Thames Valley
+E06000050,Cheshire West and Chester,Cheshire,England,North West,Cheshire,372109.875,19.7533,919.9343975027145,1479.5589382448536,E06000050,Cheshire West and Chester,Cheshire
+E07000062,Hastings,East Sussex,England,South East,Sussex,85062.1953,19.7501,29.809854034797095,1870.7,E07000062,Hastings,Sussex
+E07000215,Tandridge,Surrey,England,South East,Surrey,96652.0469,19.747,248.19551801172236,1627.95,E07000215,Tandridge,Surrey
+E07000223,Adur,West Sussex,England,South East,Sussex,58997.1211,19.7283,42.104880693009676,1779.5,E07000223,Adur,Sussex
+E07000130,Charnwood,Leicestershire,England,East Midlands,Leicestershire,194455.875,19.7253,279.01437445472857,1504.8555555555556,E07000130,Charnwood,Leicestershire
+E07000039,South Derbyshire,Derbyshire,England,East Midlands,Derbyshire,128754.5625,19.7191,338.10035785565316,1497.4583333333333,E07000039,South Derbyshire,Derbyshire
+E07000220,Rugby,Warwickshire,England,West Midlands,Warwickshire,123754.5,19.71,353.5420197094448,1536.2466666666667,E07000220,Rugby,Warwickshire
+E06000058,"Bournemouth, Christchurch and Poole",Dorset,England,South West,Dorset,406588.0312,19.701,162.08966358552212,1787.8565934065934,E06000058,"Bournemouth, Christchurch and Poole",Dorset
+S12000045,East Dunbartonshire,East Dunbartonshire,Scotland,Scotland,Police Scotland,77354.4844,19.6831,174.47818760327027,1294.7125,S12000045,East Dunbartonshire,Police Scotland
+E07000117,Burnley,Lancashire,England,North West,Lancashire,95639.0781,19.6801,110.68985216115524,1270.775,E07000117,Burnley,Lancashire
+E08000032,Bradford,West Yorkshire,England,Yorkshire and The Humber,West Yorkshire,507416.4688,19.6801,366.36383564003165,1303.7066666666667,E08000032,Bradford,West Yorkshire
+E06000008,Blackburn with Darwen,Lancashire,England,North West,Lancashire,150184.4844,19.6772,137.04866253160102,1332.04,E06000008,Blackburn with Darwen,Lancashire
+S12000014,Falkirk,Falkirk,Scotland,Scotland,Police Scotland,158027.8594,19.6743,297.0814255650862,1333.087295081967,S12000014,Falkirk,Police Scotland
+E07000087,Fareham,Hampshire,England,South East,Hampshire,106335.1016,19.6626,74.25404051099225,1694.65,E07000087,Fareham,Hampshire
+E07000134,North West Leicestershire,Leicestershire,England,East Midlands,Leicestershire,122792.8828,19.6597,279.33884700641465,1488.5181818181818,E07000134,North West Leicestershire,Leicestershire
+E07000118,Chorley,Lancashire,England,North West,Lancashire,116848.7578,19.634,202.69901460861982,1393.3666666666666,E07000118,Chorley,Lancashire
+E07000229,Worthing,West Sussex,England,South East,Sussex,114636.2031,19.6283,32.51666176775914,1811.75,E07000229,Worthing,Sussex
+E07000174,Mansfield,Nottinghamshire,England,East Midlands,Nottinghamshire,113467.875,19.6255,76.68537181338007,1502.1,E07000174,Mansfield,Nottinghamshire
+E07000078,Cheltenham,Gloucestershire,England,South West,Gloucestershire,108208.8047,19.6227,46.56781915100431,1530.7,E07000078,Cheltenham,Gloucestershire
+E07000236,Redditch,Worcestershire,England,West Midlands,West Mercia,84539.3672,19.6172,54.2679788847678,1502.7666666666667,E07000236,Redditch,West Mercia
+E06000012,North East Lincolnshire,Lincolnshire,England,Yorkshire and The Humber,Humberside,153656.5625,19.6116,192.71404756508622,1593.214207650273,E06000012,North East Lincolnshire,Humberside
+E06000041,Wokingham,Berkshire,England,South East,Thames Valley,210941.375,19.6089,178.96467611154068,1605.2666666666667,E06000041,Wokingham,Thames Valley
+E08000034,Kirklees,West Yorkshire,England,Yorkshire and The Humber,West Yorkshire,444562.6875,19.6061,408.489460873542,1370.31875,E08000034,Kirklees,West Yorkshire
+E07000041,Exeter,Devon,England,South West,Devon and Cornwall,128051.3906,19.6034,47.05223483978839,1585.6,E07000041,Exeter,Devon and Cornwall
+E07000173,Gedling,Nottinghamshire,England,East Midlands,Nottinghamshire,126807.5312,19.5979,119.96473982255283,1513.52,E07000173,Gedling,Nottinghamshire
+E07000129,Blaby,Leicestershire,England,East Midlands,Leicestershire,109403.7188,19.5924,130.4794429779385,1498.85,E07000129,Blaby,Leicestershire
+E07000194,Lichfield,Staffordshire,England,West Midlands,Staffordshire,109240.0156,19.5897,331.2558270419789,1502.6285714285714,E07000194,Lichfield,Staffordshire
+W06000022,Newport,Gwent,Wales,Wales,Gwent,178075.2031,19.5897,190.43976006168154,1616.1157232704402,W06000022,Newport,Gwent
+E08000014,Sefton,Merseyside,England,North West,Merseyside,270679.7812,19.5816,156.56437090262673,1524.1697916666665,E08000014,Sefton,Merseyside
+E07000234,Bromsgrove,Worcestershire,England,West Midlands,West Mercia,109925.2422,19.5709,217.01300271780266,1525.3333333333333,E07000234,Bromsgrove,West Mercia
+E07000214,Surrey Heath,Surrey,England,South East,Surrey,98434.75,19.555,95.11229980529774,1643.85,E07000214,Surrey Heath,Surrey
+E08000017,Doncaster,South Yorkshire,England,Yorkshire and The Humber,South Yorkshire,306001.2812,19.5446,568.0002154369646,1502.0857142857142,E08000017,Doncaster,South Yorkshire
+E07000237,Worcester,Worcestershire,England,West Midlands,West Mercia,96079.7109,19.5291,33.35176304811508,1542.0,E07000237,Worcester,West Mercia
+E07000138,Lincoln,Lincolnshire,England,East Midlands,Lincolnshire,86177.4766,19.5265,35.65094121270892,1612.9,E07000138,Lincoln,Lincolnshire
+S12000042,Dundee City,Dundee City,Scotland,Scotland,Police Scotland,133765.125,19.5138,59.82116252359644,1473.4074626865672,S12000042,Dundee City,Police Scotland
+E06000040,Windsor and Maidenhead,Berkshire,England,South East,Thames Valley,172278.5938,19.5113,198.3975532582775,1635.5444444444445,E06000040,Windsor and Maidenhead,Thames Valley
+E07000192,Cannock Chase,Staffordshire,England,West Midlands,Staffordshire,90045.25,19.5063,78.88963081835381,1442.8333333333333,E07000192,Cannock Chase,Staffordshire
+E08000016,Barnsley,South Yorkshire,England,Yorkshire and The Humber,South Yorkshire,249726.4531,19.5037,329.1251349623302,1478.5785714285714,E08000016,Barnsley,South Yorkshire
+E07000034,Chesterfield,Derbyshire,England,East Midlands,Derbyshire,80865.7422,19.5012,66.03107292378526,1518.25,E07000034,Chesterfield,Derbyshire
+E07000072,Epping Forest,Essex,England,East of England,Essex,130067.8438,19.4988,338.98715656749744,1629.107142857143,E07000072,Epping Forest,Essex
+E07000088,Gosport,Hampshire,England,South East,Hampshire,85307.1484,19.4938,25.36810840034636,1730.0,E07000088,Gosport,Hampshire
+E06000001,Hartlepool,Durham,England,North East,Cleveland,91879.7344,19.4888,93.76504901565744,1499.9417582417584,E06000001,Hartlepool,Cleveland
+E07000217,Woking,Surrey,England,South East,Surrey,117888.7812,19.4839,63.58015460980107,1630.55,E07000217,Woking,Surrey
+E07000068,Brentwood,Essex,England,East of England,Essex,77643.0391,19.4765,153.1431340228976,1655.16,E07000068,Brentwood,Essex
+E08000037,Gateshead,Tyne and Wear,England,North East,Northumbria,231059.7656,19.4717,142.33352284429267,1496.942857142857,E08000037,Gateshead,Northumbria
+E06000036,Bracknell Forest,Berkshire,England,South East,Thames Valley,117650.4141,19.462,109.32221900353916,1634.08,E06000036,Bracknell Forest,Thames Valley
+E06000035,Medway,Kent,England,South East,Kent,268482.125,19.4596,193.61981564440094,1729.0466292134834,E06000035,Medway,Kent
+S12000050,North Lanarkshire,North Lanarkshire,Scotland,Scotland,Police Scotland,339914.0,19.4405,472.3432436772576,1292.04375,S12000050,North Lanarkshire,Police Scotland
+E07000086,Eastleigh,Hampshire,England,South East,Hampshire,154338.7031,19.4381,79.69724797329117,1679.168656716418,E07000086,Eastleigh,Hampshire
+E07000243,Stevenage,Hertfordshire,England,East of England,Hertfordshire,91850.3281,19.4358,25.938584680028196,1593.2,E07000243,Stevenage,Hertfordshire
+E07000120,Hyndburn,Lancashire,England,North West,Lancashire,87754.0312,19.4264,72.97615080849326,1315.25,E07000120,Hyndburn,Lancashire
+E07000126,South Ribble,Lancashire,England,North West,Lancashire,133870.875,19.4079,113.12405716206337,1430.44,E07000126,South Ribble,Lancashire
+E07000240,St Albans,Hertfordshire,England,East of England,Hertfordshire,162649.2656,19.4033,161.26618390125378,1619.8166666666666,E07000240,St Albans,Hertfordshire
+E07000081,Gloucester,Gloucestershire,England,South West,Gloucestershire,101237.4375,19.3852,40.54546938342077,1562.5,E07000081,Gloucester,Gloucestershire
+E07000218,North Warwickshire,Warwickshire,England,West Midlands,Warwickshire,72576.9219,19.383,284.26069181666196,1534.4727272727273,E07000218,North Warwickshire,Warwickshire
+E07000178,Oxford,Oxfordshire,England,South East,Thames Valley,136567.2812,19.3674,45.62906634014044,1612.3,E07000178,Oxford,Thames Valley
+E07000036,Erewash,Derbyshire,England,East Midlands,Derbyshire,107713.9375,19.3608,109.63300532460451,1496.58,E07000036,Erewash,Derbyshire
+E07000211,Reigate and Banstead,Surrey,England,South East,Surrey,148565.3594,19.3586,129.13712761881484,1617.925,E07000211,Reigate and Banstead,Surrey
+S12000033,Aberdeen City,Aberdeen City,Scotland,Scotland,Police Scotland,218230.6875,19.3434,185.59463363849375,1449.9,S12000033,Aberdeen City,Police Scotland
+E08000018,Rotherham,South Yorkshire,England,Yorkshire and The Humber,South Yorkshire,276594.25,19.3369,286.45917301047,1530.3166666666666,E08000018,Rotherham,South Yorkshire
+E07000241,Welwyn Hatfield,Hertfordshire,England,East of England,Hertfordshire,125255.4609,19.3199,129.49423523883226,1620.68,E07000241,Welwyn Hatfield,Hertfordshire
+E07000109,Gravesham,Kent,England,South East,Kent,112186.5,19.3157,99.00965538351502,1696.003092783505,E07000109,Gravesham,Kent
+E06000043,Brighton and Hove,East Sussex,England,South East,Sussex,263116.3125,19.3052,82.85878746378874,1742.3090909090909,E06000043,Brighton and Hove,Sussex
+E07000069,Castle Point,Essex,England,East of England,Essex,86685.1094,19.2948,44.516903606966586,1730.3641025641025,E07000069,Castle Point,Essex
+E07000170,Ashfield,Nottinghamshire,England,East Midlands,Nottinghamshire,124554.2656,19.2907,109.54112036985796,1482.8,E07000170,Ashfield,Nottinghamshire
+E07000219,Nuneaton and Bedworth,Warwickshire,England,West Midlands,Warwickshire,131499.5156,19.2907,78.95673435174267,1525.3666666666666,E07000219,Nuneaton and Bedworth,Warwickshire
+E06000004,Stockton-on-Tees,Durham,England,North East,Cleveland,199058.1406,19.2703,204.91729630221496,1443.4361809045226,E06000004,Stockton-on-Tees,Cleveland
+E07000092,Rushmoor,Hampshire,England,South East,Hampshire,75117.0156,19.2662,39.05326963860797,1626.75,E07000092,Rushmoor,Hampshire
+W06000015,Cardiff,South Glamorgan,Wales,Wales,South Wales,366779.25,19.2582,142.36249859158005,1578.55,W06000015,Cardiff,South Wales
+E08000015,Wirral,Merseyside,England,North West,Merseyside,315231.3125,19.2522,160.8761440573032,1522.79609375,E08000015,Wirral,Merseyside
+E06000026,Plymouth,Devon,England,South West,Devon and Cornwall,248156.9062,19.2503,79.83861472900536,1615.7333333333333,E06000026,Plymouth,Devon and Cornwall
+E07000102,Three Rivers,Hertfordshire,England,East of England,Hertfordshire,76782.8125,19.2306,88.8199835022942,1619.9,E07000102,Three Rivers,Hertfordshire
+E07000135,Oadby and Wigston,Leicestershire,England,East Midlands,Leicestershire,91134.0156,19.2228,23.51948430449896,1495.8,E07000135,Oadby and Wigston,Leicestershire
+E07000202,Ipswich,Suffolk,England,East of England,Suffolk,129165.1641,19.2075,39.50800397880683,1699.3,E07000202,Ipswich,Suffolk
+E07000095,Broxbourne,Hertfordshire,England,East of England,Hertfordshire,88228.7266,19.1999,51.47816791409995,1615.2,E07000095,Broxbourne,Hertfordshire
+E08000036,Wakefield,West Yorkshire,England,Yorkshire and The Humber,West Yorkshire,374335.3125,19.1848,338.5988556926855,1435.5066666666667,E08000036,Wakefield,West Yorkshire
+E08000004,Oldham,Greater Manchester,England,North West,Greater Manchester,253931.375,19.1518,142.3446207625263,1288.22,E08000004,Oldham,Greater Manchester
+E08000021,Newcastle upon Tyne,Tyne and Wear,England,North East,Northumbria,263869.7812,19.1518,113.43243461145977,1505.575,E08000021,Newcastle upon Tyne,Northumbria
+E06000033,Southend-on-Sea,Essex,England,East of England,Essex,172029.5469,19.1481,41.660512789198584,1752.9595744680853,E06000033,Southend-on-Sea,Essex
+E07000066,Basildon,Essex,England,East of England,Essex,187311.375,19.1374,109.96679725327137,1689.75,E07000066,Basildon,Essex
+E08000029,Solihull,West Midlands,England,West Midlands,West Midlands,284691.1562,19.1232,178.3064402604758,1526.2833333333333,E08000029,Solihull,West Midlands
+S12000036,City of Edinburgh,City of Edinburgh,Scotland,Scotland,Police Scotland,533663.3125,19.1196,263.3654415474345,1386.4969111969112,S12000036,City of Edinburgh,Police Scotland
+E07000073,Harlow,Essex,England,East of England,Essex,92286.75,19.1057,30.531177401444086,1617.9,E07000073,Harlow,Essex
+E07000172,Broxtowe,Nottinghamshire,England,East Midlands,Nottinghamshire,142836.625,19.0987,80.14483707677802,1487.7,E07000172,Broxtowe,Nottinghamshire
+E06000038,Reading,Berkshire,England,South East,Thames Valley,152034.4062,19.0919,40.39653955803124,1582.6666666666667,E06000038,Reading,Thames Valley
+E08000005,Rochdale,Greater Manchester,England,North West,Greater Manchester,246929.2188,19.0919,158.14199167610857,1302.4142857142858,E08000005,Rochdale,Greater Manchester
+E07000199,Tamworth,Staffordshire,England,West Midlands,Staffordshire,69743.9219,19.0816,30.86234235198555,1521.4,E07000199,Tamworth,Staffordshire
+E07000212,Runnymede,Surrey,England,South East,Surrey,80969.4375,19.0782,78.05039714327475,1665.0333333333333,E07000212,Runnymede,Surrey
+E08000022,North Tyneside,Tyne and Wear,England,North East,Northumbria,220800.1406,19.0749,82.30365307813268,1557.7,E08000022,North Tyneside,Northumbria
+E08000035,Leeds,West Yorkshire,England,Yorkshire and The Humber,West Yorkshire,850515.625,19.0416,551.7693489044912,1372.1727272727273,E08000035,Leeds,West Yorkshire
+E07000148,Norwich,Norfolk,England,East of England,Norfolk,131450.2188,19.0254,39.08301395084556,1581.5,E07000148,Norwich,Norfolk
+E07000207,Elmbridge,Surrey,England,South East,Surrey,135391.6562,19.0254,96.30688811281951,1653.6666666666667,E07000207,Elmbridge,Surrey
+E08000010,Wigan,Greater Manchester,England,North West,Greater Manchester,333308.4375,19.0094,188.15587046767422,1427.0428571428572,E08000010,Wigan,Greater Manchester
+E08000024,Sunderland,Tyne and Wear,England,North East,Northumbria,281275.9688,19.003,137.36981105147254,1537.44,E08000024,Sunderland,Northumbria
+E07000098,Hertsmere,Hertfordshire,England,East of England,Hertfordshire,86501.1641,18.9874,101.11513901869891,1621.325,E07000098,Hertsmere,Hertfordshire
+E08000001,Bolton,Greater Manchester,England,North West,Greater Manchester,277363.4062,18.9688,139.79590677194588,1364.65,E08000001,Bolton,Greater Manchester
+E06000044,Portsmouth,Hampshire,England,South East,Hampshire,206220.7188,18.9327,40.410445608615035,1686.7,E06000044,Portsmouth,Hampshire
+E08000002,Bury,Greater Manchester,England,North West,Greater Manchester,171971.0156,18.9327,99.46449028322198,1353.48,E08000002,Bury,Greater Manchester
+E06000007,Warrington,Cheshire,England,North West,Cheshire,216365.3281,18.9006,180.6240036759037,1455.6875,E06000007,Warrington,Cheshire
+E08000013,St. Helens,Merseyside,England,North West,Merseyside,209637.2344,18.9006,136.38974943569525,1456.62,E08000013,St. Helens,Merseyside
+E07000208,Epsom and Ewell,Surrey,England,South East,Surrey,82189.4844,18.8949,34.124538613458675,1618.4,E07000208,Epsom and Ewell,Surrey
+E06000009,Blackpool,Lancashire,England,North West,Lancashire,114440.7812,18.8723,34.883964766994595,1566.7795918367347,E06000009,Blackpool,Lancashire
+E07000103,Watford,Hertfordshire,England,East of England,Hertfordshire,117219.4297,18.8695,21.404571813536943,1613.9,E07000103,Watford,Hertfordshire
+E06000034,Thurrock,Essex,England,East of England,Essex,180716.8438,18.8584,163.77260047545414,1686.578409090909,E06000034,Thurrock,Essex
+E09000006,Bromley,Greater London,England,London,Metropolitan Police,327480.7188,18.8528,150.12479462071673,1575.16,LONDON,Greater London,Metropolitan Police
+E08000008,Tameside,Greater Manchester,England,North West,Greater Manchester,268817.5938,18.8446,103.16215692891694,1308.55,E08000008,Tameside,Greater Manchester
+E06000021,Stoke-on-Trent,Staffordshire,England,West Midlands,Staffordshire,214743.7188,18.8365,93.39480535789637,1415.4,E06000021,Stoke-on-Trent,Staffordshire
+E08000027,Dudley,West Midlands,England,West Midlands,West Midlands,291281.5625,18.8177,97.934171598672,1497.6,E08000027,Dudley,West Midlands
+N09000003,Belfast,Northern Ireland,Northern Ireland,Northern Ireland,Police Service of Northern Ireland,321351.6875,18.794,137.7339607473209,1295.5208333333333,N09000003,Belfast,Police Service of Northern Ireland
+E06000010,"Kingston upon Hull, City of",East Riding of Yorkshire,England,Yorkshire and The Humber,Humberside,251597.6719,18.7914,71.60599724708491,1580.5307692307692,E06000010,"Kingston upon Hull, City of",Humberside
+E08000007,Stockport,Greater Manchester,England,North West,Greater Manchester,342659.3125,18.7759,126.0672023969032,1367.9666666666667,E08000007,Stockport,Greater Manchester
+E07000226,Crawley,West Sussex,England,South East,Sussex,101369.8125,18.7581,44.96497792456181,1656.2,E07000226,Crawley,Sussex
+E06000023,"Bristol, City of",Bristol,England,South West,Avon and Somerset,423181.4688,18.7556,109.69046579013897,1619.9864864864865,E06000023,"Bristol, City of",Avon and Somerset
+E08000026,Coventry,West Midlands,England,West Midlands,West Midlands,357497.3438,18.7556,98.62336734454345,1530.9,E08000026,Coventry,West Midlands
+E06000045,Southampton,Hampshire,England,South East,Hampshire,228194.625,18.7161,49.853062780331065,1676.6,E06000045,Southampton,Hampshire
+E06000016,Leicester,Leicestershire,England,East Midlands,Leicestershire,320960.5625,18.7112,73.37471247656511,1468.5,E06000016,Leicester,Leicestershire
+E06000015,Derby,Derbyshire,England,East Midlands,Derbyshire,229615.2812,18.6992,78.02567177323093,1477.5,E06000015,Derby,Derbyshire
+E06000032,Luton,Bedfordshire,England,East of England,Bedfordshire,197609.0781,18.6803,43.35746975650453,1571.35,E06000032,Luton,Bedfordshire
+E06000006,Halton,Cheshire,England,North West,Cheshire,121188.0938,18.6779,79.091267687789,1457.2568181818183,E06000006,Halton,Cheshire
+E07000213,Spelthorne,Surrey,England,South East,Surrey,105087.5078,18.6686,51.163895454871124,1686.2,E07000213,Spelthorne,Surrey
+E06000002,Middlesbrough,North Yorkshire,England,North East,Cleveland,136137.0156,18.664,53.858710948334675,1409.7,E06000002,Middlesbrough,Cleveland
+E08000030,Walsall,West Midlands,England,West Midlands,West Midlands,290273.3125,18.664,103.99950240851791,1458.95,E08000030,Walsall,West Midlands
+E08000023,South Tyneside,Tyne and Wear,England,North East,Northumbria,151143.9844,18.6502,64.43412779242,1564.5921875,E08000023,South Tyneside,Northumbria
+E09000016,Havering,Greater London,England,London,Metropolitan Police,287174.625,18.6502,112.32829030755131,1630.5454545454545,LONDON,Greater London,Metropolitan Police
+E09000008,Croydon,Greater London,England,London,Metropolitan Police,430540.1875,18.6321,86.51412180745227,1575.375,LONDON,Greater London,Metropolitan Police
+E08000009,Trafford,Greater Manchester,England,North West,Greater Manchester,289847.8125,18.6187,106.02023092539464,1430.175,E08000009,Trafford,Greater Manchester
+E08000011,Knowsley,Merseyside,England,North West,Merseyside,141427.3438,18.5838,86.53941391991282,1463.8,E08000011,Knowsley,Merseyside
+E06000018,Nottingham,Nottinghamshire,England,East Midlands,Nottinghamshire,280061.0625,18.5795,74.61551077310641,1479.6,E06000018,Nottingham,Nottinghamshire
+E08000006,Salford,Greater Manchester,England,North West,Greater Manchester,262124.3438,18.5774,97.17053177263274,1403.625,E08000006,Salford,Greater Manchester
+E08000031,Wolverhampton,West Midlands,England,West Midlands,West Midlands,281774.2812,18.55,69.45252884148503,1428.65,E08000031,Wolverhampton,West Midlands
+E06000039,Slough,Berkshire,England,South East,Thames Valley,114301.9375,18.5172,32.53395837195368,1684.3,E06000039,Slough,Thames Valley
+E09000021,Kingston upon Thames,Greater London,England,London,Metropolitan Police,151352.4531,18.5051,37.26425010450893,1652.0,LONDON,Greater London,Metropolitan Police
+E07000107,Dartford,Kent,England,South East,Kent,117451.1719,18.4698,72.72195701882404,1630.2,E07000107,Dartford,Kent
+E09000010,Enfield,Greater London,England,London,Metropolitan Police,314769.1562,18.4506,82.15488000462634,1601.05,LONDON,Greater London,Metropolitan Police
+E09000003,Barnet,Greater London,England,London,Metropolitan Police,328172.7188,18.4023,86.80594682777557,1605.2,LONDON,Greater London,Metropolitan Police
+E09000029,Sutton,Greater London,England,London,Metropolitan Police,266648.6875,18.3987,43.84833963837938,1590.5,LONDON,Greater London,Metropolitan Police
+E09000017,Hillingdon,Greater London,England,London,Metropolitan Police,344254.3125,18.3701,115.71879107611522,1662.1,LONDON,Greater London,Metropolitan Police
+E09000015,Harrow,Greater London,England,London,Metropolitan Police,280531.125,18.3492,50.480595412262836,1622.45,LONDON,Greater London,Metropolitan Police
+E08000025,Birmingham,West Midlands,England,West Midlands,West Midlands,1114968.375,18.3151,267.7758709322915,1496.22,E08000025,Birmingham,West Midlands
+S12000049,Glasgow City,Glasgow City,Scotland,Scotland,Police Scotland,702538.9375,18.3151,174.63024249074053,1322.1,S12000049,Glasgow City,Police Scotland
+E09000004,Bexley,Greater London,England,London,Metropolitan Police,236270.2656,18.3084,60.58520334731471,1592.2285714285715,LONDON,Greater London,Metropolitan Police
+E09000027,Richmond upon Thames,Greater London,England,London,Metropolitan Police,290423.9375,18.3018,57.33223678225747,1665.8,LONDON,Greater London,Metropolitan Police
+E08000012,Liverpool,Merseyside,England,North West,Merseyside,503355.0,18.2724,111.81548534841001,1472.9759259259258,E08000012,Liverpool,Merseyside
+E09000026,Redbridge,Greater London,England,London,Metropolitan Police,365401.5,18.2469,56.38280130822481,1591.6333333333334,LONDON,Greater London,Metropolitan Police
+E08000003,Manchester,Greater Manchester,England,North West,Greater Manchester,499052.875,18.2007,115.61036856065877,1379.95,E08000003,Manchester,Greater Manchester
+E08000028,Sandwell,West Midlands,England,West Midlands,West Midlands,383271.5938,18.1947,85.59286212755867,1476.55,E08000028,Sandwell,West Midlands
+E09000024,Merton,Greater London,England,London,Metropolitan Police,195411.5469,18.1768,37.62440478012645,1621.45,LONDON,Greater London,Metropolitan Police
+E09000002,Barking and Dagenham,Greater London,England,London,Metropolitan Police,195644.4688,18.0179,36.099525920982295,1580.0,LONDON,Greater London,Metropolitan Police
+E09000018,Hounslow,Greater London,England,London,Metropolitan Police,316049.625,17.9877,55.94366904980103,1677.275,LONDON,Greater London,Metropolitan Police
+E09000009,Ealing,Greater London,England,London,Metropolitan Police,288737.0938,17.9583,55.55285486079827,1644.15,LONDON,Greater London,Metropolitan Police
+E09000023,Lewisham,Greater London,England,London,Metropolitan Police,341753.8438,17.9583,35.184740296394985,1549.1,LONDON,Greater London,Metropolitan Police
+E09000014,Haringey,Greater London,England,London,Metropolitan Police,303181.4062,17.8928,29.60415634306327,1578.1,LONDON,Greater London,Metropolitan Police
+E09000011,Greenwich,Greater London,England,London,Metropolitan Police,283016.75,17.8681,47.29378836909643,1558.9833333333336,LONDON,Greater London,Metropolitan Police
+E09000032,Wandsworth,Greater London,England,London,Metropolitan Police,412209.8438,17.8331,34.262940523916726,1632.45,LONDON,Greater London,Metropolitan Police
+E09000031,Waltham Forest,Greater London,England,London,Metropolitan Police,310750.25,17.8288,38.83431954800753,1581.3,LONDON,Greater London,Metropolitan Police
+E09000005,Brent,Greater London,England,London,Metropolitan Police,275151.5,17.7992,43.22642739592392,1613.5,LONDON,Greater London,Metropolitan Police
+E09000007,Camden,Greater London,England,London,Metropolitan Police,159880.8438,17.7074,21.787942893527756,1589.9,LONDON,Greater London,Metropolitan Police
+E09000022,Lambeth,Greater London,England,London,Metropolitan Police,235103.5625,17.6298,26.795994362957618,1560.8,LONDON,Greater London,Metropolitan Police
+E09000025,Newham,Greater London,England,London,Metropolitan Police,352909.5938,17.5741,36.187416328964254,1559.5999999999997,LONDON,Greater London,Metropolitan Police
+E09000013,Hammersmith and Fulham,Greater London,England,London,Metropolitan Police,149715.2344,17.477,16.389611260450344,1620.2,LONDON,Greater London,Metropolitan Police
+E09000012,Hackney,Greater London,England,London,Metropolitan Police,159714.0938,17.4646,19.04740586638413,1578.1,LONDON,Greater London,Metropolitan Police
+E09000020,Kensington and Chelsea,Greater London,England,London,Metropolitan Police,129497.2188,17.3849,12.146108923643544,1597.7,LONDON,Greater London,Metropolitan Police
+E09000019,Islington,Greater London,England,London,Metropolitan Police,300562.4062,17.3764,14.853511635893408,1554.3,LONDON,Greater London,Metropolitan Police
+E09000028,Southwark,Greater London,England,London,Metropolitan Police,386477.2188,17.3736,28.850917122700192,1552.3,LONDON,Greater London,Metropolitan Police
+E09000033,Westminster,Greater London,England,London,Metropolitan Police,293600.4062,17.2512,21.447785300838202,1588.5,LONDON,Greater London,Metropolitan Police
+E09000030,Tower Hamlets,Greater London,England,London,Metropolitan Police,378421.5625,17.2387,19.76743390992284,1551.7,LONDON,Greater London,Metropolitan Police

@@ -1,0 +1,2285 @@
+sample,year,month,hour,shape,dur_s,place,lat,lon,unit,generic_london
+gb,1955,10,17,circle,20.0,Chester,53.2,-2.916667,E06000050,False
+gb,1965,10,21,circle,180.0,Penarth,51.434722,-3.18,W06000014,False
+gb,1974,10,21,disk,1200.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1976,10,22,cigar,3.0,Stoke Mandeville,51.783333,-0.783333,E06000060,False
+gb,1985,10,20,triangle,600.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2005,10,20,formation,360.0,Newtown,52.516667,-3.3,W06000023,False
+gb,2006,10,21,formation,120.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2011,10,14,oval,300.0,Epsom,51.316667,-0.266667,E07000208,False
+gb,2000,10,19,diamond,3.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,10,22,changing,240.0,Dolgellau,52.75,-3.883333,W06000002,False
+gb,2005,10,0,formation,180.0,Cannock,52.683333,-2.016667,E07000192,False
+gb,2005,10,21,oval,3600.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2006,10,21,formation,5.0,Kidlington,51.816667,-1.283333,E07000177,False
+gb,2007,10,23,unknown,300.0,London,51.514125,-0.093689,LONDON,True
+gb,1983,10,17,sphere,97836000.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1995,10,21,light,60.0,Taunton,51.021111,-3.104722,E06000066,False
+gb,1998,10,21,fireball,8.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2000,10,20,triangle,60.0,Tillicoultry,56.15,-3.75,S12000005,False
+gb,2004,10,23,fireball,300.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2005,10,21,light,240.0,Buxton,52.75,1.3,E07000144,False
+gb,2013,10,23,fireball,30.0,London,51.514125,-0.093689,LONDON,True
+gb,1997,10,10,other,60.0,Poole,50.716667,-2.0,E06000058,False
+gb,2001,10,20,triangle,10.0,Cannock,52.683333,-2.016667,E07000192,False
+gb,2002,10,19,light,120.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2008,10,21,light,60.0,Stafford,52.833333,-2.0,E07000197,False
+gb,1999,10,4,unknown,3600.0,East Kilbride,55.766667,-4.166667,S12000029,False
+gb,2003,10,19,unknown,90.0,Runcorn,53.333333,-2.75,E06000006,False
+gb,2004,10,7,fireball,30.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2005,10,19,light,1200.0,Shropshire,52.666667,-2.75,E06000051,False
+gb,2007,10,22,circle,600.0,Kirkcaldy,56.116667,-3.166667,S12000047,False
+gb,2011,10,19,oval,60.0,Oldham,53.55,-2.116667,E08000004,False
+gb,2012,10,20,circle,300.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2012,10,22,light,600.0,Seaford,50.766667,0.1,E07000063,False
+gb,2012,10,22,fireball,2.0,Tonbridge,51.183333,0.283333,E07000115,False
+gb,2005,10,3,triangle,30.0,Llanelli,51.676111,-4.156667,W06000010,False
+gb,2010,10,22,other,180.0,Northwich,53.266667,-2.5,E06000050,False
+gb,1967,10,16,cigar,300.0,Castleside,54.833333,-1.866667,E06000047,False
+gb,1970,10,19,unknown,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,1988,10,19,circle,240.0,London,51.514125,-0.093689,LONDON,True
+gb,1999,10,2,formation,180.0,Inverness,57.466667,-4.233333,S12000017,False
+gb,1999,10,0,triangle,120.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2000,10,18,light,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,10,0,disk,420.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2002,10,15,other,300.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2004,10,0,light,1800.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2007,10,19,fireball,300.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2009,10,19,changing,240.0,Selby,53.783333,-1.066667,E06000065,False
+gb,2007,10,20,triangle,15.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2008,10,22,circle,5.0,Bracknell,51.416667,-0.75,E06000036,False
+gb,2009,10,0,light,6.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2013,10,18,other,60.0,Wymondham,52.566667,1.116667,E07000149,False
+gb,2002,10,20,triangle,5.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2007,10,21,light,180.0,Gillingham,51.4,0.566667,E06000035,False
+gb,2007,10,23,sphere,60.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2010,10,15,rectangle,120.0,Ackworth,53.65,-1.333333,E08000036,False
+gb,2012,10,5,light,3600.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2003,10,19,other,1.0,Fareham,50.85,-1.183333,E07000087,False
+gb,2005,10,1,other,18000.0,Colwyn Bay,53.3,-3.75,W06000003,False
+gb,2006,10,11,light,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,10,17,diamond,1200.0,Leamington Spa,52.3,-1.533333,E07000222,False
+gb,2012,10,6,unknown,300.0,Blandford Forum,50.866667,-2.166667,E06000059,False
+gb,1968,10,19,formation,1200.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,1997,10,22,egg,120.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2000,10,20,triangle,10.0,Scunthorpe,53.583333,-0.65,E06000013,False
+gb,2000,10,23,diamond,3.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2004,10,6,light,15.0,Castleford,53.716667,-1.35,E08000036,False
+gb,2005,10,20,other,120.0,Essex,51.833333,0.583333,E07000067,False
+gb,1987,10,21,triangle,1800.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,1987,10,21,triangle,600.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2005,10,13,light,900.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2007,10,3,disk,900.0,Hereford,52.05,-2.716667,E06000019,False
+gb,2012,10,3,light,600.0,Durham County,54.766667,-1.566667,E06000047,False
+gb,2004,10,21,oval,900.0,Bridlington,54.095,-0.208056,E06000011,False
+gb,2000,10,20,triangle,30.0,Bridlington,54.095,-0.208056,E06000011,False
+gb,2003,10,21,fireball,1800.0,Cheltenham,51.9,-2.083333,E07000078,False
+gb,2007,10,0,teardrop,8.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2008,10,19,fireball,300.0,Kirkby In Ashfield,53.083333,-1.266667,E07000170,False
+gb,2007,10,20,fireball,180.0,Burnley,53.8,-2.233333,E07000117,False
+gb,2002,10,11,circle,2400.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2002,10,21,light,600.0,Cheltenham,51.9,-2.083333,E07000078,False
+gb,2003,10,22,sphere,120.0,Lancaster,54.066667,-2.833333,E07000121,False
+gb,2005,10,22,formation,900.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,10,21,triangle,30.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2007,10,17,disk,120.0,Stevenage,51.916667,-0.216667,E07000243,False
+gb,2007,10,18,fireball,60.0,Aldershot,51.25,-0.766667,E07000092,False
+gb,2008,10,0,circle,60.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2001,10,23,cigar,120.0,Hamilton,55.766667,-4.033333,S12000029,False
+gb,2011,10,0,sphere,3600.0,Bridgend,51.505833,-3.577222,W06000013,False
+gb,1999,10,21,oval,1295.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2003,10,10,sphere,10.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,10,21,other,3.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2006,10,6,sphere,1500.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2006,10,19,fireball,40.0,Northampton,52.25,-0.883333,E06000062,False
+gb,1997,10,19,cylinder,30.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2002,10,17,cigar,180.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2000,10,20,teardrop,1080.0,Brandon,52.366667,-1.4,E07000220,False
+gb,2007,10,12,other,10.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2010,10,19,diamond,150.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2011,10,18,sphere,10.0,Herefordshire,52.083333,-2.75,E06000019,False
+gb,2008,10,19,circle,300.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2009,10,20,circle,60.0,Heswall,53.316667,-3.1,E08000015,False
+gb,2011,10,18,circle,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2011,10,20,other,60.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2004,10,0,triangle,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,10,21,diamond,600.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2007,10,21,light,600.0,Colchester,51.883333,0.9,E07000071,False
+gb,2008,10,9,unknown,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,10,21,light,600.0,Hereford,52.05,-2.716667,E06000019,False
+gb,2009,10,23,sphere,600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,10,22,fireball,2.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2001,10,9,disk,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,10,7,diamond,10.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2006,10,18,circle,40.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2009,10,19,fireball,240.0,Grays,51.483333,0.333333,E06000034,False
+gb,2013,10,20,triangle,7.0,Ryde,50.716667,-1.166667,E06000046,False
+gb,1999,10,22,triangle,90.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2008,10,18,circle,120.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2013,10,22,fireball,180.0,Clogher,54.416667,-7.2,N09000009,False
+gb,1999,10,14,oval,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2004,10,17,cone,40.0,Ticknall,52.8,-1.483333,E07000039,False
+gb,2007,10,21,circle,600.0,Uckfield,50.966667,0.1,E07000065,False
+gb,2007,10,22,light,2.0,Leamington Spa,52.3,-1.533333,E07000222,False
+gb,2007,10,22,,240.0,Worthing,50.8,-0.366667,E07000229,False
+gb,1987,10,22,light,10.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2002,10,16,circle,120.0,Huddersfield,53.65,-1.783333,E08000034,False
+gb,2006,10,19,fireball,300.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2008,10,19,disk,180.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2001,10,0,triangle,180.0,Wigan,53.533333,-2.616667,E08000010,False
+gb,1995,10,2,other,240.0,Stirling,56.116667,-3.95,S12000030,False
+gb,1998,10,19,sphere,120.0,Reading,51.433333,-1.0,E06000038,False
+gb,1998,10,21,other,7200.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,10,20,light,7200.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,1971,1,21,disk,180.0,Preston,50.783333,-0.466667,E07000224,False
+gb,1998,1,18,circle,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,1,17,circle,3.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2004,1,0,changing,1800.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2006,1,1,teardrop,30.0,Exeter,50.7,-3.533333,E07000041,False
+gb,2009,1,19,changing,240.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2009,1,22,circle,2.0,Bath,51.379444,-2.365556,E06000022,False
+gb,2010,1,7,triangle,720.0,Kilmartin,56.116667,-5.483333,S12000035,False
+gb,2011,1,11,disk,300.0,Kent,51.25,0.75,E07000110,False
+gb,2011,1,19,other,600.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,1967,11,8,cylinder,300.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,1996,11,23,light,300.0,York,53.954115,-1.064262,E06000014,False
+gb,2001,11,23,light,1800.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2002,11,18,formation,300.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2003,11,21,fireball,20.0,Chesterfield,53.25,-1.416667,E07000034,False
+gb,2007,11,18,formation,300.0,Southport,53.666667,-3.0,E08000014,False
+gb,2012,11,19,circle,60.0,Macclesfield,53.25,-2.116667,E06000049,False
+gb,1974,1,3,sphere,900.0,Cambridge,51.733333,-2.366667,E07000082,False
+gb,1986,11,3,light,900.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,1989,1,20,rectangle,60.0,Shotts,55.833333,-3.85,S12000050,False
+gb,1992,1,0,other,600.0,Newtown,52.516667,-3.3,W06000023,False
+gb,1993,11,20,cigar,600.0,Sandy,52.116667,-0.283333,E06000056,False
+gb,2001,11,13,oval,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,1,18,changing,360.0,Norwich,52.633333,1.3,E07000148,False
+gb,2001,1,20,light,120.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2005,11,22,circle,10.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2008,11,21,circle,240.0,Glenrothes,56.2,-3.183333,S12000047,False
+gb,2008,1,23,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,11,22,sphere,300.0,Leighton Buzzard,51.916667,-0.65,E06000056,False
+gb,2000,11,17,triangle,600.0,Kent,51.25,0.75,E07000110,False
+gb,2001,11,0,unknown,2.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,11,23,circle,900.0,Lincolnshire,53.166667,-0.25,E07000137,False
+gb,2005,11,0,light,300.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2007,11,22,formation,2.0,Solihull,52.416667,-1.783333,E08000029,False
+gb,2010,11,19,unknown,300.0,Tamworth,52.616667,-1.683333,E07000199,False
+gb,2011,11,22,light,20.0,Alton,52.966667,-1.883333,E07000193,False
+gb,2010,11,19,light,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2011,11,19,sphere,159.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2001,11,19,triangle,8.0,Burnley,53.8,-2.233333,E07000117,False
+gb,2003,11,18,rectangle,20.0,Haslingden,53.7,-2.333333,E07000125,False
+gb,2008,11,18,fireball,30.0,Warwickshire,52.333333,-1.583333,E07000222,False
+gb,2008,11,20,sphere,2.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2008,11,22,circle,180.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,11,23,fireball,60.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,1962,11,23,disk,300.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1997,11,19,unknown,5.0,Northampton,52.25,-0.883333,E06000062,False
+gb,1998,11,13,rectangle,240.0,London,51.514125,-0.093689,LONDON,True
+gb,1999,11,2,light,30.0,Elgin,57.65,-3.333333,S12000020,False
+gb,2000,11,23,diamond,1200.0,Newmarket,53.3,-3.383333,W06000004,False
+gb,2001,11,1,triangle,480.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,11,22,rectangle,180.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2001,11,22,light,10.0,Darlington,50.45,-3.716667,E07000044,False
+gb,2002,11,0,light,2.0,Walsall,52.6,-2.0,E08000030,False
+gb,2002,11,1,light,1.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2003,11,21,egg,90.0,Bournemouth,50.716667,-1.883333,E06000058,False
+gb,2004,11,22,circle,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,11,17,sphere,600.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2003,11,18,light,600.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2007,11,19,light,180.0,Skelmersdale,53.533333,-2.8,E07000127,False
+gb,2002,11,19,unknown,10.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2005,11,17,unknown,60.0,Bicester,51.9,-1.15,E07000177,False
+gb,2006,11,18,circle,600.0,Trowbridge,51.318889,-2.208611,E06000054,False
+gb,2012,11,21,circle,1800.0,Cumnock,55.45,-4.266667,S12000008,False
+gb,2004,11,19,unknown,120.0,Thankerton,55.616667,-3.616667,S12000029,False
+gb,2005,11,19,light,30.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2005,11,20,light,1800.0,County Durham,54.766667,-1.566667,E06000047,False
+gb,2006,11,23,light,300.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2012,11,19,flash,300.0,Guildford,51.216667,-0.566667,E07000209,False
+gb,2012,11,22,other,300.0,Orpington,51.35,0.1,LONDON,False
+gb,2005,11,21,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,11,17,triangle,15.0,Murton,54.816667,-1.416667,E06000047,False
+gb,2009,11,16,cigar,300.0,Dover,51.133333,1.3,E07000108,False
+gb,1978,1,0,disk,1.0,London,51.514125,-0.093689,LONDON,True
+gb,1982,1,17,cylinder,30.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2002,1,13,sphere,30.0,Torquay,50.45,-3.5,E06000027,False
+gb,2002,1,22,sphere,20.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2003,1,0,light,60.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2003,1,0,light,240.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2004,1,12,fireball,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,1,0,other,2.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2005,1,0,sphere,360.0,Waltham Abbey,51.683333,0.016667,E07000072,False
+gb,2005,1,3,formation,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,1,19,oval,600.0,Welwyn Garden City,51.8,-0.2,E07000241,False
+gb,2008,1,0,disk,120.0,Ellesmere Port,53.283333,-2.9,E06000050,False
+gb,2008,1,0,formation,900.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2009,1,0,light,45.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2009,1,0,oval,900.0,Southampton,50.9,-1.4,E06000045,False
+gb,2009,1,0,disk,420.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,1,0,flash,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,1,1,other,3600.0,Swanage,50.6,-1.966667,E06000059,False
+gb,2009,1,2,other,180.0,Croydon,51.383333,-0.1,LONDON,False
+gb,2009,1,18,fireball,300.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2010,1,0,diamond,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,1,0,fireball,5.0,Leicestershire,52.664913,-1.034894,E07000130,False
+gb,2010,1,0,light,1200.0,Walsall,52.6,-2.0,E08000030,False
+gb,2010,1,0,circle,360.0,Bromsgrove,52.333333,-2.066667,E07000234,False
+gb,2010,1,1,other,180.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2010,1,1,fireball,120.0,Stroud,51.75,-2.2,E07000082,False
+gb,2010,1,0,fireball,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2012,1,21,sphere,900.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2013,1,0,oval,40.0,Norwich,52.633333,1.3,E07000148,False
+gb,2013,1,0,light,25.0,Chawton,51.133333,-0.983333,E07000085,False
+gb,2013,1,1,fireball,120.0,Alton,52.966667,-1.883333,E07000193,False
+gb,2013,1,5,oval,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,1998,11,21,disk,600.0,Launceston,50.633889,-4.364444,E06000052,False
+gb,2005,11,20,light,600.0,Essex,51.833333,0.583333,E07000067,False
+gb,2008,11,20,sphere,180.0,Rochester,55.3,-2.25,E06000057,False
+gb,2009,11,23,rectangle,1200.0,Boston,52.983333,-0.016667,E07000136,False
+gb,2004,11,10,light,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,11,17,other,30.0,Newmarket,53.3,-3.383333,W06000004,False
+gb,2000,11,18,oval,2.0,Billericay,51.616667,0.416667,E07000066,False
+gb,2001,11,22,triangle,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,11,11,oval,240.0,Polegate,50.8,0.233333,E07000061,False
+gb,2005,1,21,cross,3600.0,Sidcup,51.416667,0.116667,LONDON,False
+gb,2008,1,0,formation,600.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2008,11,9,changing,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2013,1,21,sphere,21600.0,Biggar,55.616667,-3.516667,S12000029,False
+gb,2003,11,0,sphere,3.0,Burnley,53.8,-2.233333,E07000117,False
+gb,2003,11,20,circle,600.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,2007,11,21,triangle,900.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2008,11,19,circle,120.0,Oxford,51.75,-1.25,E07000178,False
+gb,2009,11,18,oval,40.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2013,11,21,changing,7200.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,1993,11,3,triangle,180.0,Essex,51.833333,0.583333,E07000067,False
+gb,2006,11,23,sphere,30.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2013,11,21,changing,3600.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2000,11,23,light,5.0,Slough,51.5,-0.583333,E06000039,False
+gb,2002,11,20,fireball,300.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,11,8,light,3600.0,Kirkcaldy,56.116667,-3.166667,S12000047,False
+gb,2006,11,17,flash,2.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,11,1,diamond,30.0,Chelmsford,51.733333,0.483333,E07000070,False
+gb,2006,11,2,disk,90.0,Norwich,52.633333,1.3,E07000148,False
+gb,2006,11,7,flash,60.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2006,11,20,triangle,240.0,Stevenage,51.916667,-0.216667,E07000243,False
+gb,2002,11,18,light,120.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2006,11,15,cigar,60.0,Llandudno,53.333333,-3.833333,W06000003,False
+gb,2007,11,22,other,3600.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2009,11,18,triangle,360.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2001,11,20,egg,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,11,0,disk,600.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2005,11,2,cross,1800.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2005,11,3,light,120.0,Lichfield,52.683333,-1.816667,E07000194,False
+gb,2010,11,19,light,60.0,Chawton,51.133333,-0.983333,E07000085,False
+gb,2001,11,12,sphere,20.0,Shepton Mallet,51.189722,-2.547222,E06000066,False
+gb,2005,11,20,other,9.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2005,11,0,diamond,900.0,Huntingdon,52.333333,-0.183333,E07000011,False
+gb,2003,11,12,egg,240.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2000,1,23,sphere,120.0,Motherwell,55.783333,-4.0,S12000050,False
+gb,2001,1,18,fireball,2.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2005,1,6,,10.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2005,1,7,circle,6300.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2007,11,19,circle,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,1,20,oval,3600.0,Rustington,50.8,-0.5,E07000224,False
+gb,2012,1,19,other,30.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1979,11,16,circle,3600.0,Milford Haven,51.716667,-5.033333,W06000009,False
+gb,2003,1,16,light,60.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2003,1,18,unknown,180.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2004,1,16,fireball,16.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2004,11,19,sphere,180.0,Marlborough,51.416667,-1.716667,E06000054,False
+gb,2005,11,22,fireball,3.0,Nottinghamshire,53.166667,-1.0,E07000175,False
+gb,2006,11,19,cigar,14400.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2006,11,19,cigar,14400.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2006,1,19,sphere,420.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2006,11,19,light,300.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2006,11,20,triangle,30.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2006,11,21,light,240.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2006,11,21,circle,300.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2009,11,9,sphere,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,1,3,triangle,600.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2012,11,19,sphere,40.0,Cheshire,53.166667,-2.583333,E06000050,False
+gb,2013,1,2,circle,86400.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2013,11,20,light,20.0,Bracknell,51.416667,-0.75,E06000036,False
+gb,2001,1,18,other,5.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2001,1,19,other,300.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2002,11,13,cross,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,11,18,triangle,120.0,Huddersfield,53.65,-1.783333,E08000034,False
+gb,2003,11,22,cigar,420.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2006,11,19,light,300.0,Westbury,51.26,-2.1875,E06000054,False
+gb,2006,11,19,light,600.0,Chesterfield,53.25,-1.416667,E07000034,False
+gb,2009,11,18,egg,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,11,20,sphere,1200.0,Carmarthenshire,51.833333,-4.166667,W06000010,False
+gb,2009,11,22,fireball,90.0,Dagenham,51.55,0.166667,LONDON,False
+gb,2010,1,17,circle,10.0,Stourport,52.35,-2.266667,E07000239,False
+gb,2012,11,20,circle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2013,11,16,oval,5.0,Norwich,52.633333,1.3,E07000148,False
+gb,1998,11,19,light,10.0,Bath,51.379444,-2.365556,E06000022,False
+gb,2006,1,21,light,180.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2009,1,18,disk,30.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2012,1,18,triangle,30.0,Worcestershire,52.166667,-2.166667,E07000238,False
+gb,1987,1,6,other,600.0,Llanelli,51.676111,-4.156667,W06000010,False
+gb,2002,1,17,cigar,10.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2003,1,20,fireball,40.0,Accrington,53.766667,-2.35,E07000120,False
+gb,2004,11,2,teardrop,1200.0,Shropshire,52.666667,-2.75,E06000051,False
+gb,2008,11,21,light,600.0,Abercarn,51.647222,-3.136944,W06000018,False
+gb,2009,1,19,light,15.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2013,1,20,unknown,900.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2000,1,22,formation,600.0,Potters Bar,51.683333,-0.166667,E07000098,False
+gb,2001,11,20,formation,10.0,Slough,51.5,-0.583333,E06000039,False
+gb,2001,1,23,light,600.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2002,1,6,circle,600.0,Norwich,52.633333,1.3,E07000148,False
+gb,2006,1,18,light,60.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2006,1,19,triangle,40.0,Skegness,53.133333,0.35,E07000137,False
+gb,2008,11,23,light,180.0,Rugeley,52.766667,-1.933333,E07000192,False
+gb,2012,1,13,,5.0,Morton,51.611667,-2.5125,E06000025,False
+gb,2013,11,11,formation,360.0,Kirkcaldy,56.116667,-3.166667,S12000047,False
+gb,2001,1,19,circle,600.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,2002,1,14,other,1200.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2007,1,17,circle,120.0,Durham,54.766667,-1.566667,E06000047,False
+gb,2007,1,20,circle,60.0,Ramsey,51.933333,1.216667,E07000076,False
+gb,2008,1,23,oval,120.0,West Kilbride,57.2,-5.966667,S12000017,False
+gb,2011,1,15,sphere,12.0,Millom,54.2,-3.266667,E06000063,False
+gb,2007,12,19,fireball,900.0,Leven,56.2,-3.0,S12000047,False
+gb,2008,12,2,disk,30.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2013,12,2,disk,900.0,Bristol,51.45,-2.583333,E06000023,False
+gb,1980,12,23,other,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1992,12,22,sphere,600.0,St. Andrews,56.333333,-2.783333,S12000047,False
+gb,2000,12,15,,60.0,Grantham,52.9,-0.633333,E07000141,False
+gb,2001,12,22,light,10.0,North Yorkshire,54.166667,-1.5,E06000065,False
+gb,2002,12,20,light,15.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2003,12,16,light,2700.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2006,12,22,egg,2.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,12,22,light,5.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,12,22,light,5.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2006,12,23,flash,10.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2012,12,20,other,360.0,Durham,54.766667,-1.566667,E06000047,False
+gb,1951,12,19,cigar,15.0,Crewe,53.1,-2.433333,E06000049,False
+gb,1996,1,22,circle,60.0,Walsall,52.6,-2.0,E08000030,False
+gb,2001,12,22,fireball,20.0,Horsham,51.05,-0.333333,E07000227,False
+gb,2007,1,19,other,600.0,Accrington,53.766667,-2.35,E07000120,False
+gb,2008,12,4,diamond,8.0,Birkenhead,53.4,-3.033333,E08000015,False
+gb,2008,1,18,diamond,240.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2012,12,17,sphere,60.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2001,12,18,unknown,30.0,Carlisle,54.883333,-2.933333,E06000063,False
+gb,2002,12,6,disk,1560.0,Somerset,51.083333,-3.0,E06000066,False
+gb,2002,12,22,teardrop,300.0,Maidstone,51.266667,0.516667,E07000110,False
+gb,2006,12,18,oval,5.0,Coatbridge,55.866667,-4.033333,S12000050,False
+gb,2006,12,23,circle,3.0,Coatbridge,55.866667,-4.033333,S12000050,False
+gb,2008,12,21,sphere,45.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2011,12,11,sphere,60.0,Bristol,51.45,-2.583333,E06000023,False
+gb,1998,12,2,cigar,120.0,Ashburton,50.516667,-3.75,E07000045,False
+gb,2001,12,15,other,60.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2009,12,17,diamond,240.0,Ellesmere Port,53.283333,-2.9,E06000050,False
+gb,2003,12,23,light,15.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2010,12,22,light,3.0,London,51.514125,-0.093689,LONDON,True
+gb,2011,12,0,fireball,3.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,12,23,unknown,900.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2003,12,23,light,2.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2005,12,7,oval,8.0,Scarborough,54.287222,-0.414167,E06000065,False
+gb,2007,12,19,other,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,12,18,circle,300.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2010,12,18,circle,300.0,Uplyme,50.733333,-2.966667,E07000040,False
+gb,2012,12,3,light,1.0,Darwen,53.7,-2.466667,E06000008,False
+gb,1972,12,22,triangle,20.0,Gravesend,51.433333,0.366667,E07000109,False
+gb,2001,12,18,formation,60.0,Addlestone,51.366667,-0.483333,E07000212,False
+gb,2002,12,22,diamond,600.0,Congerstone,52.633333,-1.45,E07000132,False
+gb,2000,12,12,light,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,12,23,light,30.0,Helmsley,54.25,-1.066667,E06000065,False
+gb,2002,12,6,diamond,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,12,6,teardrop,20.0,Ystradgynlais,51.766667,-3.766667,W06000023,False
+gb,2004,12,18,light,60.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2005,12,22,circle,240.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2007,1,21,cigar,14.0,Solihull,52.416667,-1.783333,E08000029,False
+gb,2010,1,4,triangle,10.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2010,1,20,changing,900.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2014,1,5,flash,5.0,Holywell,53.283333,-3.25,W06000005,False
+gb,2000,12,23,other,120.0,Whaley Bridge,53.333333,-1.983333,E07000037,False
+gb,2003,12,20,diamond,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,12,23,disk,1800.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2006,12,0,diamond,60.0,Stockport,53.4,-2.15,E08000007,False
+gb,2008,12,23,,600.0,Haywards Heath,50.983333,-0.1,E07000228,False
+gb,2001,1,2,oval,600.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2001,1,9,teardrop,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2002,1,23,teardrop,12.0,Oundle,52.483333,-0.466667,E06000061,False
+gb,2003,12,23,unknown,900.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2005,12,18,light,60.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2007,12,4,disk,2.0,Bridgewater,51.129722,-3.000556,E06000066,False
+gb,2003,12,2,light,300.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2003,12,17,sphere,60.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2004,12,21,flash,3.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2004,12,0,cigar,240.0,Oxford,51.75,-1.25,E07000178,False
+gb,2008,12,18,light,240.0,Mablethorpe,53.333333,0.25,E07000137,False
+gb,2009,12,4,triangle,5.0,Oldham,53.55,-2.116667,E08000004,False
+gb,2005,12,19,light,3.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2005,12,20,triangle,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2008,12,17,fireball,120.0,Harwich,51.95,1.3,E07000244,False
+gb,2008,12,21,circle,30.0,North Shields,55.004722,-1.472778,E08000022,False
+gb,2010,12,19,triangle,3600.0,Southport,53.666667,-3.0,E08000014,False
+gb,2011,12,19,other,60.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,1997,12,20,circle,5.0,Watford,52.3,-1.116667,E06000062,False
+gb,2002,12,5,circle,180.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2008,12,20,circle,300.0,Uddingston,55.8,-4.066667,S12000029,False
+gb,2009,12,18,other,30.0,Bath,51.379444,-2.365556,E06000022,False
+gb,2009,12,19,fireball,180.0,Consett,54.85,-1.833333,E06000047,False
+gb,2009,12,21,light,60.0,Greenock,55.933333,-4.75,S12000018,False
+gb,2009,12,23,triangle,300.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2013,12,2,flash,3.0,Dartmouth,50.35,-3.583333,E07000044,False
+gb,1996,12,19,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,1998,12,16,light,300.0,Haltwhistle,54.983333,-2.433333,E06000057,False
+gb,2001,12,22,unknown,600.0,Hartlepool,54.686111,-1.2125,E06000001,False
+gb,2002,12,0,diamond,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,12,4,unknown,30.0,Horsham,51.05,-0.333333,E07000227,False
+gb,2008,12,18,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,12,19,other,120.0,Midgham,51.4,-1.2,E06000037,False
+gb,2008,12,19,oval,120.0,Taunton,51.021111,-3.104722,E06000066,False
+gb,2008,12,20,light,240.0,St. Andrews,56.333333,-2.783333,S12000047,False
+gb,2009,12,17,triangle,120.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2010,12,18,light,5.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2010,12,20,sphere,3600.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2010,12,20,circle,180.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2012,12,20,circle,30.0,Raunds,52.333333,-0.533333,E06000061,False
+gb,2012,12,20,,600.0,Alford,57.216667,-2.7,S12000034,False
+gb,2002,12,6,light,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,12,7,other,5.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,12,19,light,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2008,12,17,sphere,480.0,Gloucestershire,51.833333,-2.166667,E07000083,False
+gb,2008,12,21,fireball,180.0,Reading,51.433333,-1.0,E06000038,False
+gb,2009,12,20,egg,120.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2009,12,21,fireball,900.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2000,12,22,disk,6.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2006,12,20,sphere,300.0,Bishops Castle,52.5,-3.0,E06000051,False
+gb,2007,12,21,light,300.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2008,12,0,circle,4.0,Southampton,50.9,-1.4,E06000045,False
+gb,2002,12,19,formation,4.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2005,12,17,circle,7200.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2006,12,23,sphere,300.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2008,12,10,oval,900.0,Harrogate,53.983333,-1.533333,E06000065,False
+gb,2008,12,19,oval,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,12,1,light,60.0,Blackburn,55.866667,-3.633333,S12000040,False
+gb,2013,12,18,triangle,10.0,Harrogate,53.983333,-1.533333,E06000065,False
+gb,1994,12,1,sphere,30.0,Halifax,53.716667,-1.85,E08000033,False
+gb,2003,12,19,circle,300.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2006,12,0,egg,15.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,12,23,fireball,30.0,West Sussex,50.916667,-0.083333,E07000063,False
+gb,2009,12,20,light,2.0,Kilmartin,56.116667,-5.483333,S12000035,False
+gb,2009,12,23,fireball,60.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2002,12,10,unknown,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,12,17,light,180.0,Littlehampton,50.8,-0.533333,E07000224,False
+gb,2001,12,9,teardrop,180.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2004,12,1,cone,900.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2007,12,0,disk,240.0,Aldershot,51.25,-0.766667,E07000092,False
+gb,2008,12,22,light,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,12,0,circle,840.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2009,12,19,circle,600.0,Troon,55.533333,-4.666667,S12000028,False
+gb,2009,12,19,unknown,120.0,Macclesfield,53.25,-2.116667,E06000049,False
+gb,2009,12,22,light,60.0,Preston,50.783333,-0.466667,E07000224,False
+gb,2012,12,21,light,300.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2012,12,22,light,120.0,Douglas,55.55,-3.85,S12000029,False
+gb,2000,12,23,cigar,60.0,New Forest,50.833333,-1.6,E07000091,False
+gb,2002,1,14,other,900.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2002,12,23,fireball,45.0,Llandrindod Wells,52.233333,-3.383333,W06000023,False
+gb,2006,12,20,oval,180.0,Aylesbury,51.816667,-0.8,E06000060,False
+gb,2009,12,3,triangle,240.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2010,1,19,light,10.0,Streetly,52.583333,-1.883333,E08000030,False
+gb,2010,1,22,light,300.0,Abingdon,51.666667,-1.283333,E07000180,False
+gb,2012,1,20,circle,60.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2012,1,20,circle,60.0,Bradford,51.0,-3.183333,E06000066,False
+gb,1976,12,14,egg,1200.0,Hull,53.716667,-0.333333,E06000013,False
+gb,1979,12,20,teardrop,120.0,Burnley,53.8,-2.233333,E07000117,False
+gb,1999,12,4,light,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2000,1,1,changing,1200.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2002,12,18,light,180.0,West Molesey,51.4,-0.35,E07000207,False
+gb,2003,1,3,disk,180.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2003,1,18,diamond,30.0,Dover,51.133333,1.3,E07000108,False
+gb,2004,1,14,triangle,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,12,0,light,25.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2008,12,12,circle,180.0,Milton,51.691111,-4.836389,W06000009,False
+gb,2009,1,19,fireball,240.0,Cirencester,51.733333,-1.983333,E07000079,False
+gb,2009,1,23,circle,60.0,Norwich,52.633333,1.3,E07000148,False
+gb,2011,12,2,unknown,1800.0,Seaton,52.566667,-0.666667,E06000017,False
+gb,2001,1,6,circle,1140.0,Isle Of Wight,50.666667,-1.333333,E06000046,False
+gb,2002,1,19,light,30.0,Mansfield,53.133333,-1.2,E07000174,False
+gb,2008,1,0,triangle,172800.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2009,1,19,light,3600.0,Bristol,51.45,-2.583333,E06000023,False
+gb,1997,12,1,other,9.0,Birkenhead,53.4,-3.033333,E08000015,False
+gb,2000,12,21,triangle,300.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2001,1,21,circle,120.0,Carlisle,54.883333,-2.933333,E06000063,False
+gb,2001,1,23,diamond,30.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2007,12,17,cigar,10.0,Shropshire,52.666667,-2.75,E06000051,False
+gb,2008,1,19,disk,30.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,1998,12,16,oval,300.0,Alloa,56.116667,-3.8,S12000005,False
+gb,2002,1,16,other,5.0,Porthcawl,51.479722,-3.706111,W06000013,False
+gb,2004,1,18,light,12.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2008,1,18,changing,20.0,Cheshire,53.166667,-2.583333,E06000050,False
+gb,2008,1,19,changing,18000.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2008,12,19,fireball,90.0,Runcorn,53.333333,-2.75,E06000006,False
+gb,2011,1,19,light,900.0,Hunstanton,52.95,0.5,E07000146,False
+gb,1987,1,4,oval,14400.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,1996,1,21,cross,300.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2003,1,14,disk,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,12,0,disk,420.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2005,12,3,changing,3600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2007,1,18,light,300.0,Kilsyth,55.966667,-4.05,S12000050,False
+gb,2009,12,19,light,180.0,Great Yarmouth,52.633333,1.75,E07000145,False
+gb,2005,12,15,other,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,12,5,light,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,1,10,cylinder,60.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2010,12,19,light,240.0,Reading,51.433333,-1.0,E06000038,False
+gb,2013,12,20,fireball,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,1,23,sphere,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,1,20,sphere,5.0,Cumbernauld,55.95,-3.983333,S12000050,False
+gb,2001,1,0,unknown,120.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2001,1,18,other,40.0,Cambridge,51.733333,-2.366667,E07000082,False
+gb,2001,1,22,triangle,900.0,Burnley,53.8,-2.233333,E07000117,False
+gb,2003,1,21,light,600.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2006,1,7,oval,120.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2006,1,8,fireball,180.0,Maidstone,51.266667,0.516667,E07000110,False
+gb,2006,1,11,disk,40.0,Rainham,51.35,0.6,E06000035,False
+gb,2007,1,21,sphere,20.0,Norton,52.3,-3.016667,W06000023,False
+gb,2009,1,20,circle,5.0,Gosberton,52.85,-0.15,E07000140,False
+gb,2010,1,19,fireball,60.0,Whitchurch,51.994167,-4.696111,W06000009,False
+gb,2011,1,0,light,40.0,Boston,52.983333,-0.016667,E07000136,False
+gb,2011,1,0,sphere,600.0,Conwy,53.283333,-3.833333,W06000003,False
+gb,2003,1,22,circle,2.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2005,1,20,light,360.0,Kidderminster,52.383333,-2.25,E07000239,False
+gb,2006,1,1,triangle,3.0,York,53.954115,-1.064262,E06000014,False
+gb,2014,1,18,oval,600.0,Coventry,52.416667,-1.55,E08000026,False
+gb,1976,1,21,disk,3600.0,Folkestone,51.083333,1.183333,E07000112,False
+gb,1995,1,17,fireball,40.0,London,51.514125,-0.093689,LONDON,True
+gb,1996,1,4,diamond,120.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2007,1,22,circle,300.0,Halesowen,52.45,-2.05,E08000027,False
+gb,2008,1,2,sphere,300.0,Whitburn,55.866667,-3.683333,S12000040,False
+gb,2009,1,22,oval,1500.0,Reading,51.433333,-1.0,E06000038,False
+gb,2010,1,7,light,2400.0,Bradford,51.0,-3.183333,E06000066,False
+gb,1982,1,13,sphere,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,1,6,light,900.0,Bangor,53.0,-2.916667,W06000006,False
+gb,2006,1,6,triangle,600.0,Lyme Regis,50.733333,-2.933333,E06000059,False
+gb,2006,1,19,sphere,60.0,Warminster,51.203611,-2.180833,E06000054,False
+gb,2007,1,18,other,30.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2013,1,18,flash,10.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,1978,1,22,triangle,1200.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1997,1,0,triangle,60.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2004,1,15,light,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,1,20,other,9.0,Caterham,51.266667,-0.083333,E07000215,False
+gb,2000,1,15,light,120.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2001,1,22,circle,60.0,Stafford,52.833333,-2.0,E07000197,False
+gb,2005,1,17,triangle,180.0,Oldbury,52.55,-1.533333,E07000218,False
+gb,2009,1,19,light,600.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2010,1,17,fireball,30.0,Oxfordshire,51.782296,-1.314047,E07000180,False
+gb,2013,1,18,circle,60.0,Borehamwood,51.65,-0.266667,E07000098,False
+gb,2013,1,23,oval,3600.0,Clackmannanshire,56.166667,-3.75,S12000005,False
+gb,2014,1,21,changing,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,2,0,circle,600.0,Arbroath,56.55,-2.583333,S12000041,False
+gb,2008,2,2,light,3600.0,Maidenhead,51.516667,-0.7,E06000060,False
+gb,2008,2,12,circle,360.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,2,18,triangle,420.0,Barnet,51.65,-0.2,LONDON,False
+gb,2009,2,19,circle,600.0,Gwent,51.666667,-3.0,W06000021,False
+gb,2009,2,20,circle,480.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2009,2,21,fireball,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2010,2,19,flash,600.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2012,2,19,cone,10.0,Burgess Hill,50.966667,-0.133333,E07000228,False
+gb,2014,2,21,other,172800.0,Christchurch,51.6,-2.95,W06000022,False
+gb,2001,2,22,formation,300.0,St. Albans,51.75,-0.333333,E07000240,False
+gb,2008,2,18,light,60.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2012,2,21,circle,300.0,London,51.514125,-0.093689,LONDON,True
+gb,1997,2,18,light,900.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2003,2,18,fireball,1090.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2007,2,17,circle,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,2,18,disk,180.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2003,2,2,light,600.0,Slough,51.5,-0.583333,E06000039,False
+gb,2004,2,0,cigar,25.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2005,2,8,cigar,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,2,19,unknown,30.0,Kingston Upon Hull,53.716667,-0.333333,E06000013,False
+gb,2008,2,11,light,900.0,Luton,51.883333,-0.416667,E06000032,False
+gb,2012,2,0,circle,300.0,Larkhall,55.733333,-3.966667,S12000029,False
+gb,2004,2,3,oval,600.0,Chelmsford,51.733333,0.483333,E07000070,False
+gb,2010,2,0,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,2,19,fireball,180.0,Watford,52.3,-1.116667,E06000062,False
+gb,2010,2,23,light,180.0,Coggeshall,51.866667,0.683333,E07000067,False
+gb,2000,2,15,light,60.0,Todmorden,53.716667,-2.083333,E08000033,False
+gb,2002,2,2,flash,3600.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2002,2,22,disk,300.0,Stroud,51.75,-2.2,E07000082,False
+gb,2004,2,21,circle,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2006,2,19,sphere,120.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2009,2,21,fireball,300.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,1955,2,21,fireball,1200.0,Welwyn Garden City,51.8,-0.2,E07000241,False
+gb,1996,2,19,circle,600.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2003,2,7,light,10.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2003,2,20,flash,7200.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,2,18,light,240.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2009,2,20,circle,300.0,Penzance,50.113611,-5.547778,E06000052,False
+gb,2009,2,20,disk,145.0,Stafford,52.833333,-2.0,E07000197,False
+gb,2000,2,22,light,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2001,2,18,light,2400.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2001,2,18,light,600.0,Willerby,54.183333,-0.45,E06000065,False
+gb,2001,2,20,light,300.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2006,2,23,other,60.0,Norwich,52.633333,1.3,E07000148,False
+gb,2008,2,19,light,30.0,Kendal,54.316667,-2.75,E06000064,False
+gb,2006,2,5,light,120.0,Great Yarmouth,52.633333,1.75,E07000145,False
+gb,2008,2,17,cylinder,300.0,Wigan,53.533333,-2.616667,E08000010,False
+gb,2009,2,22,circle,1200.0,Hastings,50.85,0.6,E07000062,False
+gb,2011,2,22,fireball,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2013,2,21,circle,600.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2014,2,18,other,600.0,Torquay,50.45,-3.5,E06000027,False
+gb,2000,2,23,other,420.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2006,2,23,light,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2011,2,13,light,30.0,Chawton,51.133333,-0.983333,E07000085,False
+gb,2012,2,21,fireball,240.0,Bridlington,54.095,-0.208056,E06000011,False
+gb,2009,2,20,circle,360.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2001,2,3,flash,120.0,Surrey,51.269738,-0.402165,E07000209,False
+gb,2006,2,20,circle,5.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2010,2,18,sphere,60.0,Ayrshire,55.5,-4.5,S12000028,False
+gb,1996,2,20,triangle,7200.0,Inverkeithing,56.033333,-3.383333,S12000047,False
+gb,2001,2,19,circle,120.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2008,2,14,diamond,1500.0,London,51.514125,-0.093689,LONDON,True
+gb,2014,2,7,oval,180.0,Rothwell,52.416667,-0.8,E06000061,False
+gb,2014,2,22,circle,2.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,2,6,egg,60.0,Oswestry,52.85,-3.033333,E06000051,False
+gb,2004,2,13,cigar,600.0,Blackburn,55.866667,-3.633333,S12000040,False
+gb,2000,2,21,teardrop,90.0,Hebden Bridge,53.75,-2.016667,E08000033,False
+gb,2004,2,23,diamond,1320.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2010,2,22,triangle,120.0,Tenbury Wells,52.3,-2.583333,E07000235,False
+gb,1997,2,19,light,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,2,18,light,900.0,Falkirk,56.0,-3.75,S12000014,False
+gb,2009,2,20,triangle,480.0,Hengoed,51.650833,-3.231667,W06000018,False
+gb,2011,2,20,formation,15.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2014,2,18,other,10.0,Macclesfield,53.25,-2.116667,E06000049,False
+gb,2003,2,7,cigar,15.0,Somerset,51.083333,-3.0,E06000066,False
+gb,2010,2,22,circle,300.0,Fairford,51.7,-1.783333,E07000079,False
+gb,2001,2,5,cone,1200.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2001,2,23,flash,300.0,Caldicot,51.590278,-2.750278,W06000021,False
+gb,2002,2,22,triangle,60.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2006,2,6,formation,2040.0,Oxford,51.75,-1.25,E07000178,False
+gb,2004,2,16,changing,600.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2002,2,7,formation,30.0,Inverness,57.466667,-4.233333,S12000017,False
+gb,2007,2,20,light,45.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,2,20,disk,180.0,Reading,51.433333,-1.0,E06000038,False
+gb,2007,2,23,unknown,20.0,Exeter,50.7,-3.533333,E07000041,False
+gb,2008,2,13,cylinder,1200.0,Holywell,53.283333,-3.25,W06000005,False
+gb,2012,2,7,cigar,180.0,Leven,56.2,-3.0,S12000047,False
+gb,2002,2,6,other,10.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2009,2,23,sphere,180.0,Reading,51.433333,-1.0,E06000038,False
+gb,2006,2,13,other,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1980,2,20,egg,3.5,Derby,53.166667,-1.583333,E07000035,False
+gb,2001,2,22,disk,900.0,Carlisle,54.883333,-2.933333,E06000063,False
+gb,2002,2,20,unknown,120.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2002,2,21,triangle,240.0,Oakham,52.666667,-0.733333,E06000017,False
+gb,2002,2,22,,900.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2002,2,23,circle,3.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,2,22,light,300.0,Egham,51.416667,-0.566667,E07000212,False
+gb,2006,2,4,other,1800.0,Woodford Green,51.608866,0.032439,LONDON,False
+gb,2008,2,23,diamond,120.0,Durham,54.766667,-1.566667,E06000047,False
+gb,2010,2,23,light,120.0,Skegness,53.133333,0.35,E07000137,False
+gb,1990,2,11,cylinder,60.0,York,53.954115,-1.064262,E06000014,False
+gb,2001,2,20,light,45.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2001,2,22,changing,720.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2004,2,1,diamond,2100.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,2,14,oval,3600.0,Hanworth,51.433333,-0.383333,LONDON,False
+gb,2005,2,23,triangle,20.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2008,2,8,other,240.0,Bolton,55.916667,-2.783333,S12000010,False
+gb,2009,2,19,light,600.0,Morton,51.611667,-2.5125,E06000025,False
+gb,2009,2,21,light,300.0,Leicestershire,52.664913,-1.034894,E07000130,False
+gb,2010,2,22,,300.0,Knutsford,53.3,-2.366667,E06000049,False
+gb,1984,2,20,triangle,2.0,Brighton,50.833333,-0.15,E06000043,False
+gb,1990,2,21,triangle,8.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2001,2,19,,3.0,Bolton,55.916667,-2.783333,S12000010,False
+gb,2001,2,19,cigar,30.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2004,2,0,light,7200.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2007,2,7,disk,2.0,Darlington,50.45,-3.716667,E07000044,False
+gb,2009,2,21,changing,60.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2009,2,21,changing,60.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2001,3,1,sphere,8.0,Yorkshire,54.0,-1.5,E06000065,False
+gb,2004,3,3,disk,30.0,Great Yarmouth,52.633333,1.75,E07000145,False
+gb,2007,3,22,other,240.0,Northamptonshire,52.315972,-0.848108,E06000062,False
+gb,2007,3,22,sphere,4200.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2011,3,14,sphere,180.0,Whitchurch,51.994167,-4.696111,W06000009,False
+gb,2012,3,23,light,5.0,Warsop,53.2,-1.15,E07000174,False
+gb,2000,3,19,egg,12.0,Rye,50.95,0.733333,E07000064,False
+gb,2007,3,18,triangle,120.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2010,3,22,sphere,360.0,Shrewsbury,52.716667,-2.733333,E06000051,False
+gb,2012,3,20,other,300.0,Cornwall,50.416667,-4.75,E06000052,False
+gb,1986,3,16,other,120.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1993,3,0,sphere,3600.0,Merseyside,53.4,-3.083333,E08000015,False
+gb,1998,3,3,rectangle,300.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2001,3,10,disk,2.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2007,3,12,teardrop,2.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2009,3,21,light,960.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2010,3,18,,120.0,Ystradgynlais,51.766667,-3.766667,W06000023,False
+gb,1995,3,22,triangle,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1996,3,17,triangle,60.0,Clacton-On-Sea,51.783333,1.166667,E07000076,False
+gb,1997,3,18,sphere,600.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2002,3,0,disk,12.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2004,3,11,sphere,120.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2007,3,4,unknown,60.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2010,3,22,light,120.0,Skelmersdale,53.533333,-2.8,E07000127,False
+gb,2011,3,20,triangle,600.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2001,3,16,sphere,5.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2005,3,2,formation,180.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2005,3,7,sphere,60.0,Crewe,53.1,-2.433333,E06000049,False
+gb,2005,3,18,other,15.0,Alton,52.966667,-1.883333,E07000193,False
+gb,2006,3,20,triangle,12.0,Lancaster,54.066667,-2.833333,E07000121,False
+gb,2009,3,19,oval,40.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2011,3,20,circle,60.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2009,3,22,fireball,420.0,Newark,53.066667,-0.816667,E07000175,False
+gb,2013,3,10,formation,120.0,Durham,54.766667,-1.566667,E06000047,False
+gb,1991,3,12,disk,30.0,Hertfordshire,51.833333,-0.25,E07000241,False
+gb,1993,3,21,unknown,300.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2002,3,14,sphere,600.0,Aberdare,51.715,-3.454167,W06000016,False
+gb,2003,3,16,sphere,60.0,Ellesmere Port,53.283333,-2.9,E06000050,False
+gb,2007,3,22,,900.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2009,3,0,unknown,120.0,Erith,51.483333,0.2,LONDON,False
+gb,2009,3,22,light,120.0,Blackheath,55.05,-6.7,N09000004,False
+gb,2010,3,19,light,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,3,15,disk,1200.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2004,3,18,cigar,660.0,Oxford,51.75,-1.25,E07000178,False
+gb,2005,3,8,circle,2.0,Distington,54.583333,-3.533333,E06000063,False
+gb,2014,3,20,circle,30.0,Cambridgeshire,52.333333,0.083333,E07000012,False
+gb,2003,3,10,cylinder,2700.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,3,18,triangle,300.0,Kirkby In Ashfield,53.083333,-1.266667,E07000170,False
+gb,2004,3,20,light,1200.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2005,3,22,circle,10.0,Newbury,51.4,-1.316667,E06000037,False
+gb,2005,3,22,oval,10.0,Aylesbury,51.816667,-0.8,E06000060,False
+gb,2007,3,14,changing,120.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2012,3,19,disk,180.0,Hertford,51.8,-0.066667,E07000242,False
+gb,2014,3,20,light,180.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2002,3,4,unknown,300.0,Wisbech,52.666667,0.166667,E07000010,False
+gb,2006,3,23,light,7200.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1994,3,22,other,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,3,23,other,3600.0,Great Yarmouth,52.633333,1.75,E07000145,False
+gb,2003,3,11,formation,10.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2009,3,18,light,60.0,Newark,53.066667,-0.816667,E07000175,False
+gb,2009,3,23,sphere,180.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2010,3,0,egg,180.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2014,3,1,circle,5.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2002,3,3,circle,600.0,Greenwich,51.477581,-0.010375,LONDON,False
+gb,2004,3,21,triangle,300.0,Langford,52.05,-0.266667,E06000056,False
+gb,2009,3,0,circle,300.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2009,3,22,sphere,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2010,3,20,circle,1500.0,Dornoch,57.866667,-4.033333,S12000017,False
+gb,2001,3,18,triangle,480.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,2003,3,14,cigar,1200.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2004,3,23,cylinder,3.0,Motherwell,55.783333,-4.0,S12000050,False
+gb,2009,3,19,circle,15.0,Harpenden,51.8,-0.35,E07000240,False
+gb,2009,3,22,light,1200.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1998,3,18,cigar,180.0,Lichfield ; Staffordshire,52.683333,-1.816667,E07000194,False
+gb,2002,3,3,sphere,10.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2014,3,7,,180.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,3,22,unknown,300.0,Folkestone,51.083333,1.183333,E07000112,False
+gb,2010,3,22,other,300.0,Sale,53.416667,-2.3,E08000009,False
+gb,2013,3,11,cigar,4.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2001,3,12,other,420.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,3,19,cone,30.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2008,3,8,other,1.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,3,21,fireball,420.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,3,0,triangle,60.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2001,3,9,cigar,1500.0,Solihull,52.416667,-1.783333,E08000029,False
+gb,2003,3,21,light,300.0,New Brighton,53.433333,-3.033333,E08000015,False
+gb,2003,3,22,cone,20.0,Loanhead,55.866667,-3.15,S12000019,False
+gb,2006,3,2,triangle,240.0,Penicuik,55.816667,-3.233333,S12000019,False
+gb,2009,3,4,other,60.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2011,3,0,,300.0,London,51.514125,-0.093689,LONDON,True
+gb,1993,3,0,triangle,120.0,Norfolk,52.666667,1.0,E07000143,False
+gb,1983,3,13,cigar,15.0,London,51.514125,-0.093689,LONDON,True
+gb,1995,3,22,light,600.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2003,3,12,cone,21.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2006,3,22,circle,10.0,Bognor Regis,50.783333,-0.65,E07000224,False
+gb,2006,3,22,triangle,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,3,20,sphere,60.0,Norwich,52.633333,1.3,E07000148,False
+gb,2001,3,19,light,60.0,Pewsey,51.333333,-1.75,E06000054,False
+gb,2006,3,11,cross,360.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2006,3,18,disk,40.0,Canterbury,51.266667,1.083333,E07000106,False
+gb,2007,3,23,formation,50.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2008,3,18,cone,3600.0,Durham,54.766667,-1.566667,E06000047,False
+gb,1999,3,23,triangle,600.0,Falkirk,56.0,-3.75,S12000014,False
+gb,2006,3,11,other,900.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,3,21,oval,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,3,22,circle,120.0,Tavistock,50.545556,-4.144444,E07000047,False
+gb,2014,3,12,oval,30.0,Ipswich,52.083333,1.166667,E07000244,False
+gb,1998,3,23,changing,1200.0,Southampton,50.9,-1.4,E06000045,False
+gb,2002,3,23,light,360.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2004,3,18,light,10.0,Spalding,52.783333,-0.166667,E07000140,False
+gb,2004,3,19,sphere,300.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,2004,3,23,triangle,7200.0,Hertfordshire,51.833333,-0.25,E07000241,False
+gb,2002,3,19,triangle,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,3,1,light,10800.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2003,3,20,unknown,3.0,Colchester,51.883333,0.9,E07000071,False
+gb,2004,3,1,circle,1200.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2004,3,19,other,5400.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,3,21,changing,1200.0,Luton,51.883333,-0.416667,E06000032,False
+gb,2005,3,13,circle,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,3,22,diamond,120.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2010,3,0,circle,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,3,19,circle,300.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2013,3,2,unknown,120.0,Woodford Green,51.608866,0.032439,LONDON,False
+gb,1999,3,15,circle,5.0,Guilford,51.216667,-0.566667,E07000209,False
+gb,2000,3,23,teardrop,600.0,Huddersfield,53.65,-1.783333,E08000034,False
+gb,2014,3,23,triangle,5.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2007,3,3,,37800.0,Stirlingshire,56.25,-4.25,S12000030,False
+gb,2002,4,22,teardrop,600.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2003,4,17,other,300.0,St. Albans,51.75,-0.333333,E07000240,False
+gb,2004,4,20,,5400.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2006,4,13,disk,30.0,Fleetwood,53.916667,-3.0,E07000128,False
+gb,2010,4,21,fireball,45.0,South Ockendon,51.5,0.3,E06000034,False
+gb,2010,4,22,oval,540.0,Moffat,55.316667,-3.45,S12000006,False
+gb,2000,4,19,teardrop,600.0,Wiltshire,51.25,-1.916667,E06000054,False
+gb,2003,4,2,unknown,40.0,Norwich,52.633333,1.3,E07000148,False
+gb,2005,4,18,circle,8.0,Storrington,50.9,-0.45,E07000227,False
+gb,2005,4,21,oval,8.0,Southampton,50.9,-1.4,E06000045,False
+gb,2006,4,1,formation,600.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2006,4,21,oval,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,4,22,formation,600.0,Watford,52.3,-1.116667,E06000062,False
+gb,2007,4,21,formation,15.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2010,4,23,fireball,120.0,Merthyr Tydfil,51.75,-3.383333,W06000024,False
+gb,2013,4,0,cone,432000.0,Leadgate,54.866667,-1.8,E06000047,False
+gb,2014,4,0,unknown,10.0,Kempsey,52.133333,-2.2,E07000235,False
+gb,2001,4,0,circle,300.0,Gosforth,55.0,-1.616667,E08000021,False
+gb,2006,4,23,light,120.0,East Preston,50.783333,-0.466667,E07000224,False
+gb,2007,4,0,sphere,1200.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2007,4,5,rectangle,5.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2008,4,21,unknown,60.0,Stafford,52.833333,-2.0,E07000197,False
+gb,2008,4,22,light,420.0,Seaton,52.566667,-0.666667,E06000017,False
+gb,2008,4,23,circle,360.0,Chesterfield,53.25,-1.416667,E07000034,False
+gb,2009,4,0,triangle,600.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2009,4,0,circle,180.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2009,4,20,circle,75.6,Manchester,53.5,-2.216667,E08000003,False
+gb,2012,4,22,triangle,5.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1995,4,22,light,90.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,4,21,sphere,2100.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2009,4,20,fireball,840.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2005,4,19,unknown,900.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2006,4,0,sphere,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,4,18,teardrop,120.0,Camberley,51.35,-0.733333,E07000214,False
+gb,2007,4,2,rectangle,3600.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,4,17,sphere,20.0,Boston,52.983333,-0.016667,E07000136,False
+gb,2011,4,22,unknown,45.0,Leven,56.2,-3.0,S12000047,False
+gb,1993,4,0,disk,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,1999,4,0,light,60.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2005,4,22,fireball,60.0,Glasgow ),55.833333,-4.25,S12000049,False
+gb,2009,4,23,sphere,180.0,Pitlochry,56.7,-3.716667,S12000048,False
+gb,2010,4,13,circle,5.0,St. Helens,53.45,-2.733333,E08000013,False
+gb,2012,4,10,circle,120.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2006,4,0,triangle,30.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2009,4,15,disk,120.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2001,4,4,light,120.0,Barnstaple,51.083333,-4.05,E07000043,False
+gb,2006,4,21,circle,600.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2007,4,15,unknown,2.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2009,4,21,light,240.0,Kelling,52.933333,1.116667,E07000147,False
+gb,2004,4,19,formation,60.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2004,4,23,triangle,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,4,21,,60.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2009,4,21,fireball,15.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2009,4,22,oval,1200.0,Scunthorpe,53.583333,-0.65,E06000013,False
+gb,2002,4,21,circle,120.0,Hemel Hempstead,51.75,-0.466667,E07000096,False
+gb,2005,4,1,light,1200.0,Berkshire County,51.5,-1.25,E06000037,False
+gb,2007,4,21,formation,60.0,Sidcup,51.416667,0.116667,LONDON,False
+gb,2009,4,21,fireball,300.0,Hartlepool,54.686111,-1.2125,E06000001,False
+gb,2009,4,21,unknown,40.0,Cambridge,51.733333,-2.366667,E07000082,False
+gb,2011,4,11,cylinder,5.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2013,4,6,light,20.0,Norwich,52.633333,1.3,E07000148,False
+gb,2014,4,16,cylinder,30.0,Dunfermline,56.083333,-3.466667,S12000047,False
+gb,2014,4,16,other,30.0,Fife,56.25,-3.166667,S12000047,False
+gb,1997,4,19,sphere,120.0,Penryn,50.166667,-5.1,E06000052,False
+gb,2003,4,21,unknown,120.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2005,4,21,other,600.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2009,4,22,circle,300.0,Cirencester,51.733333,-1.983333,E07000079,False
+gb,2002,4,4,light,600.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,4,16,unknown,900.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2004,4,1,flash,5.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2004,4,22,light,45.0,Hereford,52.05,-2.716667,E06000019,False
+gb,2007,4,16,disk,300.0,Bridgend,51.505833,-3.577222,W06000013,False
+gb,2007,4,21,egg,300.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2007,4,22,fireball,300.0,Alfreton,53.1,-1.383333,E07000032,False
+gb,2008,4,16,oval,30.0,Nunburnholme,53.916667,-0.7,E06000011,False
+gb,2005,4,21,triangle,60.0,St. Helens,53.45,-2.733333,E08000013,False
+gb,2003,4,22,circle,60.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2004,4,23,light,86400.0,Leigh-On-Sea,51.55,0.666667,E06000033,False
+gb,2012,4,14,sphere,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1997,4,21,light,180.0,Norwich,52.633333,1.3,E07000148,False
+gb,2007,4,22,circle,30.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2012,4,2,other,1200.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2010,4,21,flash,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2011,4,15,disk,300.0,Harrogate,53.983333,-1.533333,E06000065,False
+gb,2012,4,23,light,30.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2004,4,2,triangle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,4,21,sphere,3.0,Keighley,53.883333,-1.916667,E08000032,False
+gb,2006,4,2,light,14400.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2001,4,18,sphere,180.0,Norwich,52.633333,1.3,E07000148,False
+gb,2001,4,19,oval,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,4,0,cigar,80.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2004,4,22,unknown,60.0,Atherstone,52.566667,-1.55,E07000218,False
+gb,2008,4,21,other,2400.0,Torquay,50.45,-3.5,E06000027,False
+gb,2009,4,22,formation,10.0,Tamworth,52.616667,-1.683333,E07000199,False
+gb,2009,4,23,sphere,120.0,Woking,51.316667,-0.533333,E07000217,False
+gb,2005,4,4,unknown,120.0,Croydon,51.383333,-0.1,LONDON,False
+gb,2014,4,1,,180.0,Durham,54.766667,-1.566667,E06000047,False
+gb,2001,4,23,sphere,600.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2005,4,21,light,30.0,Barnsley,51.733333,-1.883333,E07000079,False
+gb,2011,4,17,disk,5.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2005,4,15,triangle,120.0,Chester,53.2,-2.916667,E06000050,False
+gb,2007,4,22,light,180.0,Lancaster .,54.066667,-2.833333,E07000121,False
+gb,2000,4,1,triangle,15.0,Southampton,50.9,-1.4,E06000045,False
+gb,2006,4,23,other,30.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2013,4,19,light,30.0,Brigg,53.55,-0.483333,E06000013,False
+gb,1980,4,22,other,300.0,Leamington Spa,52.3,-1.533333,E07000222,False
+gb,1999,4,23,teardrop,60.0,Eastbourne,50.8,0.25,E07000061,False
+gb,2000,4,17,oval,6.0,Cumbernauld,55.95,-3.983333,S12000050,False
+gb,2003,4,1,egg,120.0,Staplefield,51.033333,-0.183333,E07000228,False
+gb,2004,4,22,cross,90.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,4,13,cigar,60.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2006,4,21,circle,1200.0,Leigh,52.183333,-2.316667,E07000235,False
+gb,2009,4,0,fireball,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2009,4,0,light,15.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2009,4,21,light,420.0,Reading,51.433333,-1.0,E06000038,False
+gb,1996,4,15,triangle,120.0,Burgess Hill,50.966667,-0.133333,E07000228,False
+gb,2003,4,0,unknown,300.0,Oxford,51.75,-1.25,E07000178,False
+gb,2003,4,18,egg,900.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2004,4,2,cigar,240.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2009,4,1,light,2.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,2009,4,19,sphere,180.0,Taunton,51.021111,-3.104722,E06000066,False
+gb,2011,4,20,light,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2014,4,20,cross,180.0,Sutton In Ashfield,53.116667,-1.266667,E07000170,False
+gb,1996,4,20,disk,360.0,St. Helens,53.45,-2.733333,E08000013,False
+gb,1999,4,1,fireball,4.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2001,4,16,formation,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,4,21,light,10.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2008,4,0,unknown,300.0,Worksop,53.3,-1.133333,E07000171,False
+gb,2009,4,16,triangle,30.0,Boston,52.983333,-0.016667,E07000136,False
+gb,2000,4,1,fireball,10.0,Cardross,55.966667,-4.633333,S12000035,False
+gb,2001,4,22,disk,120.0,Eynsham,51.766667,-1.383333,E07000181,False
+gb,2006,4,11,oval,15.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,4,22,circle,90.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2010,4,23,light,420.0,Cumbria,54.583333,-2.833333,E06000064,False
+gb,2012,4,9,rectangle,180.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,1999,4,3,formation,40.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2002,4,11,light,300.0,Oldham,53.55,-2.116667,E08000004,False
+gb,2003,4,23,formation,15.0,Torquay,50.45,-3.5,E06000027,False
+gb,2004,4,19,cigar,1800.0,Rubery,52.4,-2.016667,E08000025,False
+gb,2008,4,3,sphere,900.0,Wrexham,53.05,-3.0,W06000006,False
+gb,2010,4,22,circle,120.0,Knottingley,53.7,-1.233333,E08000036,False
+gb,2013,4,20,circle,40.0,Croydon,51.383333,-0.1,LONDON,False
+gb,2007,4,22,light,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,4,3,light,180.0,Haworth,53.816667,-1.95,E08000032,False
+gb,2011,4,15,sphere,3.0,London,51.514125,-0.093689,LONDON,True
+gb,2014,4,18,cylinder,600.0,Kent,51.25,0.75,E07000110,False
+gb,1999,5,23,formation,10.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2003,5,1,light,300.0,Leamington Spa,52.3,-1.533333,E07000222,False
+gb,2003,5,4,sphere,2700.0,Boscastle,50.683333,-4.683333,E06000052,False
+gb,2003,5,11,oval,600.0,Belfast,54.583333,-5.933333,N09000003,False
+gb,2003,5,23,unknown,3.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2004,5,15,changing,540.0,Hertfordshire,51.833333,-0.25,E07000241,False
+gb,2010,5,21,sphere,180.0,Hereford,52.05,-2.716667,E06000019,False
+gb,1981,5,23,circle,120.0,Warminster,51.203611,-2.180833,E06000054,False
+gb,2000,5,22,light,300.0,Scarborough,54.287222,-0.414167,E06000065,False
+gb,2001,5,0,other,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,5,20,light,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,5,0,light,60.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2005,5,2,circle,1800.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2005,5,21,light,30.0,Falkirk,56.0,-3.75,S12000014,False
+gb,2006,5,19,light,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,5,21,formation,300.0,Croydon,51.383333,-0.1,LONDON,False
+gb,2009,5,0,sphere,5.0,York,53.954115,-1.064262,E06000014,False
+gb,2009,5,22,fireball,4.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2010,5,0,cylinder,300.0,Hounslow,51.466667,-0.35,LONDON,False
+gb,1997,5,16,circle,20.0,Torquay,50.45,-3.5,E06000027,False
+gb,2002,5,23,light,600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,5,19,triangle,180.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2004,5,23,sphere,18000.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2005,5,23,cylinder,120.0,Hartlepool,54.686111,-1.2125,E06000001,False
+gb,2009,5,23,other,300.0,Spilsby,53.183333,0.1,E07000137,False
+gb,2002,5,0,light,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,5,12,egg,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,5,0,light,900.0,Welwyn Garden City,51.8,-0.2,E07000241,False
+gb,2009,5,23,light,240.0,Nantwich,53.066667,-2.516667,E06000049,False
+gb,2010,5,0,other,60.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2010,5,1,other,20.0,Bedlington,55.1325,-1.585556,E06000057,False
+gb,1983,5,17,disk,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,5,20,changing,2400.0,Rugeley,52.766667,-1.933333,E07000192,False
+gb,2006,5,0,light,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,5,3,light,360.0,Essex,51.833333,0.583333,E07000067,False
+gb,2009,5,23,light,60.0,Paisley,55.833333,-4.433333,S12000038,False
+gb,2012,5,20,circle,60.0,Reading,51.433333,-1.0,E06000038,False
+gb,2001,5,22,light,4.0,Exeter,50.7,-3.533333,E07000041,False
+gb,2006,5,3,light,120.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,1972,5,12,sphere,180.0,Bicester,51.9,-1.15,E07000177,False
+gb,1977,5,2,,1200.0,Kilmarnock,55.633333,-4.533333,S12000008,False
+gb,1986,5,21,rectangle,15.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,1993,5,20,other,2700.0,London,51.514125,-0.093689,LONDON,True
+gb,1997,5,13,triangle,300.0,Bedford,52.133333,-0.45,E06000055,False
+gb,1998,5,15,triangle,240.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2000,5,1,diamond,300.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2003,5,21,egg,840.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2003,5,22,disk,30.0,Northallerton,54.333333,-1.433333,E06000065,False
+gb,2003,5,23,sphere,900.0,Mansfield,53.133333,-1.2,E07000174,False
+gb,2003,5,23,sphere,900.0,Mansfield,53.133333,-1.2,E07000174,False
+gb,2005,5,12,circle,120.0,Surrey,51.269738,-0.402165,E07000209,False
+gb,2005,5,13,light,900.0,Hounslow,51.466667,-0.35,LONDON,False
+gb,2005,5,15,changing,30.0,Grays,51.483333,0.333333,E06000034,False
+gb,2005,5,16,disk,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,5,17,cigar,60.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2005,5,19,triangle,5400.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2009,5,1,cone,7200.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2010,5,22,fireball,60.0,Preston,50.783333,-0.466667,E07000224,False
+gb,2001,5,22,unknown,30.0,Middlesborough,54.572778,-1.162778,E06000003,False
+gb,2004,5,2,formation,900.0,Southampton,50.9,-1.4,E06000045,False
+gb,2004,5,22,oval,2.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2005,5,21,unknown,180.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2006,5,21,unknown,10.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2010,5,21,triangle,3600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2004,5,14,cigar,900.0,Kent,51.25,0.75,E07000110,False
+gb,2007,5,23,light,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2011,5,22,teardrop,180.0,Darlington,50.45,-3.716667,E07000044,False
+gb,2001,5,23,changing,10800.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,5,1,unknown,10.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2000,5,4,cylinder,180.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2007,5,0,cigar,900.0,Oxford,51.75,-1.25,E07000178,False
+gb,2005,5,1,,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,5,21,sphere,180.0,Coningsby,53.116667,-0.166667,E07000137,False
+gb,2009,5,22,sphere,360.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2012,5,22,fireball,20.0,Douglas,55.55,-3.85,S12000029,False
+gb,2007,5,21,other,2100.0,Ellesmere Port,53.283333,-2.9,E06000050,False
+gb,2010,5,22,unknown,4.0,Handforth,53.35,-2.216667,E06000049,False
+gb,2010,5,22,fireball,600.0,Mansfield,53.133333,-1.2,E07000174,False
+gb,2012,5,16,disk,60.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2012,5,20,other,480.0,Gwent,51.666667,-3.0,W06000021,False
+gb,2001,5,21,teardrop,1140.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,5,11,sphere,30.0,St. Andrews,56.333333,-2.783333,S12000047,False
+gb,2010,5,18,rectangle,300.0,Thornton Heath,51.4,-0.1,LONDON,False
+gb,2001,5,0,other,4.0,Winchester,51.016667,-1.316667,E07000094,False
+gb,2003,5,19,oval,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,5,22,light,600.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2012,5,21,formation,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,5,2,light,480.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2005,5,17,circle,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,5,13,triangle,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,5,0,formation,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,5,2,rectangle,4.0,Arbroath,56.55,-2.583333,S12000041,False
+gb,2010,5,22,light,240.0,Torquay,50.45,-3.5,E06000027,False
+gb,2001,5,1,triangle,300.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2002,5,8,circle,10.0,Llanfairfechan,53.25,-3.983333,W06000003,False
+gb,2003,5,23,light,30.0,Ipswich,52.083333,1.166667,E07000244,False
+gb,2009,5,23,circle,120.0,Southampton,50.9,-1.4,E06000045,False
+gb,2000,5,18,formation,3.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2001,5,23,light,360.0,Wrexham,53.05,-3.0,W06000006,False
+gb,2005,5,3,changing,180.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2007,5,1,formation,120.0,Keele,53.0,-2.283333,E07000195,False
+gb,2009,5,23,circle,1200.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2010,5,2,rectangle,60.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2002,5,23,light,10.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2005,5,1,unknown,600.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2005,5,19,oval,6.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,5,22,light,40.0,Wrexham,53.05,-3.0,W06000006,False
+gb,2008,5,22,circle,6.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2009,5,16,circle,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,5,22,circle,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,5,21,fireball,60.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2009,5,22,circle,2.0,Marston Moretaine,52.05,-0.55,E06000056,False
+gb,1966,5,22,triangle,120.0,Southampton,50.9,-1.4,E06000045,False
+gb,2007,5,10,fireball,240.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2008,5,21,light,30.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2000,5,2,other,600.0,Hailsham,50.866667,0.266667,E07000065,False
+gb,2003,5,23,diamond,1200.0,Milford Haven,51.716667,-5.033333,W06000009,False
+gb,2005,5,17,disk,300.0,Hampshire,51.083333,-1.166667,E07000094,False
+gb,2006,5,15,sphere,1200.0,Washington,50.9,-0.4,E07000227,False
+gb,2007,5,2,light,1200.0,Inverness,57.466667,-4.233333,S12000017,False
+gb,2010,5,14,rectangle,60.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,1993,5,2,triangle,30.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2003,5,12,teardrop,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,5,22,light,60.0,Oxford,51.75,-1.25,E07000178,False
+gb,2005,5,0,cigar,300.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2006,5,5,,45.0,Southport,53.666667,-3.0,E08000014,False
+gb,2009,5,0,teardrop,120.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1972,5,0,unknown,180.0,Essex,51.833333,0.583333,E07000067,False
+gb,2000,5,19,,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,5,1,oval,180.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2014,5,11,triangle,40.0,Heswall,53.316667,-3.1,E08000015,False
+gb,2002,5,21,other,1260.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2000,5,21,cigar,300.0,Billingham,54.6,-1.3,E06000004,False
+gb,2004,5,18,light,1800.0,Douglas,55.55,-3.85,S12000029,False
+gb,2008,5,22,oval,3000.0,Cannock,52.683333,-2.016667,E07000192,False
+gb,2008,5,23,formation,300.0,Marlow,51.566667,-0.766667,E06000060,False
+gb,2009,5,1,disk,180.0,Sunningdale,51.383333,-0.616667,E07000214,False
+gb,2009,5,21,light,60.0,Mansfield Woodhouse,53.166667,-1.2,E07000174,False
+gb,2009,5,21,unknown,1200.0,Yeovil,50.95,-2.633333,E06000066,False
+gb,2009,5,22,fireball,300.0,Southend-On-Sea,51.533333,0.7,E06000033,False
+gb,2009,5,22,other,5.0,Bideford,51.016667,-4.216667,E07000046,False
+gb,2010,5,1,light,2.0,Cornwall,50.416667,-4.75,E06000052,False
+gb,2012,5,8,rectangle,30.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2000,6,12,triangle,1200.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2001,6,21,triangle,20.0,Skelmanthorpe,53.583333,-1.65,E08000034,False
+gb,2002,6,9,light,20.0,Portchester,50.833333,-1.116667,E06000044,False
+gb,2006,6,0,triangle,10.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,6,2,triangle,18000.0,Ipswich,52.083333,1.166667,E07000244,False
+gb,2010,6,23,changing,240.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,1998,6,0,triangle,30.0,Gateshead,54.945,-1.6175,E08000037,False
+gb,2000,6,16,light,90.0,Glenrothes,56.2,-3.183333,S12000047,False
+gb,2002,6,16,rectangle,300.0,Johnstone,55.833333,-4.5,S12000038,False
+gb,2005,6,19,circle,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,6,23,triangle,20.0,Birkenhead,53.4,-3.033333,E08000015,False
+gb,2009,6,18,oval,120.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2010,6,19,circle,600.0,Stevenage,51.916667,-0.216667,E07000243,False
+gb,1952,6,12,circle,120.0,Linlithgow,55.889082,-3.569419,S12000040,False
+gb,1957,6,19,,600.0,London,51.514125,-0.093689,LONDON,True
+gb,1970,6,19,circle,30.0,Gainsborough,53.383333,-0.766667,E07000142,False
+gb,1972,6,1,,259200.0,Bath,51.379444,-2.365556,E06000022,False
+gb,1972,6,23,circle,5.0,Wigan,53.533333,-2.616667,E08000010,False
+gb,1975,6,15,light,10.0,Leeds,53.8,-1.583333,E08000035,False
+gb,1976,6,22,disk,900.0,Canterbury,51.266667,1.083333,E07000106,False
+gb,1978,6,6,sphere,900.0,Felixstowe,51.966667,1.35,E07000244,False
+gb,1979,6,15,cylinder,900.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1979,6,20,light,15.0,Hamilton,55.766667,-4.033333,S12000029,False
+gb,1979,6,21,other,600.0,Hemel Hempstead,51.75,-0.466667,E07000096,False
+gb,1980,6,9,oval,120.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,1980,6,18,circle,420.0,London,51.514125,-0.093689,LONDON,True
+gb,1980,6,18,unknown,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1987,6,2,other,1800.0,Llandovery,51.983333,-3.783333,W06000010,False
+gb,1990,6,23,,600.0,Durham,54.766667,-1.566667,E06000047,False
+gb,1993,6,20,other,1800.0,London,51.514125,-0.093689,LONDON,True
+gb,1995,6,21,light,300.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1996,6,2,circle,420.0,Colne,53.85,-2.166667,E07000122,False
+gb,1996,6,4,diamond,120.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1996,6,0,triangle,300.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1997,6,0,triangle,240.0,Cardiff,51.5,-3.2,W06000015,False
+gb,1997,6,13,disk,600.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,1997,6,13,oval,360.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,1997,6,18,sphere,120.0,Hemel Hempstead,51.75,-0.466667,E07000096,False
+gb,1998,6,19,light,300.0,Trowbridge,51.318889,-2.208611,E06000054,False
+gb,1999,6,11,triangle,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1999,6,17,other,600.0,Maldon,51.716667,0.683333,E07000074,False
+gb,2000,6,4,sphere,5.0,Saxton,53.816667,-1.283333,E06000065,False
+gb,2002,6,9,teardrop,300.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2011,6,15,sphere,259200.0,Colwyn Bay,53.3,-3.75,W06000003,False
+gb,2013,6,2,light,600.0,Bristol,51.45,-2.583333,E06000023,False
+gb,1994,6,15,triangle,420.0,Crawley,51.116667,-0.183333,E07000226,False
+gb,1996,6,17,teardrop,25.0,Loanhead,55.866667,-3.15,S12000019,False
+gb,1998,6,22,circle,900.0,Kent,51.25,0.75,E07000110,False
+gb,1999,6,11,light,30.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2008,6,1,unknown,4.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2011,6,21,circle,900.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1999,6,6,teardrop,120.0,Bispham,53.85,-3.05,E06000009,False
+gb,2004,6,15,cylinder,1200.0,Southampton,50.9,-1.4,E06000045,False
+gb,2004,6,22,rectangle,120.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2007,6,9,unknown,1200.0,Scunthorpe,53.583333,-0.65,E06000013,False
+gb,2009,6,22,circle,60.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2010,6,0,light,1200.0,Renfrew,55.833333,-4.5,S12000038,False
+gb,2007,6,23,light,15.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2008,6,2,triangle,120.0,Southampton,50.9,-1.4,E06000045,False
+gb,2011,6,0,light,120.0,London,51.514125,-0.093689,LONDON,True
+gb,1966,6,0,disk,900.0,Caversham,51.466667,-0.966667,E06000038,False
+gb,1976,6,5,cigar,1800.0,Ammanford,51.791944,-3.989167,W06000010,False
+gb,1976,6,0,other,20.0,Cornwall,50.416667,-4.75,E06000052,False
+gb,1977,6,0,circle,15.0,London,51.514125,-0.093689,LONDON,True
+gb,1980,6,10,disk,60.0,Southampton,50.9,-1.4,E06000045,False
+gb,1981,6,10,disk,60.0,Reading,51.433333,-1.0,E06000038,False
+gb,1984,6,4,cigar,600.0,London,51.514125,-0.093689,LONDON,True
+gb,1986,6,12,sphere,20.0,Oxford,51.75,-1.25,E07000178,False
+gb,1990,6,1,light,900.0,Renfrew,55.833333,-4.5,S12000038,False
+gb,1992,6,2,,5.0,Sedgefield,54.65,-1.45,E06000047,False
+gb,1993,6,3,sphere,900.0,Peebles,55.633333,-3.183333,S12000026,False
+gb,1993,6,4,,120.0,Neyland,51.707778,-4.949722,W06000009,False
+gb,1993,6,14,circle,1800.0,Kent,51.25,0.75,E07000110,False
+gb,1996,6,22,rectangle,10.0,Scunthorpe,53.583333,-0.65,E06000013,False
+gb,1997,6,10,oval,4.0,Lancaster,54.066667,-2.833333,E07000121,False
+gb,1999,6,18,formation,180.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,1999,6,22,triangle,300.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2001,6,23,light,600.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,6,16,other,300.0,Cambridge,51.733333,-2.366667,E07000082,False
+gb,2003,6,22,sphere,360.0,Thornbury,51.608889,-2.520278,E06000025,False
+gb,2004,6,1,cigar,60.0,Shepton Mallet,51.189722,-2.547222,E06000066,False
+gb,2008,6,19,cone,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,6,21,sphere,3.0,Bideford,51.016667,-4.216667,E07000046,False
+gb,2005,6,0,light,3300.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2005,6,19,sphere,1800.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2007,6,20,disk,180.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2013,6,3,rectangle,5.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2005,6,2,cigar,600.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2001,6,7,other,900.0,Wigan,53.533333,-2.616667,E08000010,False
+gb,2009,6,23,disk,15.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2009,6,23,light,900.0,Letchworth,51.966667,-0.216667,E07000099,False
+gb,1989,6,21,triangle,900.0,London,51.514125,-0.093689,LONDON,True
+gb,1995,6,23,cone,600.0,Sedgley,52.533333,-2.116667,E08000027,False
+gb,1999,6,14,circle,300.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2000,6,22,unknown,180.0,Southampton,50.9,-1.4,E06000045,False
+gb,2000,6,23,circle,480.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2001,6,22,light,120.0,Tunbridge Wells,51.133333,0.283333,E07000116,False
+gb,2002,6,15,changing,600.0,Nottinghamshire,53.166667,-1.0,E07000175,False
+gb,2008,6,23,fireball,600.0,Oldham,53.55,-2.116667,E08000004,False
+gb,2009,6,22,light,1800.0,Chiddingfold,51.1,-0.616667,E07000216,False
+gb,2009,6,23,fireball,180.0,Hereford,52.05,-2.716667,E06000019,False
+gb,1997,6,0,light,4200.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,6,0,light,30.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,2008,6,0,light,180.0,Burnley,53.8,-2.233333,E07000117,False
+gb,2009,6,12,unknown,600.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2009,6,21,light,1200.0,Tunbridge Wells,51.133333,0.283333,E07000116,False
+gb,1986,6,18,disk,3600.0,Wiltshire,51.25,-1.916667,E06000054,False
+gb,2004,6,0,circle,1200.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2009,6,1,circle,300.0,Dudley,52.5,-2.083333,E08000027,False
+gb,2010,6,0,fireball,600.0,Ilkeston,52.966667,-1.3,E07000036,False
+gb,2000,6,0,sphere,900.0,Bolton,55.916667,-2.783333,S12000010,False
+gb,2002,6,22,fireball,3.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2007,6,1,cylinder,900.0,Lancashire County,53.888996,-2.633778,E07000124,False
+gb,2008,6,1,sphere,240.0,Colchester,51.883333,0.9,E07000071,False
+gb,2010,6,18,disk,20.0,Kettering,52.4,-0.716667,E06000061,False
+gb,2000,6,21,other,30.0,Exeter,50.7,-3.533333,E07000041,False
+gb,2002,6,3,unknown,180.0,Luton,51.883333,-0.416667,E06000032,False
+gb,2002,6,21,cigar,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,6,22,light,60.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2007,6,23,light,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,6,23,chevron,900.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2006,6,23,sphere,1200.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,6,0,light,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,6,5,sphere,840.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2008,6,22,cigar,60.0,Surrey,51.269738,-0.402165,E07000209,False
+gb,2010,6,23,light,240.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,6,1,light,120.0,Larkhall,55.733333,-3.966667,S12000029,False
+gb,2008,6,22,other,120.0,Market Drayton,52.9,-2.466667,E07000195,False
+gb,2008,6,22,circle,600.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2008,6,22,circle,30.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2008,6,23,sphere,420.0,Lakenheath,52.433333,0.566667,E07000245,False
+gb,2009,6,23,circle,1800.0,Bishopstoke,50.966667,-1.333333,E07000086,False
+gb,2006,6,10,disk,5.0,North Queensferry,56.0,-3.4,S12000047,False
+gb,2010,6,23,other,60.0,Corby,52.483333,-0.666667,E06000061,False
+gb,2010,6,23,fireball,90.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2013,6,21,light,60.0,Camborne,50.212222,-5.294444,E06000052,False
+gb,2013,6,22,diamond,30.0,Crawley,51.116667,-0.183333,E07000226,False
+gb,2002,6,23,,300.0,Chelmsford,51.733333,0.483333,E07000070,False
+gb,2004,6,0,light,30.0,Broxburn,55.933333,-3.466667,S12000040,False
+gb,2009,6,23,circle,30.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2010,6,0,fireball,40.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,2010,6,22,oval,300.0,Hertfordshire,51.833333,-0.25,E07000241,False
+gb,2003,6,0,formation,3.0,Shoreham,50.833333,-0.233333,E07000223,False
+gb,2008,6,2,light,3600.0,Thetford,52.416667,0.75,E07000143,False
+gb,2008,6,22,fireball,1800.0,Cheltenham,51.9,-2.083333,E07000078,False
+gb,2012,6,0,light,45.0,Hastings,50.85,0.6,E07000062,False
+gb,2013,6,23,other,60.0,Sutton Coldfield,52.566667,-1.816667,E08000025,False
+gb,1960,6,0,triangle,25.0,London,51.514125,-0.093689,LONDON,True
+gb,1963,6,21,circle,15.0,Coventry,52.416667,-1.55,E08000026,False
+gb,1969,6,22,cone,25248000.0,Somerset,51.083333,-3.0,E06000066,False
+gb,1982,6,3,,1200.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,1989,6,19,light,120.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1992,6,12,unknown,720.0,Somerset,51.083333,-3.0,E06000066,False
+gb,1993,6,22,diamond,600.0,Leicestershire,52.664913,-1.034894,E07000130,False
+gb,1993,6,0,disk,600.0,Gateshead,54.945,-1.6175,E08000037,False
+gb,1994,6,22,triangle,3600.0,Wadworth,53.466667,-1.15,E08000017,False
+gb,1996,6,20,other,60.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2001,6,4,circle,3600.0,Hereford,52.05,-2.716667,E06000019,False
+gb,2001,6,23,sphere,300.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2002,6,15,cigar,120.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2002,6,17,rectangle,0.3,Ipswich,52.083333,1.166667,E07000244,False
+gb,2003,6,13,,10.0,Leigh,52.183333,-2.316667,E07000235,False
+gb,2003,6,19,disk,1200.0,Lincolnshire,53.166667,-0.25,E07000137,False
+gb,2005,6,17,sphere,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,6,0,sphere,60.0,Bonnybridge,56.0,-3.883333,S12000014,False
+gb,2006,6,17,egg,900.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2010,6,0,light,7.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1992,6,7,sphere,20.0,Leeds,53.8,-1.583333,E08000035,False
+gb,1995,6,21,other,2.0,Durham,54.766667,-1.566667,E06000047,False
+gb,2005,6,1,fireball,600.0,Braintree,51.883333,0.566667,E07000067,False
+gb,2010,6,23,diamond,300.0,East Kilbride,55.766667,-4.166667,S12000029,False
+gb,2011,6,3,sphere,600.0,Sowerby Bridge,53.7,-1.916667,E08000033,False
+gb,2012,6,22,light,300.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2000,6,1,other,300.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2004,6,1,,2700.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2007,6,3,light,45.0,Long Eaton,52.9,-1.266667,E07000036,False
+gb,2010,6,0,circle,30.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2010,6,22,light,2700.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2010,6,23,teardrop,60.0,York,53.954115,-1.064262,E06000014,False
+gb,1974,6,12,triangle,180.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,1997,6,2,triangle,180.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,1997,6,0,circle,1200.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,1998,6,17,fireball,300.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2004,6,13,oval,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,6,18,teardrop,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,6,22,sphere,2100.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2009,6,22,fireball,120.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2010,6,3,circle,60.0,Halifax,53.716667,-1.85,E08000033,False
+gb,2001,6,23,fireball,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,6,0,unknown,2.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2005,6,12,circle,120.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2005,6,14,other,1800.0,Stranraer,54.9,-5.033333,S12000006,False
+gb,2005,6,20,disk,60.0,Shoreham-By-Sea,50.833333,-0.233333,E07000223,False
+gb,2008,6,23,light,300.0,Hereford,52.05,-2.716667,E06000019,False
+gb,2006,6,15,disk,120.0,Shropshire,52.666667,-2.75,E06000051,False
+gb,2006,6,22,formation,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,6,1,light,20.0,Llanelli,51.676111,-4.156667,W06000010,False
+gb,2007,6,22,egg,60.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2008,6,0,flash,3.0,Falmouth,50.148333,-5.076111,E06000052,False
+gb,2008,6,21,circle,240.0,Havant,50.85,-0.983333,E07000090,False
+gb,2003,6,0,circle,480.0,Bridgend,51.505833,-3.577222,W06000013,False
+gb,2005,6,21,light,25.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,6,23,light,600.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2009,6,21,circle,30.0,Tunbridge Wells,51.133333,0.283333,E07000116,False
+gb,2012,6,15,circle,3.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,6,22,circle,420.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1980,7,14,egg,60.0,Brookwood,51.3,-0.633333,E07000217,False
+gb,1999,7,22,other,20.0,Haworth,53.816667,-1.95,E08000032,False
+gb,2003,7,1,diamond,3600.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2006,7,3,triangle,1200.0,Bognor Regis,50.783333,-0.65,E07000224,False
+gb,2007,7,17,sphere,1800.0,Gourock,55.95,-4.833333,S12000018,False
+gb,2009,7,0,light,180.0,Addingham,53.933333,-1.883333,E08000032,False
+gb,2010,7,22,light,300.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2010,7,22,light,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,7,23,cylinder,300.0,Louth,53.366667,-0.016667,E07000137,False
+gb,2003,7,1,unknown,3600.0,Ramsgate,51.333333,1.433333,E07000114,False
+gb,2004,7,11,disk,180.0,Gosport,50.8,-1.133333,E07000088,False
+gb,2004,7,15,egg,240.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2005,7,23,other,30.0,Ayr,55.45,-4.616667,S12000028,False
+gb,2008,7,14,changing,49.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2008,7,18,cylinder,5.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2009,7,0,oval,60.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2010,7,3,changing,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,7,7,flash,6.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2010,7,23,circle,180.0,London,51.514125,-0.093689,LONDON,True
+gb,1975,7,19,triangle,60.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2000,7,22,fireball,300.0,Banbury,52.05,-1.333333,E07000177,False
+gb,2001,7,20,oval,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,7,22,light,1200.0,Scarborough,54.287222,-0.414167,E06000065,False
+gb,2005,7,23,light,600.0,Bridlington,54.095,-0.208056,E06000011,False
+gb,2010,7,2,light,300.0,Lichfield,52.683333,-1.816667,E07000194,False
+gb,2002,7,0,sphere,60.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2003,7,13,sphere,1500.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,7,23,,300.0,Greenlaw,55.7,-2.466667,S12000026,False
+gb,2004,7,4,triangle,1500.0,Bridgend,51.505833,-3.577222,W06000013,False
+gb,2008,7,2,circle,600.0,Marlow,51.566667,-0.766667,E06000060,False
+gb,2008,7,22,light,300.0,Dover,51.133333,1.3,E07000108,False
+gb,2009,7,13,cylinder,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,7,11,circle,300.0,Lichfield,52.683333,-1.816667,E07000194,False
+gb,1997,7,1,sphere,300.0,Hull,53.716667,-0.333333,E06000013,False
+gb,1997,7,23,oval,1200.0,Telford,52.633333,-2.5,E06000020,False
+gb,2004,7,6,disk,30.0,Hartlepool,54.686111,-1.2125,E06000001,False
+gb,2005,7,0,teardrop,900.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2006,7,23,light,720.0,Camborne,50.212222,-5.294444,E06000052,False
+gb,2007,7,18,cylinder,240.0,Durham,54.766667,-1.566667,E06000047,False
+gb,2009,7,0,,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,3,cigar,600.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,1979,7,22,light,180.0,Motherwell,55.783333,-4.0,S12000050,False
+gb,2003,7,1,chevron,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,7,4,diamond,14.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2007,7,23,flash,600.0,Baldock,51.983333,-0.183333,E07000099,False
+gb,2008,7,1,triangle,1200.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2008,7,22,oval,300.0,Potters Bar,51.683333,-0.166667,E07000098,False
+gb,1970,7,22,disk,21600.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,1976,7,19,light,20.0,London,51.514125,-0.093689,LONDON,True
+gb,1977,7,21,circle,30.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,1985,7,5,fireball,3600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1996,7,22,unknown,60.0,Cumbria,54.583333,-2.833333,E06000064,False
+gb,1998,7,23,other,40.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,7,22,fireball,360.0,Bath,51.379444,-2.365556,E06000022,False
+gb,2001,7,4,cross,90.0,Bournemouth,50.716667,-1.883333,E06000058,False
+gb,2001,7,7,oval,15.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2001,7,21,light,60.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2001,7,22,rectangle,60.0,Ashford,51.416667,-0.466667,E07000213,False
+gb,2001,7,23,disk,30.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2002,7,3,light,180.0,Worthing,50.8,-0.366667,E07000229,False
+gb,2002,7,5,light,5.0,Hastings,50.85,0.6,E07000062,False
+gb,2005,7,10,circle,7200.0,Chippenham,51.46,-2.124722,E06000054,False
+gb,2006,7,23,light,20.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2008,7,22,circle,60.0,County Durham,54.766667,-1.566667,E06000047,False
+gb,2012,7,1,oval,300.0,Corby,52.483333,-0.666667,E06000061,False
+gb,1975,7,18,cigar,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2002,7,0,other,600.0,Lemington,54.983333,-1.7,E08000021,False
+gb,2003,7,2,unknown,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,7,20,,60.0,Barnoldswick,53.916667,-2.183333,E07000122,False
+gb,2004,7,7,changing,120.0,Stockport,53.4,-2.15,E08000007,False
+gb,2006,7,17,changing,60.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2006,7,17,changing,300.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2006,7,23,circle,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,7,23,light,2.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,2,light,300.0,Wrexham,53.05,-3.0,W06000006,False
+gb,2013,7,22,light,1800.0,Upminster,51.55,0.25,LONDON,False
+gb,1997,7,21,sphere,180.0,Leeds,53.8,-1.583333,E08000035,False
+gb,1998,7,21,unknown,10.0,Scunthorpe,53.583333,-0.65,E06000013,False
+gb,2002,7,14,cylinder,600.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2006,7,22,light,25.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,1997,7,0,diamond,30.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,1998,7,21,light,60.0,Ramsgate,51.333333,1.433333,E07000114,False
+gb,1999,7,23,light,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2000,7,12,disk,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,7,0,unknown,3600.0,Huntingdon,52.333333,-0.183333,E07000011,False
+gb,2006,7,1,circle,300.0,Wrexham,53.05,-3.0,W06000006,False
+gb,2006,7,18,sphere,1800.0,Northwich,53.266667,-2.5,E06000050,False
+gb,2006,7,20,circle,10.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2006,7,23,light,5.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2006,7,23,light,3.0,Isle Of Wight,50.666667,-1.333333,E06000046,False
+gb,2009,7,0,light,180.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,22,unknown,30.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2009,7,23,circle,150.0,London,51.514125,-0.093689,LONDON,True
+gb,1977,7,15,disk,180.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,1999,7,16,disk,14400.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2005,7,12,oval,3600.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,7,8,sphere,20.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2006,7,23,light,3.0,London,51.514125,-0.093689,LONDON,True
+gb,1976,7,0,circle,120.0,London,51.514125,-0.093689,LONDON,True
+gb,1987,7,23,egg,60.0,Widnes,53.35,-2.733333,E06000006,False
+gb,1988,7,2,cigar,300.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1998,7,1,triangle,20.0,East Finchley,51.583333,-0.166667,LONDON,False
+gb,2001,7,2,light,240.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2002,7,0,light,3600.0,Skegness,53.133333,0.35,E07000137,False
+gb,2003,7,1,light,60.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2004,7,2,triangle,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,7,0,light,480.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,21,,2700.0,London,51.514125,-0.093689,LONDON,True
+gb,1972,7,1,light,1800.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,1997,7,2,fireball,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,7,12,disk,45.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2008,7,22,triangle,600.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2009,7,16,flash,30.0,Morley,53.733333,-1.583333,E08000035,False
+gb,2002,7,23,triangle,180.0,Formby,53.55,-3.05,E08000014,False
+gb,2010,7,22,fireball,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2010,7,22,,30.0,Wigan,53.533333,-2.616667,E08000010,False
+gb,1999,7,2,other,10.0,South Shields,54.987778,-1.421389,E08000023,False
+gb,2001,7,16,cylinder,420.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2001,7,22,circle,120.0,Addlestone,51.366667,-0.483333,E07000212,False
+gb,2002,7,21,cigar,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,7,22,light,5.0,Rugby,52.366667,-1.25,E07000220,False
+gb,1998,7,23,other,600.0,Kirkby In Ashfield,53.083333,-1.266667,E07000170,False
+gb,2002,7,0,unknown,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,7,0,light,600.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,23,circle,15.0,London,51.514125,-0.093689,LONDON,True
+gb,1999,7,19,fireball,600.0,South Shields,54.987778,-1.421389,E08000023,False
+gb,2003,7,15,sphere,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,7,23,light,40.0,Pulborough,50.95,-0.516667,E07000227,False
+gb,2007,7,0,oval,240.0,Burgess Hill,50.966667,-0.133333,E07000228,False
+gb,2008,7,0,circle,30.0,Gwent,51.666667,-3.0,W06000021,False
+gb,1971,7,18,disk,7200.0,Sutton,53.266667,-2.933333,E06000050,False
+gb,2000,7,22,cylinder,600.0,Lampeter,52.116667,-4.066667,W06000008,False
+gb,2002,7,23,unknown,2.0,Sidmouth,50.683333,-3.25,E07000040,False
+gb,2006,7,19,circle,300.0,Boston,52.983333,-0.016667,E07000136,False
+gb,2007,7,22,formation,1800.0,Stratford,52.183333,-1.7,E07000221,False
+gb,2007,7,0,triangle,120.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2009,7,22,circle,120.0,Kettering,52.4,-0.716667,E06000061,False
+gb,2009,7,22,changing,240.0,Hampshire,51.083333,-1.166667,E07000094,False
+gb,2002,7,0,light,120.0,Richmond,51.45,-0.283333,LONDON,False
+gb,2002,7,22,light,40.0,Colchester,51.883333,0.9,E07000071,False
+gb,2003,7,22,light,300.0,Sheffield,53.366667,-1.5,E08000019,False
+gb,2004,7,22,fireball,300.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2006,7,9,cross,60.0,Southampton,50.9,-1.4,E06000045,False
+gb,2007,7,22,formation,1800.0,Stratford,52.183333,-1.7,E07000221,False
+gb,2008,7,22,cross,180.0,Norton,52.3,-3.016667,W06000023,False
+gb,2008,7,23,sphere,900.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2001,7,20,oval,10.0,Whitchurch,51.994167,-4.696111,W06000009,False
+gb,2002,7,21,flash,1.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2004,7,21,rectangle,60.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2006,7,1,disk,5.0,Pembroke Dock,51.691944,-4.950833,W06000009,False
+gb,2006,7,23,light,60.0,Stevenage,51.916667,-0.216667,E07000243,False
+gb,2008,7,14,cigar,720.0,Brean,51.300278,-3.011667,E06000066,False
+gb,2008,7,22,other,2.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2011,7,21,formation,2400.0,Malvern,52.116667,-2.316667,E07000235,False
+gb,2002,7,22,light,360.0,Worcestershire,52.166667,-2.166667,E07000238,False
+gb,2002,7,23,fireball,5.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,7,21,triangle,10.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2001,7,21,egg,300.0,Hamilton,55.766667,-4.033333,S12000029,False
+gb,2002,7,20,unknown,4.0,Sidmouth,50.683333,-3.25,E07000040,False
+gb,2007,7,1,circle,600.0,Kirkcaldy,56.116667,-3.166667,S12000047,False
+gb,2008,7,22,light,600.0,Telford,52.633333,-2.5,E06000020,False
+gb,1997,7,23,circle,1800.0,Bognor Regis,50.783333,-0.65,E07000224,False
+gb,2003,7,23,formation,45.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2006,7,16,circle,15.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2006,7,23,triangle,60.0,Folkestone,51.083333,1.183333,E07000112,False
+gb,2009,7,0,light,4.0,Frant,51.083333,0.266667,E07000065,False
+gb,2011,7,20,sphere,10.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2011,7,23,oval,1800.0,Hull,53.716667,-0.333333,E06000013,False
+gb,2013,7,22,light,30.0,Chawton,51.133333,-0.983333,E07000085,False
+gb,1983,7,17,disk,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,7,0,unknown,30.0,Southampton,50.9,-1.4,E06000045,False
+gb,2004,7,18,cylinder,600.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2006,7,3,egg,120.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2007,7,0,oval,10.0,Douglas,55.55,-3.85,S12000029,False
+gb,2010,7,21,,120.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2012,7,21,egg,45.0,London,51.514125,-0.093689,LONDON,True
+gb,2013,7,4,circle,600.0,Whitehaven,54.55,-3.6,E06000063,False
+gb,2003,7,18,oval,1200.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2007,7,23,teardrop,1200.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2009,7,8,sphere,8.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2009,7,23,fireball,15.0,Harpenden,51.8,-0.35,E07000240,False
+gb,2010,7,19,circle,120.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2008,7,0,circle,10.0,Shirebrook,53.2,-1.216667,E07000033,False
+gb,2008,7,23,cigar,5.0,Kettering,52.4,-0.716667,E06000061,False
+gb,2009,7,22,oval,240.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2009,7,22,circle,15.0,Wellingborough,52.3,-0.7,E06000061,False
+gb,2009,7,23,,300.0,Arundel,50.85,-0.55,E07000224,False
+gb,1986,7,1,triangle,180.0,Coventry,52.416667,-1.55,E08000026,False
+gb,1996,7,13,light,90.0,London,51.514125,-0.093689,LONDON,True
+gb,1999,7,23,sphere,300.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2008,7,1,light,3600.0,London,51.514125,-0.093689,LONDON,True
+gb,2009,7,19,cylinder,45.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2009,7,23,cylinder,300.0,Bournemouth,50.716667,-1.883333,E06000058,False
+gb,2003,7,0,unknown,60.0,Porthmadog,52.933333,-4.116667,W06000002,False
+gb,2004,7,12,rectangle,1500.0,Cambridgeshire,52.333333,0.083333,E07000012,False
+gb,2005,7,23,light,20.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,1978,7,15,other,120.0,Salisbury,51.066667,-1.783333,E06000054,False
+gb,1998,7,23,light,5.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2001,7,7,disk,120.0,Bath,51.379444,-2.365556,E06000022,False
+gb,2002,7,23,circle,600.0,Malton,54.133333,-0.8,E06000065,False
+gb,2007,7,23,fireball,120.0,Hartlepool,54.686111,-1.2125,E06000001,False
+gb,2008,7,23,triangle,180.0,Huddersfield,53.65,-1.783333,E08000034,False
+gb,2011,7,21,fireball,120.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2001,7,2,oval,600.0,Rawtenstall,53.7,-2.283333,E07000125,False
+gb,2005,7,23,triangle,180.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2006,7,22,sphere,180.0,Whitstable,51.35,1.1,E07000106,False
+gb,2006,7,22,light,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2006,7,23,oval,12.0,Watford,52.3,-1.116667,E06000062,False
+gb,2010,7,21,egg,600.0,Dymchurch,51.016667,1.0,E07000112,False
+gb,1975,7,20,triangle,600.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2004,7,17,triangle,20.0,West Lancashire,53.888996,-2.633778,E07000124,False
+gb,2005,7,23,cylinder,180.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2001,8,22,,120.0,Worcestershire,52.166667,-2.166667,E07000238,False
+gb,2002,8,1,triangle,60.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2003,8,18,sphere,30.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2007,8,19,triangle,40.0,Accrington,53.766667,-2.35,E07000120,False
+gb,2007,8,21,disk,12.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2008,8,23,chevron,30.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,8,22,diamond,1200.0,Bromley,51.4,0.05,LONDON,False
+gb,2010,8,22,light,1800.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2010,8,22,sphere,180.0,Stafford,52.833333,-2.0,E07000197,False
+gb,2010,8,23,changing,30.0,Exeter,50.7,-3.533333,E07000041,False
+gb,2010,8,23,light,120.0,Merseyside,53.4,-3.083333,E08000015,False
+gb,2000,8,22,circle,30.0,Frimley,51.3,-0.733333,E07000214,False
+gb,2006,8,0,light,7200.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2007,8,21,light,240.0,Oxford,51.75,-1.25,E07000178,False
+gb,2007,8,23,light,30.0,Bedford,52.133333,-0.45,E06000055,False
+gb,2009,8,0,cylinder,4.0,Harefield,51.6,-0.483333,LONDON,False
+gb,2011,8,3,light,300.0,Hereford,52.05,-2.716667,E06000019,False
+gb,1965,8,21,light,300.0,Leamington Spa,52.3,-1.533333,E07000222,False
+gb,1974,8,18,cigar,10.0,Kent,51.25,0.75,E07000110,False
+gb,1979,8,16,circle,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1995,8,16,triangle,1200.0,Hull,53.716667,-0.333333,E06000013,False
+gb,1997,8,20,sphere,5.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2001,8,22,light,180.0,Oxford,51.75,-1.25,E07000178,False
+gb,2003,8,2,flash,600.0,Dorchester,51.633333,-1.166667,E07000179,False
+gb,2003,8,11,circle,10.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2004,8,22,triangle,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,8,20,light,300.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2000,8,1,cigar,7.0,Stockport,53.4,-2.15,E08000007,False
+gb,2001,8,17,other,120.0,Dunkeld,56.566667,-3.583333,S12000048,False
+gb,2002,8,1,changing,1800.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2002,8,17,other,20.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2002,8,20,disk,40.0,Pontefract,53.683333,-1.3,E08000036,False
+gb,2002,8,22,triangle,30.0,Rochester,55.3,-2.25,E06000057,False
+gb,2002,8,22,,60.0,Chelmsford,51.733333,0.483333,E07000070,False
+gb,2002,8,22,triangle,6.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2002,8,23,light,15.0,Conisbrough,53.483333,-1.233333,E08000017,False
+gb,2002,8,23,sphere,20.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2002,8,23,triangle,20.0,Rugby,52.366667,-1.25,E07000220,False
+gb,2002,8,23,light,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,8,0,light,60.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2008,8,10,light,60.0,Conwy,53.283333,-3.833333,W06000003,False
+gb,2013,8,1,triangle,180.0,Luton,51.883333,-0.416667,E06000032,False
+gb,1943,8,22,sphere,600.0,Portsmouth,50.7967,-1.083333,E06000044,False
+gb,2006,8,20,sphere,30.0,Clevedon,51.435278,-2.8525,E06000024,False
+gb,2007,8,0,triangle,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,8,1,triangle,7200.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2009,8,22,formation,20.0,Ellesmere Port,53.283333,-2.9,E06000050,False
+gb,1995,8,18,formation,600.0,Burgess Hill,50.966667,-0.133333,E07000228,False
+gb,2006,8,0,triangle,120.0,Bathgate,55.9,-3.633333,S12000040,False
+gb,2008,8,19,,1800.0,Rotherham,53.433333,-1.35,E08000018,False
+gb,2009,8,23,sphere,20.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2010,8,22,sphere,1800.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,1998,8,20,teardrop,180.0,Southampton,50.9,-1.4,E06000045,False
+gb,1998,8,22,light,120.0,Luton,51.883333,-0.416667,E06000032,False
+gb,2002,8,19,fireball,50.0,Cheshire,53.166667,-2.583333,E06000050,False
+gb,2003,8,1,,30.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2007,8,0,fireball,20.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2009,8,22,unknown,120.0,Poole,50.716667,-2.0,E06000058,False
+gb,2009,8,23,fireball,60.0,Cleckheaton,53.716667,-1.716667,E08000034,False
+gb,2012,8,15,disk,900.0,Benfleet,51.533333,0.55,E07000069,False
+gb,2012,8,21,triangle,60.0,Rochdale,53.616667,-2.15,E08000005,False
+gb,2012,8,22,circle,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1988,8,23,triangle,300.0,Dudley,52.5,-2.083333,E08000027,False
+gb,1989,8,2,circle,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1996,8,21,light,1200.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2000,8,3,circle,1200.0,Nottinghamshire,53.166667,-1.0,E07000175,False
+gb,2000,8,22,disk,180.0,Hemel Hempstead,51.75,-0.466667,E07000096,False
+gb,2001,8,22,oval,600.0,Abersoch,52.816667,-4.5,W06000002,False
+gb,2002,8,22,triangle,10.0,New Park,51.763889,-4.871944,W06000009,False
+gb,2006,8,20,changing,900.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2009,8,21,rectangle,40.0,Chelmsford,51.733333,0.483333,E07000070,False
+gb,1970,8,15,disk,900.0,London,51.514125,-0.093689,LONDON,True
+gb,1974,8,23,circle,10.0,Colwyn Bay,53.3,-3.75,W06000003,False
+gb,2002,8,23,triangle,600.0,Preston,50.783333,-0.466667,E07000224,False
+gb,2006,8,23,disk,600.0,Polegate,50.8,0.233333,E07000061,False
+gb,2007,8,1,light,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,8,23,chevron,5.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,1997,8,23,circle,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,8,18,changing,960.0,Bognor,50.783333,-0.65,E07000224,False
+gb,2004,8,21,sphere,2.0,Stafford,52.833333,-2.0,E07000197,False
+gb,2005,8,22,light,1200.0,Cheltenham,51.9,-2.083333,E07000078,False
+gb,2009,8,22,,120.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2009,8,23,circle,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,8,2,triangle,13.0,London,51.514125,-0.093689,LONDON,True
+gb,1984,8,14,sphere,600.0,London,51.514125,-0.093689,LONDON,True
+gb,1996,8,17,disk,300.0,Romford,51.583333,0.2,LONDON,False
+gb,2001,8,0,light,900.0,Dundee,56.5,-2.966667,S12000042,False
+gb,2002,8,23,sphere,10.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2003,8,22,circle,120.0,Newton Abbot,50.533333,-3.6,E07000045,False
+gb,2005,8,20,disk,300.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2009,8,21,circle,600.0,Shropshire,52.666667,-2.75,E06000051,False
+gb,2009,8,23,circle,3600.0,Shebbear,50.85,-4.216667,E07000046,False
+gb,2011,8,20,sphere,60.0,Cheshire,53.166667,-2.583333,E06000050,False
+gb,1998,8,21,sphere,300.0,Glastonbury,51.146667,-2.714444,E06000066,False
+gb,2005,8,14,egg,30.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2006,8,19,circle,30.0,Guildford,51.216667,-0.566667,E07000209,False
+gb,2006,8,21,light,180.0,Hope,53.116667,-3.033333,W06000005,False
+gb,2006,8,21,light,40.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2009,8,0,unknown,120.0,Baildon,53.85,-1.766667,E08000032,False
+gb,2011,8,22,teardrop,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,8,12,light,300.0,Stevenage,51.916667,-0.216667,E07000243,False
+gb,2006,8,2,diamond,3.0,Exmouth,50.583333,-3.4,E07000040,False
+gb,2009,8,22,circle,20.0,Avoch,57.566667,-4.166667,S12000017,False
+gb,2005,8,0,sphere,600.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2006,8,19,circle,30.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2009,8,20,light,600.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2009,8,21,other,100.0,Coalville,52.716667,-1.366667,E07000134,False
+gb,2000,8,23,formation,1800.0,Burgess Hill,50.966667,-0.133333,E07000228,False
+gb,2002,8,21,,300.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2008,8,1,other,480.0,Cambridgeshire,52.333333,0.083333,E07000012,False
+gb,2011,8,18,circle,1200.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2001,8,23,circle,6.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,8,0,disk,300.0,Mansfield,53.133333,-1.2,E07000174,False
+gb,2005,8,22,unknown,2.0,Broadway,51.764722,-4.472778,W06000010,False
+gb,1995,8,13,teardrop,10.0,Haslemere,51.083333,-0.7,E07000216,False
+gb,2000,8,21,triangle,900.0,Bootle,53.466667,-3.016667,E08000014,False
+gb,2003,8,13,other,180.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2003,8,21,circle,30.0,Southampton,50.9,-1.4,E06000045,False
+gb,2006,8,0,triangle,40.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2007,8,21,sphere,360.0,Tonbridge,51.183333,0.283333,E07000115,False
+gb,2013,8,16,sphere,4.0,Great Yarmouth,52.633333,1.75,E07000145,False
+gb,2001,8,0,,60.0,Ipswich,52.083333,1.166667,E07000244,False
+gb,2006,8,22,fireball,240.0,Essex,51.833333,0.583333,E07000067,False
+gb,2007,8,3,light,10.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2007,8,18,formation,240.0,Milton Keynes,52.033333,-0.7,E06000042,False
+gb,2000,8,15,triangle,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,8,22,light,3600.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2006,8,21,light,30.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2011,8,21,sphere,2700.0,Henham,51.933333,0.25,E07000077,False
+gb,2011,8,22,triangle,7200.0,Horley,51.166667,-0.166667,E07000211,False
+gb,1992,8,5,oval,300.0,Yorkshire,54.0,-1.5,E06000065,False
+gb,2000,8,23,light,20.0,Bracknell,51.416667,-0.75,E06000036,False
+gb,2001,8,21,other,3.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2002,8,22,flash,10.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2007,8,19,rectangle,40.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2009,8,23,fireball,180.0,Altrincham,53.383333,-2.35,E08000009,False
+gb,2012,8,3,light,2400.0,York,53.954115,-1.064262,E06000014,False
+gb,1999,8,16,changing,600.0,Salford,52.033333,-0.633333,E06000056,False
+gb,2001,8,23,egg,12.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2003,8,21,unknown,40.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2004,8,22,sphere,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,8,21,circle,600.0,Essex,51.833333,0.583333,E07000067,False
+gb,2009,8,5,,60.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2009,8,21,circle,2400.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2009,8,21,circle,600.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2011,8,21,light,300.0,Woodhall Spa,53.15,-0.216667,E07000137,False
+gb,2013,8,9,light,60.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2013,8,20,,180.0,Kingswinford,52.483333,-2.183333,E07000196,False
+gb,1978,8,22,cigar,240.0,Bristol,51.45,-2.583333,E06000023,False
+gb,1980,8,20,circle,900.0,Llandudno,53.333333,-3.833333,W06000003,False
+gb,2000,8,1,triangle,300.0,Southampton,50.9,-1.4,E06000045,False
+gb,2004,8,15,unknown,34.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2005,8,3,triangle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2005,8,22,chevron,10.0,Coventry,52.416667,-1.55,E08000026,False
+gb,2010,8,22,fireball,300.0,Annalong,54.1,-5.883333,N09000010,False
+gb,2000,8,22,triangle,600.0,Northampton,52.25,-0.883333,E06000062,False
+gb,2003,8,16,cigar,1200.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,2005,8,21,,60.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,1997,8,10,disk,86400.0,Darvel,55.583333,-4.283333,S12000008,False
+gb,2002,8,15,light,1200.0,Morecambe,54.066667,-2.85,E07000121,False
+gb,2003,8,16,sphere,900.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,8,23,light,300.0,Kent,51.25,0.75,E07000110,False
+gb,2004,8,23,chevron,180.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2005,8,16,circle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,8,22,oval,5.0,North Yorkshire,54.166667,-1.5,E06000065,False
+gb,2001,8,1,diamond,3600.0,Worthing,50.8,-0.366667,E07000229,False
+gb,2003,8,14,rectangle,60.0,Banbury,52.05,-1.333333,E07000177,False
+gb,2006,8,19,formation,1200.0,Nelson,51.653333,-3.284444,W06000018,False
+gb,2007,8,23,circle,300.0,Worthing,50.8,-0.366667,E07000229,False
+gb,2008,8,23,unknown,2.0,Ingoldmells,53.183333,0.333333,E07000137,False
+gb,2006,8,13,circle,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,8,22,circle,120.0,Falkirk,56.0,-3.75,S12000014,False
+gb,2013,8,22,sphere,240.0,Cardigan,52.083333,-4.666667,W06000008,False
+gb,2004,8,13,unknown,60.0,Hampshire,51.083333,-1.166667,E07000094,False
+gb,2005,8,17,circle,2.0,St. Austell,50.338333,-4.765833,E06000052,False
+gb,2010,8,22,rectangle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,8,4,circle,1800.0,Chingford,51.628528,0.003375,LONDON,False
+gb,2004,8,15,oval,300.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2008,8,22,light,600.0,Grangemouth,56.016667,-3.733333,S12000014,False
+gb,2010,8,22,fireball,1200.0,Larkhall,55.733333,-3.966667,S12000029,False
+gb,2013,8,0,other,90.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,1967,8,22,unknown,2400.0,Oxford,51.75,-1.25,E07000178,False
+gb,1996,8,21,sphere,5.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,1997,8,18,circle,2400.0,Tadley,51.333333,-1.116667,E07000084,False
+gb,2000,8,22,,900.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,2002,8,12,other,240.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2005,8,10,changing,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,8,23,diamond,20.0,Swinton,55.716667,-2.266667,S12000026,False
+gb,2009,8,21,light,40.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2009,8,21,light,40.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2009,8,23,fireball,600.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2011,8,0,light,600.0,Kingston Upon Hull,53.716667,-0.333333,E06000013,False
+gb,1995,8,20,sphere,8.0,Bournemouth,50.716667,-1.883333,E06000058,False
+gb,2002,8,0,sphere,300.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2003,8,23,chevron,5.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2008,8,2,light,60.0,Alton,52.966667,-1.883333,E07000193,False
+gb,2009,8,9,sphere,30.0,Watton,52.566667,0.833333,E07000143,False
+gb,2009,8,22,other,600.0,Llanelli,51.676111,-4.156667,W06000010,False
+gb,2002,9,11,egg,4.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2003,9,20,other,180.0,Bonnybridge,56.0,-3.883333,S12000014,False
+gb,2004,9,0,unknown,120.0,Llandeilo,51.882778,-3.996389,W06000010,False
+gb,2006,9,21,oval,5.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2007,9,22,formation,30.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1978,9,0,light,45.0,Reading,51.433333,-1.0,E06000038,False
+gb,2009,9,21,oval,60.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2009,9,21,unknown,5.0,Preston,50.783333,-0.466667,E07000224,False
+gb,2010,9,22,disk,10.0,South Yorkshire,53.45,-1.25,E08000017,False
+gb,1999,9,21,teardrop,600.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2000,9,17,disk,7200.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,9,2,egg,7200.0,Blackburn,55.866667,-3.633333,S12000040,False
+gb,2002,9,23,diamond,30.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2002,9,23,oval,300.0,Norwich,52.633333,1.3,E07000148,False
+gb,2006,9,20,light,600.0,Lancaster,54.066667,-2.833333,E07000121,False
+gb,2004,9,5,triangle,300.0,Andover,51.2,-1.483333,E07000093,False
+gb,2009,9,20,fireball,180.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2009,9,21,circle,5.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2009,9,22,fireball,60.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2010,9,16,circle,360.0,Bradford,51.0,-3.183333,E06000066,False
+gb,2002,9,17,changing,1200.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,9,20,oval,45.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2003,9,0,circle,5.0,Warrington,53.383333,-2.6,E06000007,False
+gb,2003,9,14,other,1200.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1980,9,19,other,36.0,Todmorden,53.716667,-2.083333,E08000033,False
+gb,2003,9,16,circle,3600.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,9,16,circle,3600.0,London,51.514125,-0.093689,LONDON,True
+gb,1967,9,11,cigar,14400.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1984,9,22,triangle,180.0,Gravesend,51.433333,0.366667,E07000109,False
+gb,1993,9,15,cigar,420.0,Colchester,51.883333,0.9,E07000071,False
+gb,2000,9,13,light,600.0,Wythenshawe,53.4,-2.266667,E08000003,False
+gb,2000,9,20,other,1200.0,Ashburton,50.516667,-3.75,E07000045,False
+gb,2001,9,0,rectangle,1800.0,Harrogate,53.983333,-1.533333,E06000065,False
+gb,2002,9,11,sphere,1200.0,Chichester,50.833333,-0.783333,E07000225,False
+gb,2006,9,0,light,300.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2007,9,0,changing,240.0,London,51.514125,-0.093689,LONDON,True
+gb,2007,9,11,teardrop,660.0,London,51.514125,-0.093689,LONDON,True
+gb,2010,9,22,diamond,2700.0,Bishop Auckland,54.65,-1.666667,E06000047,False
+gb,2011,9,22,disk,60.0,Blackpool,53.816667,-3.05,E06000009,False
+gb,2011,9,23,sphere,120.0,Oxford,51.75,-1.25,E07000178,False
+gb,1978,9,21,circle,60.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,1996,9,17,diamond,20.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2000,9,19,diamond,7.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2001,9,17,circle,10.0,Falkirk,56.0,-3.75,S12000014,False
+gb,2004,9,21,formation,1200.0,Ruislip,51.566667,-0.416667,LONDON,False
+gb,2006,9,22,fireball,1500.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2007,9,2,triangle,180.0,Loughton,52.433333,-2.566667,E06000051,False
+gb,2009,9,0,cigar,90.0,Caersws,52.516667,-3.433333,W06000023,False
+gb,2000,9,19,chevron,15.0,Nottinghamshire,53.166667,-1.0,E07000175,False
+gb,2000,9,21,triangle,300.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2002,9,21,disk,4.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2009,9,20,,120.0,Harrogate,53.983333,-1.533333,E06000065,False
+gb,1999,9,3,unknown,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,9,21,triangle,5.0,Weymouth,50.6,-2.45,E06000059,False
+gb,2008,9,21,circle,300.0,Crudwell,51.633333,-2.066667,E06000054,False
+gb,2009,9,21,fireball,300.0,Doncaster,53.533333,-1.116667,E08000017,False
+gb,2009,9,21,light,120.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2008,9,19,light,600.0,Stoke-On-Trent,53.0,-2.183333,E06000021,False
+gb,2000,9,20,sphere,300.0,Swansea,51.633333,-3.966667,W06000011,False
+gb,2000,9,22,formation,2.0,Bridgnorth,52.533333,-2.416667,E06000051,False
+gb,2000,9,22,other,1200.0,Padstow,50.533333,-4.933333,E06000052,False
+gb,2003,9,19,light,30.0,Southampton,50.9,-1.4,E06000045,False
+gb,2008,9,20,light,2.0,Timperley,53.4,-2.333333,E08000009,False
+gb,2009,9,0,light,240.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,2009,9,11,other,120.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1996,9,23,triangle,10.0,Norwich,52.633333,1.3,E07000148,False
+gb,2003,9,3,triangle,240.0,Liverpool,53.416667,-3.0,E08000012,False
+gb,2004,9,1,teardrop,30.0,Plymouth,50.396389,-4.138611,E06000026,False
+gb,2006,9,21,light,60.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2008,9,13,sphere,300.0,Wakefield,53.7,-1.483333,E08000036,False
+gb,2008,9,16,flash,60.0,Featherstone,53.7,-1.366667,E08000036,False
+gb,2008,9,20,unknown,60.0,Cardiff,51.5,-3.2,W06000015,False
+gb,2009,9,20,fireball,120.0,Thame,51.75,-0.983333,E07000179,False
+gb,2009,9,0,teardrop,600.0,Havant,50.85,-0.983333,E07000090,False
+gb,2011,9,22,circle,120.0,Walsall,52.6,-2.0,E08000030,False
+gb,2012,9,22,fireball,120.0,Burry Port,51.688333,-4.244444,W06000010,False
+gb,2012,9,22,fireball,30.0,Alfreton,53.1,-1.383333,E07000032,False
+gb,2012,9,22,unknown,30.0,Warton,53.766667,-2.883333,E07000119,False
+gb,2012,9,22,fireball,120.0,Derbyshire,53.166667,-1.583333,E07000035,False
+gb,2012,9,23,other,8.0,Carmarthenshire,51.833333,-4.166667,W06000010,False
+gb,2012,9,23,circle,10.0,Glasgow,55.833333,-4.25,S12000049,False
+gb,2012,9,23,fireball,420.0,Newcastle Upon Tyne,54.988056,-1.619444,E08000021,False
+gb,2012,9,23,other,300.0,Pwllheli,52.883333,-4.416667,W06000002,False
+gb,2012,9,23,fireball,600.0,Redberth,51.7025,-4.775278,W06000009,False
+gb,2012,9,23,changing,18.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2012,9,23,other,15.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2002,9,2,light,60.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2005,9,15,oval,10.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2006,9,23,other,30.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2009,9,20,sphere,180.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2000,9,19,triangle,3600.0,Penrith,54.65,-2.733333,E06000064,False
+gb,2007,9,20,sphere,600.0,Keighley,53.883333,-1.916667,E08000032,False
+gb,2007,9,22,circle,600.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2008,9,20,triangle,20.0,Edinburgh,55.833333,-3.083333,S12000019,False
+gb,1999,9,17,flash,10.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2002,9,1,triangle,960.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,9,6,disk,4.0,Swindon,51.516667,-1.783333,E06000030,False
+gb,2003,9,21,cigar,60.0,Basingstoke,51.266667,-1.083333,E07000084,False
+gb,2004,9,21,unknown,7.0,Durham,54.766667,-1.566667,E06000047,False
+gb,1999,9,22,triangle,60.0,Beaconsfield,51.6,-0.633333,E06000060,False
+gb,2001,9,22,triangle,120.0,Oldbury,52.55,-1.533333,E07000218,False
+gb,2004,9,0,teardrop,600.0,Dunstable,51.883333,-0.516667,E06000056,False
+gb,2006,9,18,circle,300.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2006,9,21,light,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,2012,9,11,triangle,300.0,Carmarthen,51.859167,-4.311667,W06000010,False
+gb,2012,9,20,circle,60.0,Southport,53.666667,-3.0,E08000014,False
+gb,2013,9,19,disk,120.0,Warrington,53.383333,-2.6,E06000007,False
+gb,1996,9,22,unknown,600.0,Oxford,51.75,-1.25,E07000178,False
+gb,2003,9,22,triangle,180.0,Chester,53.2,-2.916667,E06000050,False
+gb,2005,9,19,changing,180.0,Nottingham,52.966667,-1.166667,E06000018,False
+gb,2006,9,11,oval,120.0,Salisbury,51.066667,-1.783333,E06000054,False
+gb,2008,9,16,sphere,1.0,London,51.514125,-0.093689,LONDON,True
+gb,2008,9,20,light,60.0,Shrewsbury,52.716667,-2.733333,E06000051,False
+gb,2008,9,22,light,5.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2010,9,21,fireball,600.0,Wolverhampton,52.583333,-2.133333,E08000031,False
+gb,2010,9,21,fireball,20.0,Oldham,53.55,-2.116667,E08000004,False
+gb,2002,9,16,teardrop,900.0,Middlesbrough,54.572778,-1.162778,E06000003,False
+gb,2002,9,20,changing,30.0,Warminster,51.203611,-2.180833,E06000054,False
+gb,2007,9,21,circle,600.0,Blandford Forum,50.866667,-2.166667,E06000059,False
+gb,2008,9,20,other,3600.0,Leeds,53.8,-1.583333,E08000035,False
+gb,2009,9,20,formation,120.0,Sunderland,54.911944,-1.383333,E08000024,False
+gb,2000,9,22,disk,180.0,Newcastle,54.2,-5.883333,N09000010,False
+gb,2003,9,1,unknown,600.0,Leicester,52.664913,-1.034894,E07000130,False
+gb,2012,9,7,light,300.0,Newport,52.016667,-4.833333,W06000009,False
+gb,2013,9,0,unknown,30.0,Bristol,51.45,-2.583333,E06000023,False
+gb,2003,9,21,oval,60.0,Northamptonshire,52.315972,-0.848108,E06000062,False
+gb,2003,9,23,oval,1.5,Norwich,52.633333,1.3,E07000148,False
+gb,2008,9,19,circle,300.0,Bournemouth,50.716667,-1.883333,E06000058,False
+gb,2008,9,20,light,2700.0,Selborne,51.083333,-0.933333,E07000085,False
+gb,2009,9,16,light,120.0,Butterwick,54.116667,-0.483333,E06000065,False
+gb,2012,9,22,circle,60.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,9,22,disk,120.0,Craigavon,54.466667,-6.416667,N09000002,False
+gb,2002,9,7,other,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2002,9,21,light,360.0,Colchester,51.883333,0.9,E07000071,False
+gb,2004,9,17,changing,900.0,Kent,51.25,0.75,E07000110,False
+gb,2004,9,21,sphere,15.0,Brighton,50.833333,-0.15,E06000043,False
+gb,2006,9,20,other,240.0,Motherwell,55.783333,-4.0,S12000050,False
+gb,2006,9,20,other,480.0,Motherwell,55.783333,-4.0,S12000050,False
+gb,2008,9,21,circle,1200.0,Barnsley,51.733333,-1.883333,E07000079,False
+gb,2012,9,20,light,40.0,Crawley,51.116667,-0.183333,E07000226,False
+gb,2000,9,22,sphere,8.0,Ipswich,52.083333,1.166667,E07000244,False
+gb,2009,9,16,other,1.0,Worcester,52.166667,-2.166667,E07000238,False
+gb,2012,9,0,circle,300.0,London,51.514125,-0.093689,LONDON,True
+gb,2000,9,20,circle,20.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,9,5,unknown,1200.0,Yeovil,50.95,-2.633333,E06000066,False
+gb,2013,9,22,other,30.0,Glastonbury,51.146667,-2.714444,E06000066,False
+gb,1998,9,6,triangle,15.0,Nitshill,55.8,-4.366667,S12000049,False
+gb,2003,9,22,oval,30.0,Gloucester,51.833333,-2.166667,E07000083,False
+gb,2003,9,22,oval,60.0,Watford,52.3,-1.116667,E06000062,False
+gb,2004,9,21,light,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2004,9,23,light,3600.0,Weymouth,50.6,-2.45,E06000059,False
+gb,2007,9,18,sphere,60.0,Newbridge,51.666667,-3.133333,W06000018,False
+gb,2009,9,23,circle,1800.0,Inverness,57.466667,-4.233333,S12000017,False
+gb,2009,9,23,,30.0,Lancashire,53.888996,-2.633778,E07000124,False
+gb,2010,9,21,fireball,2100.0,Telford,52.633333,-2.5,E06000020,False
+gb,2010,9,21,circle,300.0,Forfar,56.65,-2.883333,S12000041,False
+gb,2010,9,22,circle,300.0,Colchester,51.883333,0.9,E07000071,False
+gb,1976,9,21,circle,2400.0,Birmingham,52.466667,-1.916667,E08000025,False
+gb,1998,9,15,circle,30.0,Shrewsbury,52.716667,-2.733333,E06000051,False
+gb,1999,9,23,triangle,18.0,Peterborough,52.583333,-0.25,E06000031,False
+gb,2003,9,16,disk,2700.0,Derby,53.166667,-1.583333,E07000035,False
+gb,2005,9,20,light,18000.0,Fife,56.25,-3.166667,S12000047,False
+gb,2009,9,21,circle,90.0,Kent,51.25,0.75,E07000110,False
+gb,1995,9,1,other,360.0,Stirling,56.116667,-3.95,S12000030,False
+gb,2003,9,6,disk,120.0,Manchester,53.5,-2.216667,E08000003,False
+gb,1998,9,21,circle,1800.0,Barnsley,51.733333,-1.883333,E07000079,False
+gb,2003,9,8,cigar,10.0,London,51.514125,-0.093689,LONDON,True
+gb,2003,9,13,circle,20.0,Luton,51.883333,-0.416667,E06000032,False
+gb,2004,9,0,circle,600.0,London,51.514125,-0.093689,LONDON,True
+gb,1970,9,22,egg,120.0,Kirkby,53.083333,-1.266667,E07000170,False
+gb,2003,9,22,light,300.0,Fife,56.25,-3.166667,S12000047,False
+gb,2004,9,0,triangle,10.0,Grimsby,53.533333,-0.05,E06000012,False
+gb,2007,9,22,circle,600.0,Hampshire,51.083333,-1.166667,E07000094,False
+gb,2007,9,22,triangle,30.0,London,51.514125,-0.093689,LONDON,True
+gb,2012,9,9,formation,900.0,Kent,51.25,0.75,E07000110,False
+gb,2012,9,19,teardrop,120.0,London,51.514125,-0.093689,LONDON,True
+gb,2001,9,5,triangle,1500.0,Lincoln,53.233333,-0.533333,E07000138,False
+gb,2006,9,21,light,300.0,Yorkshire,54.0,-1.5,E06000065,False
+gb,2007,9,11,other,600.0,Christchurch,51.6,-2.95,W06000022,False
+gb,2009,9,3,light,6.0,Aberdeen,57.166667,-2.666667,S12000034,False
+gb,2009,9,21,fireball,600.0,Nottinghamshire,53.166667,-1.0,E07000175,False
+uk_nocode,2003,10,23,unknown,2700.0,Bickerton,53.070884,-2.736506,E06000049,False
+uk_nocode,2000,10,20,light,600.0,Brixham,50.39514,-3.513924,E06000027,False
+uk_nocode,2002,10,20,oval,4200.0,Newcastle-Upon-Tyne,54.978252,-1.61778,E08000021,False
+uk_nocode,1967,10,19,light,600.0,Knott - End. Fleetwood,53.92766,-3.00585,E07000128,False
+uk_nocode,1997,10,23,unknown,30.0,Fort William,56.819817,-5.105218,S12000017,False
+uk_nocode,2001,10,16,circle,20.0,Swadlincote,52.771318,-1.554997,E07000039,False
+uk_nocode,2009,10,21,circle,120.0,Melksham,51.370447,-2.137629,E06000054,False
+uk_nocode,2009,10,22,light,40.0,Oakham,52.669563,-0.726625,E06000017,False
+uk_nocode,2002,10,1,circle,2700.0,Ditcot,51.608044,-1.24484,E07000179,False
+uk_nocode,2002,10,1,circle,7200.0,South Stoke,51.543102,-1.097742,E07000179,False
+uk_nocode,2012,10,21,sphere,480.0,Toton,52.906367,-1.257422,E07000172,False
+uk_nocode,2004,10,1,teardrop,900.0,Tattonhall,53.120933,-2.771825,E06000050,False
+uk_nocode,2003,10,22,light,60.0,Swanley,51.396531,0.177326,E07000111,False
+uk_nocode,2004,10,21,chevron,10.0,Canvey Island,51.517083,0.578411,E07000069,False
+uk_nocode,2009,10,2,light,300.0,Cheshire,53.381724,-2.480044,E06000007,False
+uk_nocode,2009,10,21,triangle,1200.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,2006,10,14,sphere,240.0,Wimborne,50.800657,-1.984495,E06000059,False
+uk_nocode,2006,10,17,light,20.0,Rugby Warks,52.370878,-1.265032,E07000220,False
+uk_nocode,2009,10,16,disk,600.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,2012,10,0,unknown,120.0,Hayward'S Heath,50.999041,-0.106333,E07000228,False
+uk_nocode,1994,10,2,sphere,1200.0,Brixham.Devon,50.39514,-3.513924,E06000027,False
+uk_nocode,1999,10,21,circle,10.0,Ripon,54.13564,-1.527334,E06000065,False
+uk_nocode,1999,10,1,circle,1200.0,Darwen,53.829579,-2.597118,E07000124,False
+uk_nocode,2011,10,0,oval,300.0,Kharkiv,49.9935,36.230383,,False
+uk_nocode,2001,10,20,other,600.0,Grimsby  ?,53.567471,-0.080784,E06000012,False
+uk_nocode,2008,10,10,light,12.0,Chawton,51.131258,-0.987425,E07000085,False
+uk_nocode,2007,10,9,light,20.0,St. Helier,49.186823,-2.106568,,False
+uk_nocode,1984,10,19,other,15.0,Chigwell Essex,51.626281,0.080647,E07000072,False
+uk_nocode,2004,10,11,sphere,30.0,Harlow,51.767787,0.087806,E07000073,False
+uk_nocode,2005,10,9,other,20.0,Kirby Bellars,52.755637,-0.947553,E07000133,False
+uk_nocode,2007,10,2,other,73800.0,Canvey Island,51.517083,0.578411,E07000069,False
+uk_nocode,1978,1,16,other,120.0,Gateshead,54.95268,-1.603411,E08000037,False
+uk_nocode,1978,1,20,disk,7200.0,Walberswick Suffolk,52.314994,1.661398,E07000244,False
+uk_nocode,1988,1,21,sphere,120.0,Bellside/Wishaw,55.838323,-3.935489,S12000050,False
+uk_nocode,2007,1,18,formation,20.0,Helsby,53.273014,-2.769426,E06000050,False
+uk_nocode,2008,1,21,unknown,2.0,Rishton/Blackburn,53.768509,-2.42362,E07000120,False
+uk_nocode,2014,1,16,light,900.0,Pendle,53.845,-2.204,E07000122,False
+uk_nocode,2000,11,0,unknown,300.0,Walton On Thames Surrey,51.38847,-0.416969,E07000207,False
+uk_nocode,2002,11,22,light,1.0,Southmore,51.683525,-1.424906,E07000180,False
+uk_nocode,2008,11,19,fireball,60.0,Handforth,53.356083,-2.212708,E06000049,False
+uk_nocode,1998,11,0,egg,1.0,Derby,41.318765,-73.056398,,False
+uk_nocode,2000,11,7,disk,300.0,Middlesbrough  ??,54.574227,-1.234956,E06000002,False
+uk_nocode,2008,11,20,triangle,180.0,St Helens,53.456307,-2.737095,E08000013,False
+uk_nocode,2005,11,6,chevron,1800.0,Thorne,53.610421,-0.96144,E08000017,False
+uk_nocode,2008,11,19,circle,90.0,Dover,51.127876,1.313403,E07000108,False
+uk_nocode,2000,11,15,triangle,60.0,Ilford/Harwich,51.934731,1.260297,E07000076,False
+uk_nocode,2008,11,17,other,60.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,1989,11,10,other,3600.0,Iver Heath,51.550908,-0.521463,E06000060,False
+uk_nocode,1995,11,17,triangle,1200.0,Wednesbury,52.552888,-2.02208,E08000028,False
+uk_nocode,1996,11,22,triangle,2.0,Thornton Cleveleys,53.873712,-3.021371,E07000128,False
+uk_nocode,1999,11,11,other,7200.0,Lincoln,53.230688,-0.540579,E07000138,False
+uk_nocode,1998,11,22,egg,600.0,Sheffield City,53.381129,-1.470085,E08000019,False
+uk_nocode,2013,11,20,light,2.0,Menstrie,56.151116,-3.854674,S12000005,False
+uk_nocode,2008,11,21,triangle,120.0,Brixworth,52.33072,-0.905283,E06000062,False
+uk_nocode,2007,1,13,triangle,240.0,Hainault,51.608139,0.10079,LONDON,False
+uk_nocode,2009,1,20,circle,900.0,Burton-In-Kendal,54.184523,-2.720037,E06000064,False
+uk_nocode,2010,1,12,circle,420.0,Burbage,52.527666,-1.348303,E07000132,False
+uk_nocode,1996,11,19,triangle,300.0,Wirral,53.333333,-3.083333,E08000015,False
+uk_nocode,2001,1,22,formation,180.0,St.Leonards-On-Sea,50.855638,0.552577,E07000062,False
+uk_nocode,2014,1,18,light,180.0,Burton On Trent,52.814028,-1.637136,E07000193,False
+uk_nocode,2008,11,19,light,15.0,Peacehaven,50.793209,-0.005174,E07000063,False
+uk_nocode,2008,11,19,unknown,600.0,Scottish Borders,55.54857,-2.786139,S12000026,False
+uk_nocode,2008,11,1,changing,720.0,Thornton-Cleveleys,53.873712,-3.021371,E07000128,False
+uk_nocode,2001,11,20,circle,60.0,Bicester,51.899603,-1.15359,E07000177,False
+uk_nocode,1999,11,8,sphere,300.0,Moram,13.171641,78.693053,,False
+uk_nocode,2001,11,4,triangle,300.0,Derby/Leicester Border,52.92253,-1.474619,E06000015,False
+uk_nocode,2006,11,7,sphere,60.0,Glan Conwy,53.268083,-3.7935,W06000003,False
+uk_nocode,1974,11,20,disk,10.0,Olney,52.154738,-0.701378,E06000042,False
+uk_nocode,1999,11,17,unknown,600.0,Kilburn,53.007732,-1.433412,E07000032,False
+uk_nocode,2011,1,18,other,30.0,Wirral,53.333333,-3.083333,E08000015,False
+uk_nocode,1999,1,23,fireball,60.0,Stevenage,51.903761,-0.196612,E07000243,False
+uk_nocode,2006,1,6,teardrop,120.0,Nottingham (Uk/England,52.954783,-1.158109,E06000018,False
+uk_nocode,2006,11,19,unknown,1800.0,Dumfries/Galloway,54.988285,-3.857784,S12000006,False
+uk_nocode,2007,11,20,fireball,180.0,Leftwich/Northwich,53.248472,-2.50897,E06000050,False
+uk_nocode,2004,11,1,unknown,20.0,Wembley,51.550501,-0.304841,LONDON,False
+uk_nocode,2003,1,15,oval,300.0,Leyland,53.697931,-2.695478,E07000126,False
+uk_nocode,2004,11,22,circle,180.0,Wormley,51.732136,-0.023451,E07000095,False
+uk_nocode,2011,11,12,flash,120.0,Kiev,50.4501,30.5234,,False
+uk_nocode,2011,11,12,flash,50.0,Kiev,50.4501,30.5234,,False
+uk_nocode,2005,1,4,other,120.0,Crowborough,51.060853,0.165894,E07000065,False
+uk_nocode,2010,1,8,circle,20.0,Irvine (Uk/Scotland,55.611567,-4.669636,S12000021,False
+uk_nocode,2014,1,20,unknown,180.0,A55 Northope,53.213147,-3.133831,W06000005,False
+uk_nocode,1997,12,19,unknown,5.0,Walsall,52.586214,-1.982919,E08000030,False
+uk_nocode,2004,12,15,disk,540.0,Kidderminster,52.388596,-2.249684,E07000239,False
+uk_nocode,2007,12,23,disk,10800.0,Loch Ness,57.322858,-4.424382,S12000017,False
+uk_nocode,1998,1,20,oval,180.0,Bradford,53.795984,-1.759398,E08000032,False
+uk_nocode,2006,1,17,other,20.0,Elton,53.145,-1.67,E07000035,False
+uk_nocode,2008,12,21,fireball,180.0,Clee Hill,52.373702,-2.602164,E06000051,False
+uk_nocode,2009,1,21,light,50.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,2004,12,16,light,600.0,Sutton Cum Lound,53.35918,-0.96302,E07000171,False
+uk_nocode,2000,12,19,disk,180.0,Stradbroke,52.318362,1.273321,E07000203,False
+uk_nocode,2003,12,20,other,4.0,Burnham-On-Crouch,51.628347,0.814539,E07000074,False
+uk_nocode,2004,12,19,sphere,5.0,Poole,50.71505,-1.987248,E06000058,False
+uk_nocode,2006,12,17,other,180.0,Burslem,53.045665,-2.196734,E06000021,False
+uk_nocode,2008,12,16,light,600.0,Lowestoft,52.481138,1.753449,E07000244,False
+uk_nocode,1992,12,23,oval,720.0,Kings Lynn,52.75649,0.400174,E07000146,False
+uk_nocode,2009,1,16,disk,180.0,The M1,52.612822,-1.200912,E07000129,False
+uk_nocode,2005,12,19,light,360.0,Newton Le Willows,53.452889,-2.63508,E08000013,False
+uk_nocode,2006,12,18,triangle,120.0,Gatwick Airport,51.153662,-0.182063,E07000226,False
+uk_nocode,2008,12,16,sphere,600.0,Ely,52.399539,0.262363,E07000009,False
+uk_nocode,2005,12,21,light,120.0,Shaftesbury,51.0046,-2.198083,E06000059,False
+uk_nocode,2008,12,0,fireball,60.0,Earl Shilton,52.574738,-1.323133,E07000132,False
+uk_nocode,2010,12,0,disk,300.0,Dnepropetrovsk,48.464717,35.046183,,False
+uk_nocode,1980,12,1,rectangle,7200.0,Raf Bentwaters,52.12785,1.435047,E07000244,False
+uk_nocode,2000,12,19,triangle,180.0,Ballater,57.05003,-3.036649,S12000034,False
+uk_nocode,2002,12,6,flash,2.0,Port Stewart,55.1793,-6.71575,N09000004,False
+uk_nocode,2008,12,17,disk,2700.0,Yalta,44.495205,34.166301,,False
+uk_nocode,2010,1,18,sphere,1.0,Llandudnol,53.324061,-3.827609,W06000003,False
+uk_nocode,1991,12,1,triangle,600.0,Gloucseter,51.864245,-2.238156,E07000081,False
+uk_nocode,2005,12,18,triangle,30.0,Tadmarton,52.037774,-1.42576,E07000177,False
+uk_nocode,1999,12,23,light,45.0,Royal Deeside,57.032755,-3.106968,S12000034,False
+uk_nocode,2001,12,22,other,300.0,Lowestoft,52.481138,1.753449,E07000244,False
+uk_nocode,1998,1,19,triangle,600.0,Swadlincote Nr Burton Upon Trent,52.79451,-1.62316,E07000193,False
+uk_nocode,2011,1,19,sphere,60.0,Forth Estuary,56.166667,-2.75,S12000047,False
+uk_nocode,2010,1,0,light,40.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,2010,1,18,light,120.0,Flint,53.248236,-3.13577,W06000005,False
+uk_nocode,2013,1,4,other,180.0,Dhoon Glen,54.25,-4.366667,,False
+uk_nocode,2003,1,16,sphere,8.0,Kirkham,53.782164,-2.871765,E07000119,False
+uk_nocode,2010,1,20,fireball,180.0,Desside,53.202661,-3.030351,W06000005,False
+uk_nocode,1990,1,23,disk,120.0,Hook Hampshire,51.280906,-0.963043,E07000089,False
+uk_nocode,2012,1,1,light,30.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,1997,1,16,teardrop,120.0,Worsley,53.50754,-2.391199,E08000006,False
+uk_nocode,1998,1,22,fireball,10.0,Poole,50.71505,-1.987248,E06000058,False
+uk_nocode,2000,1,8,sphere,60.0,Beech Hill,51.374313,-1.001312,E06000037,False
+uk_nocode,2009,1,4,circle,18000.0,Conisholme,53.438116,0.109506,E07000137,False
+uk_nocode,2009,1,5,light,180.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,2008,1,23,changing,20.0,Broadstairs (Uk/England,51.360163,1.432038,E07000114,False
+uk_nocode,2000,2,3,triangle,10800.0,Easthagbourne,51.594529,-1.234521,E07000179,False
+uk_nocode,2004,2,20,light,40.0,St.Helens,45.859011,-122.815818,,False
+uk_nocode,2007,2,18,light,1200.0,Suffolk/Cambridgeshire/Essex/London,51.765908,0.667367,E07000074,False
+uk_nocode,2009,2,11,other,5.0,Long Sutton,52.784978,0.120429,E07000140,False
+uk_nocode,2008,2,21,other,35.0,Dalkieth,55.893118,-3.066606,S12000019,False
+uk_nocode,2010,2,21,formation,600.0,Llandudno,53.324061,-3.827609,W06000003,False
+uk_nocode,2009,2,17,circle,600.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,2001,2,19,fireball,180.0,Blackpool,53.817505,-3.035675,E06000009,False
+uk_nocode,2008,2,17,light,4.0,Chawton,51.131258,-0.987425,E07000085,False
+uk_nocode,2000,2,23,light,120.0,Pennien Hills,51.256817,-1.129562,E07000084,False
+uk_nocode,2009,2,1,,10.0,Whitwell/Worksop,53.285594,-1.209239,E07000033,False
+uk_nocode,1978,2,1,light,240.0,Braintree And Raf Weatherfield,51.973598,0.5081,E07000067,False
+uk_nocode,2005,2,23,formation,3600.0,Chiseldon,51.513001,-1.732646,E06000030,False
+uk_nocode,2000,2,20,disk,360.0,Andover,51.211198,-1.491923,E07000093,False
+uk_nocode,2009,2,17,oval,300.0,Bury St Edmunds,52.244384,0.716356,E07000245,False
+uk_nocode,1996,3,15,disk,180.0,Salisbury,51.068785,-1.794472,E06000054,False
+uk_nocode,2009,3,22,unknown,15.0,Broughton Astley,52.527836,-1.221417,E07000131,False
+uk_nocode,1997,3,13,triangle,10.0,Lockerley,51.038201,-1.582512,E07000093,False
+uk_nocode,2007,3,20,disk,600.0,Lulworth,50.623811,-2.248839,E06000059,False
+uk_nocode,2001,3,19,other,900.0,Mexborough/South Yorkshire,53.493099,-1.280452,E08000017,False
+uk_nocode,2000,3,0,unknown,1800.0,Southampton,50.9097,-1.404351,E06000045,False
+uk_nocode,2004,3,18,cigar,780.0,Summertown,51.77873,-1.265412,E07000178,False
+uk_nocode,1997,3,8,sphere,20.0,Marske-By-Sea/Redcar/Cleveland,54.591928,-1.019708,E06000003,False
+uk_nocode,2003,3,15,oval,240.0,Buckhaven,56.174501,-3.030789,S12000047,False
+uk_nocode,2005,3,22,circle,5.0,St. Helier,49.186823,-2.106568,,False
+uk_nocode,2005,3,22,changing,600.0,East Yorkshire,53.821589,-0.718998,E06000011,False
+uk_nocode,2008,3,20,light,240.0,South Wales,52.130661,-3.783712,W06000008,False
+uk_nocode,2000,3,3,triangle,600.0,Evington,52.623705,-1.070344,E06000016,False
+uk_nocode,2003,3,14,cylinder,20.0,Blackpool,53.817505,-3.035675,E06000009,False
+uk_nocode,2009,3,21,light,900.0,Southhampton,50.9097,-1.404351,E06000045,False
+uk_nocode,2011,3,20,sphere,180.0,Colwyn Bay/Llandudno,53.296374,-3.72542,W06000003,False
+uk_nocode,2012,3,21,light,10.0,Mottingham,51.435475,0.041365,LONDON,False
+uk_nocode,2004,3,11,other,20.0,Harwich,51.934731,1.260297,E07000076,False
+uk_nocode,2012,3,12,other,180.0,Tan Hill,51.07756,-2.315008,E06000059,False
+uk_nocode,2012,3,12,oval,180.0,Tan Hill,51.07756,-2.315008,E06000059,False
+uk_nocode,2006,3,13,other,300.0,Bolton,53.584441,-2.428619,E08000001,False
+uk_nocode,2007,3,22,sphere,900.0,Moreton Morrell,52.203158,-1.545244,E07000221,False
+uk_nocode,2000,3,1,circle,120.0,Wrexham?,53.04304,-2.992494,W06000006,False
+uk_nocode,2013,3,18,light,600.0,Faversham,51.315994,0.889358,E07000113,False
+uk_nocode,1999,3,4,disk,360.0,Christchurch,50.735777,-1.778586,E06000058,False
+uk_nocode,2003,3,21,changing,20.0,Fakenham,52.831333,0.849324,E07000147,False
+uk_nocode,2000,4,21,unknown,10.0,Brentwood,51.620475,0.307175,E07000068,False
+uk_nocode,2014,4,4,light,720.0,Newtongrange,55.865652,-3.066151,S12000019,False
+uk_nocode,1999,4,21,formation,900.0,Goring,51.521767,-1.127205,E07000179,False
+uk_nocode,2008,4,21,disk,900.0,Fair Oak,50.965896,-1.298133,E07000086,False
+uk_nocode,1979,4,22,sphere,180.0,Cheshire (Uk/England,53.232634,-2.610316,E06000050,False
+uk_nocode,1998,4,19,sphere,600.0,Cromer,52.931448,1.301866,E07000147,False
+uk_nocode,1999,4,23,other,300.0,Barrow-In-Furness,54.108967,-3.218894,E06000064,False
+uk_nocode,2009,4,23,formation,300.0,Rothwell  (Uk/England,53.755477,-1.473462,E08000035,False
+uk_nocode,2007,4,21,,1800.0,Sidcup,51.426486,0.100939,LONDON,False
+uk_nocode,1996,4,19,light,3.0,Goose Eye,53.861582,-1.957718,E08000032,False
+uk_nocode,2005,4,16,other,1200.0,Sevastopol,44.61665,33.525367,,False
+uk_nocode,2001,4,23,unknown,15.0,Brendon,52.618183,-1.646937,E07000199,False
+uk_nocode,2007,4,20,sphere,45.0,Falkirk,55.863565,-4.222364,S12000049,False
+uk_nocode,2009,4,21,fireball,120.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,2007,4,22,triangle,2100.0,Dewsbury,53.689833,-1.629695,E08000034,False
+uk_nocode,2009,4,22,circle,120.0,N. Yorkshire,54.250359,-1.470855,E06000065,False
+uk_nocode,1999,4,23,circle,300.0,Buckfastleigh,50.481799,-3.779342,E07000045,False
+uk_nocode,2002,4,22,,5.0,Preston,53.763201,-2.70309,E07000123,False
+uk_nocode,2007,4,22,cigar,120.0,Jersey,49.214439,-2.13125,,False
+uk_nocode,2009,4,23,teardrop,46.0,Brough,53.729988,-0.573215,E06000011,False
+uk_nocode,2012,5,9,cigar,300.0,Carlisle Cumbria,54.892473,-2.932931,E06000063,False
+uk_nocode,2012,5,0,light,7200.0,Caradon,52.089803,-9.792584,,False
+uk_nocode,1994,5,3,disk,1500.0,Loughborough,52.772099,-1.206166,E07000130,False
+uk_nocode,2012,5,23,light,300.0,Bourmouth,50.719164,-1.880769,E06000058,False
+uk_nocode,2009,5,21,fireball,300.0,Kibworth,52.54,-0.99,E07000131,False
+uk_nocode,1998,5,22,triangle,60.0,Wimborne/Dorset,50.800657,-1.984495,E06000059,False
+uk_nocode,2006,5,20,triangle,10.0,Wirral,53.333333,-3.083333,E08000015,False
+uk_nocode,2001,5,18,formation,300.0,Knaresborough,54.011022,-1.47102,E06000065,False
+uk_nocode,2006,5,13,changing,1800.0,Bowland,53.962873,-2.745362,E07000121,False
+uk_nocode,2006,5,13,changing,7200.0,Accrington,53.753609,-2.37218,E07000120,False
+uk_nocode,2009,5,22,circle,180.0,Iochwinnoch,55.795808,-4.630246,S12000038,False
+uk_nocode,2000,5,23,formation,5400.0,Chadwell St Mary,51.481971,0.369876,E06000034,False
+uk_nocode,2006,5,15,circle,20.0,Blackburn,53.748575,-2.487529,E06000008,False
+uk_nocode,2008,5,0,light,25.0,Alton,51.150719,-0.973177,E07000085,False
+uk_nocode,2009,5,22,light,900.0,Torfaen,51.665267,-3.039754,W06000020,False
+uk_nocode,2009,5,20,unknown,1500.0,West Midlands,-19.055201,29.603549,,False
+uk_nocode,2003,5,23,light,600.0,Kingston-Upon-Hull,53.745671,-0.336741,E06000010,False
+uk_nocode,2005,5,22,light,10.0,Weymouth Dorset,50.614428,-2.457621,E06000059,False
+uk_nocode,2002,5,23,disk,1800.0,Exmouth,50.619957,-3.413702,E07000040,False
+uk_nocode,1987,5,2,light,5.0,Newgale Sands,51.856389,-5.126111,W06000009,False
+uk_nocode,2001,5,20,egg,180.0,Folkestone,51.081397,1.169456,E07000112,False
+uk_nocode,2013,5,22,teardrop,3.0,Leister,52.636878,-1.139759,E06000016,False
+uk_nocode,2006,6,3,light,5.0,Wednesbury,52.552888,-2.02208,E08000028,False
+uk_nocode,2009,6,17,sphere,300.0,Haydock,53.467175,-2.665882,E08000013,False
+uk_nocode,1943,6,19,cigar,600.0,Norfolk/Sizewell,36.850769,-76.285873,,False
+uk_nocode,1975,6,0,cigar,60.0,Rhondda Valley,51.616667,-3.416667,W06000016,False
+uk_nocode,1999,6,12,circle,60.0,Ramskate,51.335545,1.419895,E07000114,False
+uk_nocode,2013,6,3,light,60.0,Boston,52.97894,-0.026577,E07000136,False
+uk_nocode,1997,6,23,light,300.0,Frodsham/Northwich,53.27774,-2.664218,E06000050,False
+uk_nocode,2001,6,23,triangle,180.0,Trowbridge,51.319664,-2.208853,E06000054,False
+uk_nocode,1971,6,23,other,240.0,Castlefod,53.723466,-1.345968,E08000036,False
+uk_nocode,1977,6,3,disk,900.0,Chadwell St Mary,51.481971,0.369876,E06000034,False
+uk_nocode,1989,6,21,fireball,2.0,Kiev,50.4501,30.5234,,False
+uk_nocode,1990,6,16,circle,120.0,Nr Watford,51.650799,-0.388545,E07000103,False
+uk_nocode,1999,6,0,other,1200.0,Tauton,51.015344,-3.106849,E06000066,False
+uk_nocode,1998,6,2,other,300.0,Stainforth,53.594495,-1.030037,E08000017,False
+uk_nocode,2008,6,19,fireball,60.0,Swindon/Didcott,51.555774,-1.779718,E06000030,False
+uk_nocode,2008,6,16,unknown,8.0,Chawton,51.131258,-0.987425,E07000085,False
+uk_nocode,2009,6,23,teardrop,300.0,Newcastle-Under-Lyme,53.013208,-2.2273,E07000195,False
+uk_nocode,2005,6,23,chevron,600.0,Worcestet,42.262593,-71.802293,,False
+uk_nocode,2009,6,11,fireball,900.0,Wakefield/Barnsley,53.63004,-1.640632,E08000034,False
+uk_nocode,1999,6,23,cigar,180.0,Calne,51.43933,-2.003884,E06000054,False
+uk_nocode,2004,6,12,cylinder,900.0,Glastonbury Festival,51.15577,-2.61288,E06000066,False
+uk_nocode,2008,6,20,other,12.0,Chawton,51.131258,-0.987425,E07000085,False
+uk_nocode,2009,6,21,fireball,600.0,Walton-On-Thames,51.38847,-0.416969,E07000207,False
+uk_nocode,2005,6,20,circle,30.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,1997,6,23,unknown,180.0,Ballymoney,55.064948,-6.498239,N09000004,False
+uk_nocode,1994,6,0,circle,30.0,South London,51.508515,-0.125487,LONDON,False
+uk_nocode,2000,6,20,light,420.0,West Midlands,-19.055201,29.603549,,False
+uk_nocode,2004,6,3,other,25.0,Lytham St. Annes,53.756629,-3.021319,E07000119,False
+uk_nocode,2006,6,23,sphere,78.0,Castleford Nr Leeds,53.800755,-1.549077,E08000035,False
+uk_nocode,2009,6,16,sphere,3.0,Wells Hunstanton,52.938914,0.491032,E07000146,False
+uk_nocode,2010,6,0,circle,600.0,Kearsley/Bolton,53.574158,-2.425823,E08000001,False
+uk_nocode,2010,6,8,unknown,300.0,Axminister,50.782727,-2.994937,E07000040,False
+uk_nocode,2006,6,17,circle,900.0,Maidstone,51.270363,0.522699,E07000110,False
+uk_nocode,2013,6,23,disk,180.0,Jersey,49.216667,-2.1325,,False
+uk_nocode,2013,6,11,changing,1800.0,Westhill,57.155623,-2.277129,S12000034,False
+uk_nocode,2008,6,22,circle,60.0,Gloucester (Uk/England,51.864245,-2.238156,E07000081,False
+uk_nocode,2009,6,3,,3600.0,Stockton On Tees,54.570455,-1.328982,E06000004,False
+uk_nocode,1967,6,23,sphere,2400.0,Camelon,56.005278,-3.828352,S12000014,False
+uk_nocode,2008,6,21,,180.0,Sherston,51.58745,-2.115759,E06000054,False
+uk_nocode,2011,7,0,disk,59.0,Parkwood In Medway,51.348043,0.595732,E06000035,False
+uk_nocode,1966,7,14,other,1.0,Heathrow/London,51.470022,-0.454295,LONDON,False
+uk_nocode,2002,7,1,unknown,300.0,Newcastle-Upon-Tyne,54.978252,-1.61778,E08000021,False
+uk_nocode,1997,7,22,light,10.0,Sleaford,53.000308,-0.40965,E07000139,False
+uk_nocode,2003,7,19,oval,20.0,Helsby-Cheshire,53.273014,-2.769426,E06000050,False
+uk_nocode,2005,7,18,light,1.0,Jersey County,49.214439,-2.13125,,False
+uk_nocode,2006,7,15,sphere,900.0,Wirral,53.333333,-3.083333,E08000015,False
+uk_nocode,1996,7,15,triangle,600.0,New Leake,53.094602,0.093943,E07000137,False
+uk_nocode,2006,7,23,other,4.0,Chatham Maritime,41.703797,-69.980949,,False
+uk_nocode,2006,7,23,fireball,15.0,Leicestershre,52.740123,-1.140593,E07000130,False
+uk_nocode,1982,7,22,fireball,180.0,Bethesten,51.129299,0.754022,E07000105,False
+uk_nocode,1999,7,23,cone,30.0,Loughbrough,52.772099,-1.206166,E07000130,False
+uk_nocode,1999,7,13,teardrop,600.0,Bishipstone,50.790228,0.088627,E07000063,False
+uk_nocode,1998,7,0,cigar,90.0,Plymouth,50.375457,-4.142656,E06000026,False
+uk_nocode,2009,7,3,light,1800.0,Barrow-In-Furness,54.108967,-3.218894,E06000064,False
+uk_nocode,2012,7,22,circle,15.0,Burton On Trent,52.814028,-1.637136,E07000193,False
+uk_nocode,2007,7,23,oval,120.0,Hatfield Hertfordshire,51.763366,-0.22309,E07000241,False
+uk_nocode,2010,7,0,other,60.0,Windsor Great Park,51.424085,-0.617771,E06000040,False
+uk_nocode,2010,7,22,fireball,120.0,Fair Oak,50.965896,-1.298133,E07000086,False
+uk_nocode,2003,7,3,light,3600.0,East London,51.508515,-0.125487,LONDON,False
+uk_nocode,2001,7,0,circle,30.0,Lowestoft,52.481138,1.753449,E07000244,False
+uk_nocode,2009,7,6,light,60.0,Medlam,53.091516,-0.046423,E07000137,False
+uk_nocode,1983,7,14,other,4.0,Faibourne,52.696651,-4.054346,W06000002,False
+uk_nocode,2002,7,23,disk,5.0,Kirton Lindsey,53.477218,-0.593516,E06000013,False
+uk_nocode,1994,7,12,triangle,60.0,Zadariv,49.06,25.042778,,False
+uk_nocode,2007,7,2,cylinder,20.0,Furness,52.625072,-1.677155,E07000199,False
+uk_nocode,2008,7,21,light,1200.0,North London,51.507351,-0.127758,LONDON,False
+uk_nocode,2002,7,23,light,900.0,Shropham Norfolk,52.497193,0.918423,E07000143,False
+uk_nocode,2010,7,23,light,120.0,Stanmore,51.052986,-1.335218,E07000094,False
+uk_nocode,2008,7,19,circle,300.0,Rorherham,53.432604,-1.363501,E08000018,False
+uk_nocode,2008,7,22,light,3600.0,Northhampton,52.240477,-0.902656,E06000062,False
+uk_nocode,1994,7,7,rectangle,120.0,Nr Alton,51.14869,-0.9872,E07000085,False
+uk_nocode,2003,7,22,light,120.0,Warninglid Village,51.02081,-0.21921,E07000228,False
+uk_nocode,1961,8,18,cigar,50.0,Wendens Ambo/Essex,52.005152,0.201102,E07000077,False
+uk_nocode,2012,8,3,chevron,240.0,Stoke On Trent,53.002668,-2.179404,E06000021,False
+uk_nocode,1994,8,22,light,120.0,Lenzie,55.923579,-4.155641,S12000045,False
+uk_nocode,2000,8,22,light,5.0,Newcastle-Upon-Tyne,54.978252,-1.61778,E08000021,False
+uk_nocode,2002,8,22,chevron,6.0,Rayleigh  Essex,51.586385,0.604871,E07000075,False
+uk_nocode,1984,8,2,light,1800.0,Dorset Coast,50.632063,-2.367285,E06000059,False
+uk_nocode,1999,8,23,circle,14.0,Slough,51.508062,-0.541737,E06000039,False
+uk_nocode,1995,8,13,disk,600.0,Pidley,52.382246,-0.045715,E07000011,False
+uk_nocode,1999,8,23,circle,30.0,Newquay,50.415497,-5.073719,E06000052,False
+uk_nocode,2001,8,21,flash,900.0,Norwich,52.630886,1.297355,E07000148,False
+uk_nocode,2001,8,21,flash,900.0,Norwich,52.630886,1.297355,E07000148,False
+uk_nocode,2001,8,15,sphere,120.0,Co.Durham,54.683638,-1.820177,E06000047,False
+uk_nocode,2003,8,22,triangle,15.0,Swanwick/Derbyshire,53.075394,-1.39816,E07000032,False
+uk_nocode,2008,8,21,light,480.0,London East,51.507351,-0.127758,LONDON,False
+uk_nocode,1997,8,20,circle,7200.0,Countryside/Rural,49.941356,-97.032443,,False
+uk_nocode,2000,8,23,light,5.0,Widdrington/Morpeth,55.256549,-1.599918,E06000057,False
+uk_nocode,2002,8,1,unknown,180.0,Koblevo,46.660278,31.207222,,False
+uk_nocode,2009,8,18,circle,15.0,Maidstone,51.270363,0.522699,E07000110,False
+uk_nocode,2009,8,21,diamond,120.0,Bagshot  Surrey,51.360343,-0.697894,E07000214,False
+uk_nocode,1997,8,22,changing,1800.0,South Normanton,53.108169,-1.340708,E07000033,False
+uk_nocode,2001,8,23,other,3000.0,Bridgewater,40.623333,-74.601111,,False
+uk_nocode,2008,8,21,light,120.0,Colwynbay,53.293182,-3.72764,W06000003,False
+uk_nocode,2004,8,22,light,120.0,Stacksteads,53.69147,-2.236136,E07000125,False
+uk_nocode,2012,8,22,unknown,30.0,Sundrland,54.906869,-1.383801,E08000024,False
+uk_nocode,2005,8,14,cylinder,600.0,Bristol,51.454513,-2.58791,E06000023,False
+uk_nocode,2005,8,21,light,2700.0,West Midlands,-19.055201,29.603549,,False
+uk_nocode,2005,8,20,fireball,1440.0,Wiltshire,51.356863,-1.849501,E06000054,False
+uk_nocode,2002,8,21,light,2700.0,Shropham Norfolk,52.497193,0.918423,E07000143,False
+uk_nocode,1979,8,22,disk,15.0,Leeds,53.800755,-1.549077,E08000035,False
+uk_nocode,2006,8,22,circle,300.0,Dalton-In-Furness,54.156887,-3.1782,E06000064,False
+uk_nocode,2003,8,15,circle,300.0,Wiltshire-Stonehenge,51.178882,-1.826215,E06000054,False
+uk_nocode,1954,8,16,disk,300.0,Ferndown-Bournemouth,50.820142,-1.878766,E06000059,False
+uk_nocode,2004,8,22,flash,1200.0,Newcastle/Alwick,55.009962,-1.628304,E08000021,False
+uk_nocode,2000,8,3,triangle,10.0,North Tyneside,55.008,-1.546,E08000022,False
+uk_nocode,2000,8,0,fireball,900.0,Shropham Norfolk,52.497193,0.918423,E07000143,False
+uk_nocode,2002,8,22,light,7200.0,Bridgewater,40.623333,-74.601111,,False
+uk_nocode,2011,8,2,formation,120.0,Isle Of Bute,55.833333,-5.1,S12000035,False
+uk_nocode,2000,8,5,fireball,300.0,Shropham Norfolk,52.497193,0.918423,E07000143,False
+uk_nocode,2001,8,23,teardrop,300.0,Tidworth,51.241449,-1.664482,E06000054,False
+uk_nocode,2007,8,1,unknown,600.0,Sharldlow,52.869581,-1.356184,E07000039,False
+uk_nocode,2009,8,9,light,600.0,Little Braxted,51.783391,0.682155,E07000074,False
+uk_nocode,1974,8,13,cylinder,300.0,Boughton,51.293633,0.95751,E07000113,False
+uk_nocode,1999,8,2,light,105.0,Bishop Auckland,54.663822,-1.678788,E06000047,False
+uk_nocode,2007,8,15,circle,240.0,Dorking,51.232202,-0.332378,E07000210,False
+uk_nocode,2003,8,23,flash,1.0,Earl Shilton,52.574738,-1.323133,E07000132,False
+uk_nocode,2007,8,0,light,300.0,Lowestoft,52.481138,1.753449,E07000244,False
+uk_nocode,2007,8,21,light,60.0,Chawton,51.131258,-0.987425,E07000085,False
+uk_nocode,2007,8,22,fireball,60.0,Coventry Area,38.985337,-94.6333,,False
+uk_nocode,2013,8,23,light,420.0,Staines Upon Thames,51.43148,-0.515525,E07000212,False
+uk_nocode,1998,8,23,circle,3.0,Polzeth,50.573134,-4.915697,E06000052,False
+uk_nocode,1991,8,23,sphere,15.0,Walesby,53.23161,-0.982436,E07000175,False
+uk_nocode,1999,8,12,other,1800.0,Crewe/Cheshire,53.100405,-2.443821,E06000049,False
+uk_nocode,2009,8,22,light,1200.0,Hayle,50.185467,-5.42091,E06000052,False
+uk_nocode,1999,9,0,light,8.0,Hemsby,52.695889,1.684487,E07000145,False
+uk_nocode,2000,9,19,cigar,60.0,Bradford/Baildon Moor,53.865778,-1.770318,E08000032,False
+uk_nocode,2005,9,0,circle,600.0,Upshire Essex,51.691782,0.049593,E07000072,False
+uk_nocode,1999,9,23,light,300.0,Kilmarnock,55.614719,-4.498792,S12000008,False
+uk_nocode,1999,9,23,light,300.0,Kilmarnock,55.614719,-4.498792,S12000008,False
+uk_nocode,2008,9,21,light,300.0,Manchester (Uk/England,53.479324,-2.248485,E08000003,False
+uk_nocode,2009,9,21,fireball,10.0,Kiev,50.4501,30.5234,,False
+uk_nocode,1998,9,19,triangle,120.0,Dartford Tunnel,51.464869,0.257776,E07000107,False
+uk_nocode,2007,9,20,other,60.0,Beech,44.308556,-84.763429,,False
+uk_nocode,2004,9,4,light,1800.0,South Wirral,53.264958,-2.934265,E06000050,False
+uk_nocode,2006,9,0,,3600.0,Crimea ),44.952117,34.102417,,False
+uk_nocode,2009,9,22,,900.0,Henley-In-Arden,52.292549,-1.779866,E07000221,False
+uk_nocode,2007,9,20,light,360.0,Somerset K,37.092022,-84.604108,,False
+uk_nocode,1994,9,23,triangle,20.0,Huntingdon,52.33146,-0.182552,E07000011,False
+uk_nocode,2007,9,4,circle,120.0,North Bristol,51.454513,-2.58791,E06000023,False
+uk_nocode,2007,9,14,circle,8.0,Milon Keynes,52.040622,-0.759417,E06000042,False
+uk_nocode,1976,9,20,other,20.0,Llanelli,51.930053,-4.899965,W06000009,False
+uk_nocode,1978,9,21,triangle,600.0,Wootton Bridge,50.72628,-1.232089,E06000046,False
+uk_nocode,2002,9,21,diamond,15.0,Coventry/Warwick,52.406822,-1.519693,E08000026,False
+uk_nocode,2007,9,20,unknown,20.0,Weston Super Mare,51.347405,-2.977255,E06000024,False
+uk_nocode,2005,9,1,flash,5.0,Liverpool/Bootle,53.443438,-3.005946,E08000014,False
+uk_nocode,2009,9,17,changing,2700.0,Hatfield,51.763366,-0.22309,E07000241,False
+uk_nocode,2008,9,21,circle,7200.0,Wadebridge,50.516654,-4.836456,E06000052,False
+uk_nocode,2009,9,18,circle,120.0,Mulbarton,52.564165,1.233985,E07000149,False
+uk_nocode,1984,9,21,triangle,5.0,Hinton Blewitt,51.311481,-2.584514,E06000022,False
+uk_nocode,2003,9,21,other,20.0,Oldham,53.544546,-2.118732,E08000004,False
+uk_nocode,2007,9,20,light,240.0,Llangollen & Wrexham,52.931656,-3.056637,W06000006,False
+uk_nocode,1971,9,22,oval,900.0,Worthing,50.81787,-0.372882,E07000229,False
+uk_nocode,2004,9,6,other,30.0,M4,51.512545,-2.144256,E06000054,False
+uk_nocode,2007,9,21,light,300.0,Newcastle-Upon-Tyne,54.978252,-1.61778,E08000021,False
+uk_nocode,1988,9,14,circle,6.0,Polpero,50.331614,-4.51699,E06000052,False
+uk_nocode,1999,9,0,light,120.0,Wilberfoss,53.951048,-0.884723,E06000011,False
+uk_nocode,2006,9,22,other,30.0,Glasgow/Rutherglen,55.828972,-4.224269,S12000029,False
+uk_nocode,2009,9,18,other,45.0,Elstree And Borehamwood,51.656756,-0.277856,E07000098,False
+uk_nocode,2003,9,21,unknown,5.0,Blackburn,53.748575,-2.487529,E06000008,False
+uk_nocode,2008,9,21,unknown,60.0,Morde,51.394943,-0.19446,LONDON,False
+uk_nocode,2009,9,20,triangle,600.0,Stockton On Tees,54.570455,-1.328982,E06000004,False
+uk_nocode,2008,9,19,unknown,300.0,Morden,51.394943,-0.19446,LONDON,False
+uk_nocode,2006,9,20,diamond,30.0,Winter Hill ),42.390801,-71.095831,,False
+uk_nocode,1999,9,23,,40.0,Newcastle-Upon-Tyne,54.978252,-1.61778,E08000021,False
+uk_nocode,2009,9,19,light,1200.0,Bury St. Edmunds,52.244384,0.716356,E07000245,False
+uk_nocode,2007,9,19,light,120.0,Lowestoft,52.481138,1.753449,E07000244,False
+uk_nocode,2001,9,21,unknown,30.0,St. Annes,40.360891,-80.029338,,False
+uk_nocode,2006,9,22,circle,600.0,Yatton,51.388168,-2.822503,E06000024,False
