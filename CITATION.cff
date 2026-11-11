@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "UFOs, Big Cats and Nessie: Testing Ordinary Explanations for Where and When People in the United Kingdom Report Anomalous Sightings"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24115202"
+url: "https://maps.tristanhotham.com/ufos-cats-nessie/"
+repository-code: "https://github.com/Tristan-Hotham/ufos-cats-nessie"
+license: CC-BY-4.0
+keywords:
+  - "UFO reports"
+  - "Loch Ness Monster"
+  - "big cats"
+  - "anomalous sightings"
+  - "reporting bias"
+  - "freedom of information"
+  - "folklore"
+  - "United Kingdom"
